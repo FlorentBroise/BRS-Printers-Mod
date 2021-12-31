@@ -1,8 +1,8 @@
 
-# Welcome to the BRS-Engineering Vcore upgrades project!
+# Welcome to the BRS-Engineering printers upgrades project!
 ![alt text](/image/logo2.png)
 
-**What is done here?**  The main objective here is to develop relevants upgrades to push the Vcore to the limit we choose to 
+**What is done here?**  The main objective here is to develop relevants upgrades to push the  3D printer to the limit we choose to 
 
 ## Quick Navigation
 
