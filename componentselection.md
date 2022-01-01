@@ -6,10 +6,10 @@ High precision Z system with anti-wobble system
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|[F3D](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BRS-BS-v1.6-400.f3d) [STEP](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BRS-BS-v1-6-400.zip)| [Link](https://www.thingiverse.com/thing:4978199)
+**V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
-**V1.70 Heavy Duty**|![alt text](/image/heavy.png)<br> SFU1605 Ballscrews and wobble rings For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
+**V2.0 Heavy Duty**|![alt text](/image/heavy.png)<br> SFU1204 Ballscrews and wobble rings For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
 
 
 ## 2. UltraLight Gantry XY
