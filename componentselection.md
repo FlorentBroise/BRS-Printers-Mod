@@ -56,7 +56,7 @@ Here few tiny upgrades
 Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
 **STB-V1.0**|![alt text](/image/Bracket.png)<br> Replacment reinforced part to equilibrate load on the NEMA and reduce precessions and wear potentials, needs a 625ZZ bearing and a 1mm shim (WORK AND TESTED with LDO and std RR pulley, Gates pulley and E3D motors)|16/11/21|[3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/cad/Bracket.3mf)
-**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[L 3MF](https://github.com/FlorentBroise/RBRS-Printers-Mod/cad/Bracket.3mf) [R 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/cad/BracketR.zip)
+**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[L 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/cad/Bracket.3mf) [R 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/cad/BracketR.zip)
 
 2/ Shoulder-bolt mod precision parts
 
