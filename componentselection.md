@@ -56,13 +56,13 @@ Here few tiny upgrades
 Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
 **STB-V1.0**|![alt text](/image/Bracket.png)<br> Replacment reinforced part to equilibrate load on the NEMA and reduce precessions and wear potentials, needs a 625ZZ bearing and a 1mm shim (WORK AND TESTED with LDO and std RR pulley, Gates pulley and E3D motors)|16/11/21|[3MF](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/Bracket.3mf)
-**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[L 3MF](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/Bracket.3mf) [R 3MF](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/BracketR.zip)
+**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[L 3MF](https://github.com/FlorentBroise/RBRS-Printers-Mod/raw/main/cad/Bracket.3mf) [R 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BracketR.zip)
 
 2/ Shoulder-bolt mod precision parts
 
 Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
-**SBS-V1.0**|![alt text](/image/shoulder.png)<br> Replacement parts to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because of the perfect fit to idlers and pulleys. Needs a 625ZZ bearing and a 1mm shim, x6 35mm M4-D5 shoulder bolts, 4 M4 brass inserts (5.6x8.1mm), Loctite Threadlocker|15/12/2021 | [TopL](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/Idler-left.3mf) [IdlerL](https://github.com/FlorentBroise/RatRig-Upgrades/raw/main/cad/Idler-right.3mf)
+**SBS-V1.0**|![alt text](/image/shoulder.png)<br> Replacement parts to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because of the perfect fit to idlers and pulleys. Needs a 625ZZ bearing and a 1mm shim, x6 35mm M4-D5 shoulder bolts, 4 M4 brass inserts (5.6x8.1mm), Loctite Threadlocker|15/12/2021 | [TopL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroiseBRS-Printers-Mod/raw/main/cad/Idler-left.3mf) [IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-right.3mf)
 
 
 [Back to Main Page](/readme.md)
