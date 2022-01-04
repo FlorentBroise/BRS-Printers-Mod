@@ -27,8 +27,9 @@ click the button here below :)
 <img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-This project and all subparts are licensed as
+Most projects and designs are licensed as
 ![alt text](/image/licenses.png)
+For others, the licence and attribution will be displayed
 
 Thank you!
 Florent
