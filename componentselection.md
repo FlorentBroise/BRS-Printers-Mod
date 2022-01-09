@@ -11,13 +11,19 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V2.0 Heavy Duty**|![alt text](/image/heavy.png)<br> SFU1204 Ballscrews and wobble rings For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
 
+## 1. Z Antiwobble rings
+Wings Evolution  
+
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|------------
+**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate           |09/11/22|| [Link](https://www.thingiverse.com/thing:5193544)
 
 ## 2. UltraLight Gantry XY
 Choose your weapon wisely ;)
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**v2.6**|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Dec 2021|
+**v2.6**|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
 **v2.7**| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 
 
