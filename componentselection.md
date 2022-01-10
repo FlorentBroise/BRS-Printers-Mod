@@ -13,7 +13,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 
 ## 2. Bottom plate DXF
 For Z upgrade 
-Version|Description|ReleaseDate|DXF|
+Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf)
 
