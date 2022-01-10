@@ -11,14 +11,21 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V2.0 Heavy Duty**|![alt text](/image/heavy.png)<br> SFU1204 Ballscrews and wobble rings For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
 
-## 1. Z Antiwobble rings
+## 2. Bottom plate DXF
+For Z upgrade 
+Version|Description|ReleaseDate|DXF
+-------------|-----------|-----------|-----------|------------
+**V2-400**|![alt text](/image/plate.png)<br> More precise, more accurate           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf)
+
+
+## 3. Z Antiwobble rings
 Wings Evolution  
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate           |09/11/22|| [Link](https://www.thingiverse.com/thing:5193544)
+**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate           |09/01/22|| [Link](https://www.thingiverse.com/thing:5193544)
 
-## 2. UltraLight Gantry XY
+## 4. UltraLight Gantry XY
 Choose your weapon wisely ;)
 
 Version|Description|ReleaseDate|CAD|Thingiverse
@@ -28,14 +35,14 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 
 
 
-## 3. BRSVS High volume cooling solution
+## 5. BRSVS High volume cooling solution
 High CFM Laminar cooling solution to remove fans from the head, giving more cooling power (PLA) and less weight for the toolhead
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 1.2b|![alt text](/image/BRSVS1.png) ![alt text](/image/license.png)<br> |30 Nov 2021| [CAD and Instructions](https://github.com/FlorentBroise/RatRig-Upgrades/blob/main/BRSVS.md)
 
-## 4. The Flathead Ecosystem
+## 6. The Flathead Ecosystem
 A toolhead where the hotend can be swapped at will, within 30sec, without loosing belt tension, and get versatility to adapt your needs in materials!
 1/ Toolhead
 Version|Description|ReleaseDate|CAD|Thingiverse
@@ -54,7 +61,7 @@ Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Toolboard**|| A PCB part to deliver a full modularity| <br>|Jan 2022|
 
-## 5. Extra-upgrades
+## 7. Extra-upgrades
 Here few tiny upgrades
 
 1/ Reinforced Motor bracket mod with bearing
