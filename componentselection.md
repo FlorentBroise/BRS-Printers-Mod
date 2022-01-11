@@ -19,12 +19,11 @@ Version|Description|ReleaseDate|-|DXF
 
 
 
-## 3. Z Antiwobble rings
-Wings Evolution  
+## 3. Z axis Oldham Join
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate, Heavy middle rings designed with PA6CF in 2 parts and screws to hold them tight, Low capacity of bending under the pressure points of the balls     ![alt text](/image/by.png)      |09/01/22|| [Link](https://www.thingiverse.com/thing:5193544)
+**V2.1**|<br> A Oldham kinematic design, More precise, more accurate.     ![alt text](/license/by.png)      |15/01/22|| [Link] SOON :)
 
 ## 4. UltraLight Gantry XY
 Choose your weapon wisely ;)
@@ -87,6 +86,5 @@ Credits: Here few people who I want to thank, for inspiring reasons, constructiv
 -Liam Venter
 -Pawel Kucmus (EVA)
 -Keegan Wentz
--EvoMotors (Oleg Ok)
 
 [Back to Main Page](/readme.md)
