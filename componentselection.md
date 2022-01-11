@@ -77,5 +77,16 @@ Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
 **SBS-V1.0**|![alt text](/image/shoulder.png)<br> Replacement parts to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because of the perfect fit to idlers and pulleys. Needs a 625ZZ bearing and a 1mm shim, x6 35mm M4-D5 shoulder bolts, 4 M4 brass inserts (5.6x8.1mm), Loctite Threadlocker|15/12/2021 | [TopL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-L.3mf) [IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-R.3mf)
 
+Credits: Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
+
+-Olivier Royer-Tardif (Hevort)
+-Simon Vez (VzBot)
+-John Beima
+-Jerôme Wiedemann
+-Liam Venter
+-Pawel Kucmus (EVA)
+-Keegan Wentz
+-Oleg Ok
+-EvoMotors
 
 [Back to Main Page](/readme.md)
