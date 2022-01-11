@@ -15,7 +15,8 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 For Z upgrade 
 Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
-**V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf)
+**V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
+
 
 
 ## 3. Z Antiwobble rings
@@ -86,7 +87,6 @@ Credits: Here few people who I want to thank, for inspiring reasons, constructiv
 -Liam Venter
 -Pawel Kucmus (EVA)
 -Keegan Wentz
--Oleg Ok
--EvoMotors
+-EvoMotors (Oleg Ok)
 
 [Back to Main Page](/readme.md)
