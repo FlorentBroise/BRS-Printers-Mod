@@ -23,7 +23,7 @@ Version|Description|ReleaseDate|-|DXF
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.1**|<br> A Oldham kinematic design, More precise, more accurate.     ![alt text](/image/license.png)       |15/01/22|| [Link] SOON :)
+**V2.2**|<br> A Oldham kinematic design, More precise, more accurate.     ![alt text](/image/license.png)       |15/01/22|| [Link] SOON :)
 
 ## 4. UltraLight Gantry XY
 Choose your weapon wisely ;)
