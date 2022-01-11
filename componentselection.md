@@ -23,7 +23,7 @@ Wings Evolution
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate           |09/01/22|| [Link](https://www.thingiverse.com/thing:5193544)
+**V2.1**|![alt text](/image/ring.png)<br> More precise, more accurate     ![alt text](/image/by.png)      |09/01/22|| [Link](https://www.thingiverse.com/thing:5193544)
 
 ## 4. UltraLight Gantry XY
 Choose your weapon wisely ;)
