@@ -92,4 +92,6 @@ Credits: Here few people who I want to thank, for inspiring reasons, constructiv
 -Pawel Kucmus (EVA)
 -Keegan Wentz
 
+More extensive credit can be found here: https://www.brs-engineering.com https://www.brs-engineering.com/Oldham.html
+
 [Back to Main Page](/readme.md)
