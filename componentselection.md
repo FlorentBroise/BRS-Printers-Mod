@@ -6,10 +6,16 @@ High precision Z system with anti-wobble system
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|| [Link](https://www.thingiverse.com/thing:4978199)
+**V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V2.0 Heavy Duty**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
+
+## 1.1 Ballscrew arms for Vcore 3
+
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|------------
+**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
 
 ## 2. Bottom plate DXF
 For Z upgrade 
@@ -17,11 +23,6 @@ Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
-## 1.1 Ballscrew arms for Vcore 3
-
-Version|Description|ReleaseDate|CAD|Thingiverse
--------------|-----------|-----------|-----------|------------
-**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
 
 ## 3. Z axis Oldham Join
 
