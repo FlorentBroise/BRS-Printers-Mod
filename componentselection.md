@@ -21,7 +21,7 @@ Version|Description|ReleaseDate|-|DXF
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/licenseSA.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
+**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
 
 ## 3. Z axis Oldham Join
 
