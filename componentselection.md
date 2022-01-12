@@ -9,7 +9,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 **V1.6**|![alt text](/image/Complete.png)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
-**V2.0 Heavy Duty**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and wobble rings For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
+**V2.0 Heavy Duty**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|Jan 22|Jan 22| To come
 
 ## 2. Bottom plate DXF
 For Z upgrade 
