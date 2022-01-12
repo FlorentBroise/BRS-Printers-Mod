@@ -17,7 +17,11 @@ Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
+## 1.1 Ballscrew arms for Vcore 3
 
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|------------
+**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/licenseSA.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
 
 ## 3. Z axis Oldham Join
 
