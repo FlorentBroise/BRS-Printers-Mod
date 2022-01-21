@@ -21,13 +21,14 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 For Z upgrade 
 Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
-**V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22|| [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
+**V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22||[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
 
 ## 3. Z axis Oldham Join
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
+**V2.1**|![alt text](/image/oldham4.png)<br> A Oldham kinematic design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link] Soon (on demand)
 **V2.2**|![alt text](/image/oldham3.png)<br> A Oldham kinematic design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |11/01/22|| [Link] https://www.thingiverse.com/thing:5196409
 
 ## 4. UltraLight Gantry XY
@@ -91,6 +92,7 @@ Credits: Here few people who I want to thank, for inspiring reasons, constructiv
 -Liam Venter
 -Pawel Kucmus (EVA)
 -Keegan Wentz
+-Oleg Ok
 
 More extensive credit can be found here: https://www.brs-engineering.com https://www.brs-engineering.com/Oldham.html
 
