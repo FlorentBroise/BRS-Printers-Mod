@@ -28,8 +28,8 @@ Version|Description|ReleaseDate|-|DXF
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.1**|![alt text](/image/oldham4.png)<br> A Oldham kinematic design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link] Soon (on demand)
-**V2.2**|![alt text](/image/oldham3.png)<br> A Oldham kinematic design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |11/01/22|| [Link] https://www.thingiverse.com/thing:5196409
+**V2.2a**|![alt text]<br> A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link] (on demand)
+**V2.2b**|![alt text](/image/oldham3.png)<br> A Oldham kinematic design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |11/01/22|| [Link] https://www.thingiverse.com/thing:5196409
 
 ## 4. UltraLight Gantry XY
 Choose your weapon wisely ;)
