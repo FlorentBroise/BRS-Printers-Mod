@@ -86,7 +86,7 @@ Version|Description|ReleaseDate|CAD
 
 Version|Description|ReleaseDate|Thingiverse
 -------------|-----------|-----------|-----------
-**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 | [Files](soon) 
+**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 | [Files](https://www.thingiverse.com/thing:5224731) 
 
 
 Credits: Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
