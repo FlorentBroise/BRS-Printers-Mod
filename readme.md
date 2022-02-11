@@ -14,6 +14,7 @@ Intro.|[What is done here?](/intro.md)
 4.|[BOM](/purchased.md)
 5.|[How to Print your Parts](/howtoprint.md)
 6.|[Assembly Instructions](/assembly.md)
+7.|[Procedures](/procedures.md)
 
 
  
