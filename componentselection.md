@@ -65,7 +65,7 @@ Carbon fiber and titanium based head| <br>|Nov 2021|
 
 v-b0.2 (IN PROGRESS)
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
-1/ Toolhead
+
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head| <br>|March 2022|
