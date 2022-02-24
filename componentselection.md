@@ -34,11 +34,12 @@ Version|Description|ReleaseDate|CAD|Files
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**v2.6**(DEPRECATED)|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
+**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
+**vb3.1**(IN PROGRESS)|![alt text](/image/gantry2.png) !!This product is under CC BY-SA Licence!! <br> |MARCH 2022|
 
 
-
+3
 ## 5. BRSVS High volume cooling solution
 High CFM Laminar cooling solution to remove fans from the head, giving more cooling power (PLA) and less weight for the toolhead
 
@@ -67,7 +68,7 @@ A ultralight mosquito based toolhead, with Crystal geometric shroud face
 1/ Toolhead
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.png)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head| <br>|March 2022|
+**V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head| <br>|March 2022|
 
 2/Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
