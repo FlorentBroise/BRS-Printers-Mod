@@ -24,19 +24,18 @@ Version|Description|ReleaseDate|-|DXF
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22||[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
 
-## 3. Z axis Oldham Join
+## 3. Z axis Oldham Join ( New Revision from the December 2021)
+
+Version|Description|ReleaseDate|CAD|Files
+-------------|-----------|-----------|-----------|------------
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
+
+## 4. UltraLight Gantry XY 
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V2.2a**|<br> A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link] (on demand)
-
-## 4. UltraLight Gantry XY
-Choose your weapon wisely ;)
-
-Version|Description|ReleaseDate|CAD|Thingiverse
--------------|-----------|-----------|-----------|------------
-**v2.6**|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
-**v2.7**| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
+**v2.6**(DEPRECATED)|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
+**v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 
 
 
@@ -47,21 +46,30 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 1.2b|![alt text](/image/BRSVS1.png) ![alt text](/image/license.png)<br> |30 Nov 2021| [CAD and Instructions](https://github.com/FlorentBroise/RatRig-Upgrades/blob/main/BRSVS.md)
 
-## 6. The Flathead Ecosystem
+## 6. The Flathead
+
+v-a0.1 Ecosystem (DEPRECATED)
 A toolhead where the hotend can be swapped at will, within 30sec, without loosing belt tension, and get versatility to adapt your needs in materials!
 1/ Toolhead
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V0.1-Hextrudort**|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project
+**V0.1-Hextrudort**(DEPRECATED)|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project
 Carbon fiber and titanium based head| <br>|Nov 2021|
-**V1.1-LGX Mosquito**|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.2-LGX-Lite Mosquito|![alt text](/image/flathead3.png)![alt text](/image/license.png)| LGX-lite, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX V6|![alt text](/image/license.png)| LGX, E3D V6, Carbon fiber PA12 and titanium based head| <br>|2022|
-**V1.1-LGX Nova|![alt text](/image/nova.png)| LGX, Nova, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX Takoto|![alt text](/image/takoto.png)| LGX, Takoto, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX Dragon|![alt text](/image/license.png)| LGX, Dragon, Carbon fiber PA12 and titanium based head| <br>|2022|
+**V1.1-LGX Mosquito**(DEPRECATED)|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.2-LGX-Lite Mosquito(DEPRECATED)|![alt text](/image/flathead3.png)![alt text](/image/license.png)| LGX-lite, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.1-LGX V6 (DEPRECATED)|![alt text](/image/license.png)| LGX, E3D V6, Carbon fiber PA12 and titanium based head| <br>|2022|
+**V1.1-LGX Nova (DEPRECATED)|![alt text](/image/nova.png)| LGX, Nova, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.1-LGX Takoto (DEPRECATED)|![alt text](/image/takoto.png)| LGX, Takoto, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.1-LGX Dragon (DEPRECATED)|![alt text](/image/license.png)| LGX, Dragon, Carbon fiber PA12 and titanium based head| <br>|2022|
 
-2/Toolboard
+v-b0.2 (IN PROGRESS)
+A ultralight mosquito based toolhead, with Crystal geometric shroud face
+1/ Toolhead
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|------------
+**V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.png)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head| <br>|March 2022|
+
+2/Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Toolboard**|| A PCB part to deliver a full modularity| <br>|Jan 2022|
