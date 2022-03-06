@@ -26,7 +26,7 @@ Version|Description|ReleaseDate|-|DXF
 For BRS-CF80
 Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
-**V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80           |06/03/22||[500](to do) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
+**V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80           |06/03/22||[500 with corner](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplat500stock.dxf) [400 cornerless](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
 
 
 ## 3. Z axis Oldham Join ( New Revision from the December 2021)
