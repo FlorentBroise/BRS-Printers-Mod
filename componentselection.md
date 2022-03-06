@@ -11,11 +11,17 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V2.0 Heavy Duty**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
 
-## 1.1 Ballscrew arms for Vcore 3
+## 1.1 Ballscrew arms for Vcore 3 (Oldham version)
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
+
+## 1.2 Ballscrew arms for Vcore 3 (Wings Version)
+
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|------------
+**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)
 
 ## 2.1 Bottom plate DXF
 For Z upgrade 
