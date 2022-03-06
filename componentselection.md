@@ -39,9 +39,9 @@ Version|Description|ReleaseDate|CAD|Files
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) !!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
+**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few month 3!!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
-**vb3.1**(IN PROGRESS)|![alt text](/image/gantry2.png) !!This product is under CC BY-SA Licence!! <br> |MARCH 2022|
+**vb3.1**(IN PROGRESS)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! <br> |MARCH 2022|
 
 
 3
