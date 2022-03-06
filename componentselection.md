@@ -60,7 +60,7 @@ A toolhead where the hotend can be swapped at will, within 30sec, without loosin
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Hextrudort**(DEPRECATED)|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project
-Carbon fiber and titanium based head| <br>|Nov 2021|
+Carbon fiber and titanium based head, tagged as deprecated because of the compatibility with only the Light gantry va2.6. Technically Fonctionnal and adaptable, CAD will release soon 3| <br>|Nov 2021|
 **V1.1-LGX Mosquito**(DEPRECATED)|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
 **V1.2-LGX-Lite Mosquito(DEPRECATED)|![alt text](/image/flathead3.png)![alt text](/image/license.png)| LGX-lite, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
 **V1.1-LGX V6 (DEPRECATED)|![alt text](/image/license.png)| LGX, E3D V6, Carbon fiber PA12 and titanium based head| <br>|2022|
