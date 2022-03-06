@@ -17,11 +17,16 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
 
-## 2. Bottom plate DXF
+## 2.1 Bottom plate DXF
 For Z upgrade 
 Version|Description|ReleaseDate|-|DXF
 -------------|-----------|-----------|-----------|------------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade           |10/01/22||[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
+## 2.2 Lid Backplate 
+For BRS-CF80
+Version|Description|ReleaseDate|-|DXF
+-------------|-----------|-----------|-----------|------------
+**V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80           |06/03/22||[500](to do) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
 
 
 ## 3. Z axis Oldham Join ( New Revision from the December 2021)
