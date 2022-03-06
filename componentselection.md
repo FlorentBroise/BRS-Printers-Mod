@@ -6,7 +6,7 @@ High precision Z system with anti-wobble system
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|| [Link](https://www.thingiverse.com/thing:4978199)
+**V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199)
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Link](https://www.thingiverse.com/thing:4978199)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V2.0 Heavy Duty**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
@@ -39,7 +39,7 @@ Version|Description|ReleaseDate|-|DXF
 
 Version|Description|ReleaseDate|CAD|Files
 -------------|-----------|-----------|-----------|------------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22|| [Link](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22||[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
 
 ## 4. UltraLight Gantry XY 
 
@@ -104,9 +104,9 @@ Version|Description|ReleaseDate|CAD
 
 3/ BRS-CF80 Filtration Solution
 
-Version|Description|ReleaseDate|Thingiverse
--------------|-----------|-----------|-----------
-**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 | [Files](https://www.thingiverse.com/thing:5224731) 
+Version|Description|ReleaseDate|CAD|Thingiverse
+-------------|-----------|-----------|-----------|-----------
+**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing) | [STL](https://www.thingiverse.com/thing:5224731) 
 
 
 Credits: Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
