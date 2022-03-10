@@ -47,10 +47,9 @@ Version|Description|ReleaseDate|CAD|Files
 -------------|-----------|-----------|-----------|------------
 **va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few month 3!!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
-**vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) | [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CF Gantry V2.zip)
+**vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)
 
 
-3
 ## 5. BRSVS High volume cooling solution
 High CFM Laminar cooling solution to remove fans from the head, giving more cooling power (PLA) and less weight for the toolhead
 
