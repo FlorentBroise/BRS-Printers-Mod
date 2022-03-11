@@ -7,7 +7,7 @@ High precision Z system with anti-wobble system
 Version|Description|ReleaseDate|CAD|Thingiverse|Documentation
 -------------|-----------|-----------|-----------|------------|------------
 **V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199)
-**V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Link](https://www.thingiverse.com/thing:4978199)
+**V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)
 **V2.0 Heavy Duty-STANDBY**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
