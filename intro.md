@@ -11,8 +11,8 @@ https://www.brs-engineering.com/
 
 ### Licence?
 
-This upgrade is part of the Creative commons CC BY-NC 4.0, All rights are exclusive to Florent BROISE / BRS-TECH.
+Those upgrades are for most of them part of the Creative commons CC BY-NC 4.0, All rights are exclusive to Florent BROISE / BRS-TECH.
 Modifications are possible but don't forget this was designed this way for reasons, I'm not responsible of a bad redesign by others. If modifications are needed, you can submit it to contact@brs-engineering.com
-For a request concerning a particular case, only Florent BROISE / BRS-TECH can agree to a derogation.
+For a request concerning a particular case for commercial use, only Florent BROISE / BRS-TECH can agree to a derogation. Feel free to ask :)
 
 [Back to Main Page](/readme.md)
