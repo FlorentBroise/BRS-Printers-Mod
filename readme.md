@@ -19,16 +19,10 @@ Intro.|[What is done here?](/intro.md)
 9.|[EVA Mods](/evamods.md)
 
 
- 
-
-If you like my work and would like to help me covering the costs associated to the development and improvement of this project, <br>
+If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, <br>
 click the button here below :)
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="Y63W7FTHG4AK4" />
-<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Bouton Faites un don avec PayPal" />
-<img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[Paypal Donation](https://paypal.me/BRSTech?country.x=FR&locale.x=fr_FR)
 
 Most projects and designs are licensed as
 ![alt text](/image/licenses.png)
