@@ -15,7 +15,7 @@ Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check th
 ## 3. Adjusting belts tensions.
 Section|Setting|Recommended Value|Comment
 -------|-------|-----------------|-------
-Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](/manuals/belt.pdf)|[Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
+Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](/manuals/belt.pdf)|[Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum&hl=fr&gl=US)
 
 ## 4. Octogone Calibration for XY
 Objective|Setting|Comments|Link
