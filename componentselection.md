@@ -79,11 +79,12 @@ Carbon fiber and titanium based head, tagged as deprecated because of the compat
 v-b0.2 (IN PROGRESS)
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
 
-**V0.2-Hextrudort**|![alt text](/image/BRSh.png)| Based on the MirageC design from Hevort project, compatible with the new Gantry V2
+
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head| <br>|March 2022|
+**V0.2-Hextrudort**|![alt text](/image/BRSh.png)| Based on the MirageC design from Hevort project, compatible with the new Gantry V2 | <br>|March 2022|
 
 2/Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
