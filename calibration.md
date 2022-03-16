@@ -2,33 +2,31 @@
 # CALIBRATION OF YOUR MACHINE
 
 ## 1. EXTRUDER Rotation_Distance
-Section|Setting|Recommended Value|Comment
+Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Quality|Layer Height|Between 0.16 and 0.22| No structural or precision gain by going lower than 0.16. 
-Quality|Line Width|0.40 (for 0.4mm nozzle)| - 
+Getting the good extrusion|Rotation_Distance|mark the filament at 120mm from your extruder, Extrude 100mm, make the calculation to retrieve the good number, TeachingTech webstite include the step/mm calculation, then use my table to get the conversion into Rotation_distance units|[Calculation](https://teachingtechyt.github.io/calibration.html#esteps) [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
+
   
 ## 2. Flow
-Section|Setting|Recommended Value|Comment
+Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Quality|Layer Height|Between 0.16 and 0.22| No structural or precision gain by going lower than 0.16. 
-Quality|Line Width|0.40 (for 0.4mm nozzle)| - 
+Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check the width of the layer |[Calculation](https://teachingtechyt.github.io/calibration.html#flow) [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
 
 ## 3. Adjusting belts tensions.
 Section|Setting|Recommended Value|Comment
 -------|-------|-----------------|-------
-Quality|Layer Height|Between 0.16 and 0.22| No structural or precision gain by going lower than 0.16. 
-Quality|Line Width|0.40 (for 0.4mm nozzle)| - 
+Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](cal.pdf)|[Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
 
 ## 4. Octogone Calibration for XY
-Section|Setting|Recommended Value|Comment
+Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Quality|Layer Height|Between 0.16 and 0.22| No structural or precision gain by going lower than 0.16. 
-Quality|Line Width|0.40 (for 0.4mm nozzle)| - 
+Getting Equalize on the CoreXY principle|Print+Rotation_Distance|Print the [Octogon](octogon.stl) and follow the [Instruction](octogon.pdf)|[Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
 
 ## 5. Z Calibrations
-Section|Setting|Recommended Value|Comment
+Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Quality|Layer Height|Between 0.16 and 0.22| No structural or precision gain by going lower than 0.16. 
-Quality|Line Width|0.40 (for 0.4mm nozzle)| - 
+Getting the good Z Height|Rotation_Distance|Print a normal 30x30 cube, I personnaly use a raft to absorb the fist layer thickness imprecision, mesure it and use the conversion table to find the good value| [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
 
 ____________________________________________________________________________________  
+
+Special Thanks to the helpfull content of Mickael from TeachingTech
