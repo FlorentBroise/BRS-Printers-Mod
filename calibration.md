@@ -25,7 +25,7 @@ Getting Equalize on the CoreXY principle|Print+Rotation_Distance|Print the [Octo
 ## 5. Z Calibrations
 Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Getting the good Z Height|Rotation_Distance|Print a normal 30x30 cube, I personnaly use a raft to absorb the fist layer thickness imprecision, mesure it and use the conversion table to find the good value| [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
+Getting the good Z Height|Rotation_Distance|Print a normal 30x30 cube, I personnaly use a raft to absorb the first layer thickness imprecision, mesure it and use the conversion table to find the good value| [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
 
 ____________________________________________________________________________________  
 
