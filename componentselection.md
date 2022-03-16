@@ -46,7 +46,7 @@ Version|Description|ReleaseDate|CAD|Files
 
 Version|Description|ReleaseDate|CAD|Files
 -------------|-----------|-----------|-----------|------------
-**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few month 3!!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
+**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few months!!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)
 **vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)
@@ -68,13 +68,13 @@ A toolhead where the hotend can be swapped at will, within 30sec, without loosin
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Hextrudort**(DEPRECATED)|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project
-Carbon fiber and titanium based head, tagged as deprecated because of the compatibility with only the Light gantry va2.6. Technically Fonctionnal and adaptable, CAD will release soon 3| <br>|Nov 2021|
-**V1.1-LGX Mosquito**(DEPRECATED)|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.2-LGX-Lite Mosquito(DEPRECATED)|| LGX-lite, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX V6 (DEPRECATED)|| LGX, E3D V6, Carbon fiber PA12 and titanium based head| <br>|2022|
-**V1.1-LGX Nova (DEPRECATED)|| LGX, Nova, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX Takoto (DEPRECATED)|| LGX, Takoto, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX Dragon (DEPRECATED)|| LGX, Dragon, Carbon fiber PA12 and titanium based head| <br>|2022|
+**V1.1-LGX Mosquito**(DEPRECATED)|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|/|
+**V1.2-LGX-Lite Mosquito(DEPRECATED)|| LGX-lite, Mosquito/| <br>|/|
+**V1.1-LGX V6 (DEPRECATED)|| LGX, E3D V6| <br>|/|
+**V1.1-LGX Nova (DEPRECATED)|| LGX, Nova| <br>|/|
+**V1.1-LGX Takoto (DEPRECATED)|| LGX, Takoto| <br>|/|
+**V1.1-LGX Dragon (DEPRECATED)|| LGX, Dragon| <br>|/|
+Carbon fiber and titanium based head, tagged as deprecated because of the compatibility with only the Light gantry va2.6. Technically Fonctionnal and adaptable, CAD will release soon | <br>|March 2022|
 
 v-b0.2 (IN PROGRESS)
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
