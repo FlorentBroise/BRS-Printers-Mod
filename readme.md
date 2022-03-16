@@ -14,9 +14,10 @@ Intro.|[What is done here?](/intro.md)
 4.|[BOM](/purchased.md)
 5.|[How to Print your Parts](/howtoprint.md)
 6.|[Assembly Instructions](/assembly.md)
-7.|[Procedures](/procedures.md)
-8.|[Software](/software.md)
-9.|[EVA Mods](/evamods.md)
+7.|[Calibration](/calibration.md)
+8.|[Procedures](/procedures.md)
+9.|[Software](/software.md)
+10.|[EVA Mods](/evamods.md)
 
 
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, <br>
