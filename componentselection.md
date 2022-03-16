@@ -117,13 +117,21 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 Credits: Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
 
 -Olivier Royer-Tardif / MirageC [Hevort project](https://miragec79.github.io/HevORT/)
+
 -Simon Vez [VzBot](https://github.com/VzBoT3D/VzBoT-Vz330)
+
 -John Beima
+
 -Jerôme Wiedemann [RomRider](https://github.com/RomRider)
+
 -Liam Venter [MFBS](https://www.thingiverse.com/mfbs/designs)
+
 -Pawel Kucmus [EVA](https://main.eva-3d.page/)
+
 -Keegan Wentz (Wentz-dynamics)
+
 -Oleg Ok [EvoMotors](https://www.thingiverse.com/evomotors/designs) 
+
 
 More extensive credit can be found here: https://www.brs-engineering.com https://www.brs-engineering.com/Oldham.html
 
