@@ -50,7 +50,7 @@ Version|Description|ReleaseDate|CAD|Files
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)
 **vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)
-**EPD1.1**(ACTIVE)| Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) !!This product is under CC BY-NC 4.0 Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STL](1)
+**EPD1.1**(ACTIVE)| Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) !!This product is under CC BY-NC 4.0 Licence!! AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STL Soon](1)
 
 
 ## 5. BRSVS High volume cooling solution
