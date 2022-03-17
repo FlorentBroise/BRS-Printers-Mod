@@ -10,7 +10,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
 **V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)
-**V2.0 Heavy Duty-STANDBY**|![alt text](/image/20.png)<br> SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
+**V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
 
 ## 1.1 Ballscrew arms for Vcore 3 (Oldham version)
 
