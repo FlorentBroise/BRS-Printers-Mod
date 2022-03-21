@@ -31,7 +31,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 
 Version|Description|ReleaseDate|CAD|Files
 -------------|-----------|-----------|-----------|------------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html       |01/01/22||[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    ![alt text](/image/license.png)   |01/01/22||[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
 
 2/ XY MOTION
 
@@ -41,7 +41,7 @@ Version|Description|ReleaseDate|CAD|Files
 -------------|-----------|-----------|-----------|------------
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)
 **vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)
-**EPD1.1**(ACTIVE)| Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) !!This product is under CC BY-NC 4.0 Licence!! AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STL Soon](1)
+**EPD1.1**(ACTIVE)|![alt text](/image/EPD.png) Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) ![alt text](/image/license.png) AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/EPD.step)
 
 - Reinforced Motor bracket mod with bearing
 
@@ -61,7 +61,7 @@ Version|Description|ReleaseDate|CAD
 
 Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
-**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/pmb1.zip)
+**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/PMH.zip)
 
 
 3/ TOOLHEAD
@@ -139,7 +139,7 @@ Carbon fiber and titanium based head, tagged as deprecated because of the compat
 ## 4. Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V0.1-Toolboard**|| A PCB part to deliver a full modularity| <br>|Jan 2022|
+**V0.1-Toolboard**|![alt text](/image/license.png)| A PCB part to deliver a full modularity| <br>|Jan 2022|
 
 
 
