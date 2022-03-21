@@ -25,7 +25,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|------------|-----------
-**V1.0**|[alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)|![alt text](/image/by.png) 
+**V1.0**||12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)|![alt text](/image/by.png) 
 
 - Z axis Oldham Join ( New Revision from the December 2021)
 
