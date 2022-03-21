@@ -66,7 +66,7 @@ Version|Description|ReleaseDate|CAD
 
 3/ TOOLHEAD
 
--FLATHEAD V2
+- FLATHEAD V2
 v-b0.2 
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
 
@@ -74,7 +74,7 @@ Version|Description|ReleaseDate|CAD|Release
 -------------|-----------|-----------|-----------|------------
 **V1.2-LGX-Lite Mosquito ALPHA**|![alt text](/image/mosquito1.PNG)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|
 
--BRS-HextrudORT
+- BRS-HextrudORT
 
 HEVORTs toolhead adaptation
 
@@ -99,7 +99,7 @@ Version|Description|ReleaseDate|-|DXF
 
 2/ FILTRATION SOLUTION
 
--BRS-CF80 Filtration Solution
+- BRS-CF80 Filtration Solution
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|-----------
 **V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing) | [STL](https://www.thingiverse.com/thing:5224729) 
