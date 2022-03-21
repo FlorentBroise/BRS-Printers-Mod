@@ -7,61 +7,61 @@ I/ ACTIVE
 - Z-Ballscrews-upgrade
 High precision Z system with anti-wobble system 
 
-Version|Description|ReleaseDate|CAD|Thingiverse|Documentation
--------------|-----------|-----------|-----------|------------|------------
-**V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment           ![alt text](/image/license.png) except wings design|29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199)
-**V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)
-**V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| 
-**V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)
-**V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come
+Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License
+-------------|-----------|-----------|-----------|------------|------------|-----------
+**V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment |29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199) |![alt text](/image/license.png) except wings design
+**V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)|![alt text](/image/license.png) except wings design
+**V1.66**|<br> Minor corrections for ease of assembly |20/11/21|| |![alt text](/image/license.png) except wings design
+**V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design
+**V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come|![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
 
-Version|Description|ReleaseDate|CAD|Thingiverse
--------------|-----------|-----------|-----------|------------
-**V1.0**|![alt text](/image/arms.png)<br>           ![alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235)
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|------------|-----------
+**V1.0**|![alt text](/image/arms.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235) |![alt text](/image/by.png)
 
 - Ballscrew arms for Vcore 3 (Wings Version)
 
-Version|Description|ReleaseDate|CAD|Thingiverse
--------------|-----------|-----------|-----------|------------
-**V1.0**|[alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|------------|-----------
+**V1.0**|[alt text](/image/by-sa.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)|![alt text](/image/by.png) 
 
 - Z axis Oldham Join ( New Revision from the December 2021)
 
-Version|Description|ReleaseDate|CAD|Files
--------------|-----------|-----------|-----------|------------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    ![alt text](/image/license.png)   |01/01/22||[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) 
+Version|Description|ReleaseDate|CAD|Files|License
+-------------|-----------|-----------|-----------|------------|-----------
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    ![alt text](/image/license.png)   |01/01/22||[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) |![alt text](/image/license.png)
 
 2/ XY MOTION
 
 - UltraLight Gantry XY 
 
-Version|Description|ReleaseDate|CAD|Files
--------------|-----------|-----------|-----------|------------
+Version|Description|ReleaseDate|CAD|Files|Licernse
+-------------|-----------|-----------|-----------|------------|-----------
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)
 **vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors !!This product is under CC BY-SA Licence!! AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)
-**EPD1.1**(ACTIVE)|![alt text](/image/EPD.png) Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) ![alt text](/image/license.png) AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/EPD.step)
+**EPD1.1**(ACTIVE)|![alt text](/image/EPD.png) Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) ![alt text](/image/license.png) AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/EPD.step) |![alt text](/image/license.png)
 
 - Reinforced Motor bracket mod with bearing
 
-Version|Description|ReleaseDate|CAD
--------------|-----------|-----------|-----------
+Version|Description|ReleaseDate|CAD|License
+-------------|-----------|-----------|-----------|-----------
 **STB-V1.0**|![alt text](/image/Bracket.png)<br> Replacment reinforced part to equilibrate load on the NEMA and reduce precessions and wear potentials, needs a 625ZZ bearing and a 1mm shim (WORK AND TESTED with LDO and std RR pulley, Gates pulley and E3D motors)|16/11/21|[part-3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Bracket.3mf)
-**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[Left 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Bracket.3mf) [Right 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BracketR.zip)
+**STB-V1.1**|<br> Right top motor bracket added for the NEMA R, needs a 625ZZ bearing and a 1mm shim (WORKS ONLY with E3D motor, or any nema17 with a minimum of 27mm shaft lenght)|20/11/21|[Left 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Bracket.3mf) [Right 3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BracketR.zip)|![alt text](/image/license.png)
 
 - Shoulder-bolt mod precision parts
 
-Version|Description|ReleaseDate|CAD
--------------|-----------|-----------|-----------
+Version|Description|ReleaseDate|CAD|License
+-------------|-----------|-----------|-----------|-----------
 **SBS-V1.0**|![alt text](/image/shoulder.png)<br> Replacement parts to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because of the perfect fit to idlers and pulleys. Needs a 625ZZ bearing and a 1mm shim, x6 35mm M4-D5 shoulder bolts, 4 M4 brass inserts (5.6x8.1mm), Loctite Threadlocker|15/12/2021 |
-**SBS-V1.1**|<br> Compatible with the F695-2R - 695zz Pulley conversion|16/03/2022 | [TopL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-L.3mf) [IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-R.3mf)
+**SBS-V1.1**|<br> Compatible with the F695-2R - 695zz Pulley conversion|16/03/2022 | [TopL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-L.3mf) [IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-R.3mf)|![alt text](/image/license.png)
 
 - Precision modular Motors blocks
 
-Version|Description|ReleaseDate|CAD
--------------|-----------|-----------|-----------
-**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)
+Version|Description|ReleaseDate|CAD|License
+-------------|-----------|-----------|-----------|-----------
+**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)|![alt text](/image/license.png)
 
 
 3/ TOOLHEAD
@@ -70,39 +70,39 @@ Version|Description|ReleaseDate|CAD
 v-b0.2 
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
 
-Version|Description|ReleaseDate|CAD|Release
--------------|-----------|-----------|-----------|------------
-**V1.2-LGX-Lite Mosquito ALPHA**|![alt text](/image/mosquito1.PNG)![alt text](/image/license.png)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|
+Version|Description|ReleaseDate|CAD|Release|License
+-------------|-----------|-----------|-----------|------------|------------
+**V1.2-LGX-Lite Mosquito ALPHA**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)
 
 - BRS-HextrudORT
 
 HEVORTs toolhead adaptation
 
-Version|Description|ReleaseDate|CAD|Release
--------------|-----------|-----------|-----------|------------
-**V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh.png)| Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/), compatible with the new Gantry V2 | [Files](/cad/toolheadv2.zip)|18/03/22|
+Version|Description|ReleaseDate|CAD|Release|
+-------------|-----------|-----------|-----------|------------|------------
+**V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh.png)| Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/), compatible with the new Gantry V2 | [Files](/cad/toolheadv2.zip)|18/03/22|![alt text](/image/by.png)
 
 1/ PLATES
 
 - Bottom plate DXF
 For Z upgrade 
-Version|Description|ReleaseDate|DXF
--------------|-----------|-----------|-----------
+Version|Description|ReleaseDate||DXF
+-------------|-----------|-----------|-----------|-----------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade |10/01/22||[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
 - Lid Backplate 
 For BRS-CF80
-Version|Description|ReleaseDate|DXF
--------------|-----------|-----------|-----------
-**V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80           |06/03/22||[500 with corner](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplat500stock.dxf) [400 cornerless](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
+Version|Description|ReleaseDate||DXF
+-------------|-----------|-----------|-----------|-----------
+**V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80|06/03/22||[500 with corner](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplat500stock.dxf) [400 cornerless](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
 
 
 2/ FILTRATION SOLUTION
 
 - BRS-CF80 Filtration Solution
-Version|Description|ReleaseDate|CAD|Thingiverse
+Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|-----------
-**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing) | [STL](https://www.thingiverse.com/thing:5224729) 
+**V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing) | [STL](https://www.thingiverse.com/thing:5224729) |![alt text](/image/license.png)
 
 
 II/ DEPRECATED
