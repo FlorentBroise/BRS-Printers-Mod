@@ -31,7 +31,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 
 Version|Description|ReleaseDate|CAD|Files|License
 -------------|-----------|-----------|-----------|------------|-----------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) ||![alt text](/image/license.png)
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)
 
 ## 2/ XY MOTION
 
