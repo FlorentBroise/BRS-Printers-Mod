@@ -61,7 +61,7 @@ Version|Description|ReleaseDate|CAD
 
 Version|Description|ReleaseDate|CAD
 -------------|-----------|-----------|-----------
-**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/PMH.zip)
+**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)
 
 
 3/ TOOLHEAD
