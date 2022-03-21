@@ -85,7 +85,7 @@ Version|Description|ReleaseDate|CAD|Release|License
 1/ PLATES
 
 - Bottom plate DXF
-- 
+
 For Z upgrade 
 
 Version|Description|ReleaseDate||DXF
@@ -105,6 +105,8 @@ Version|Description|ReleaseDate||DXF
 
 - BRS-CF80 Filtration Solution
 
+Keep lungs safe 
+
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|-----------|-----------
 **V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:5224729)|![alt text](/image/license.png)
@@ -114,17 +116,17 @@ II/ DEPRECATED
 
 ## 1. UltraLight Gantry XY v1 (DEPRECATED)
 
-Version|Description|ReleaseDate|CAD|Files
--------------|-----------|-----------|-----------|------------
-**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few months!!This product is under CC BY-NC Licence!! ![alt text](/image/license.png) <br> |Jan 2022|
+Version|Description|ReleaseDate|CAD|Files|License
+-------------|-----------|-----------|-----------|------------|------------
+**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few months![alt text](/image/license.png) <br> |Jan 2022|||![alt text](/image/license.png)
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 
 ## 2. BRSVS High volume cooling solution (DEPRECATED)
 High CFM Laminar cooling solution to remove fans from the head, giving more cooling power (PLA) and less weight for the toolhead
 
-Version|Description|ReleaseDate|CAD|Thingiverse
--------------|-----------|-----------|-----------|------------
-1.2b|![alt text](/image/BRSVS1.png) ![alt text](/image/license.png)<br> |30 Nov 2021| [CAD and Instructions](https://github.com/FlorentBroise/RatRig-Upgrades/blob/main/BRSVS.md)
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|------------|------------
+1.2b|![alt text](/image/BRSVS1.png) <br> |30 Nov 2021| [CAD and Instructions](https://github.com/FlorentBroise/RatRig-Upgrades/blob/main/BRSVS.md) || ![alt text](/image/license.png)
 
 ## 3. Flathead v1 Ecosystem (DEPRECATED)
 A toolhead where the hotend can be swapped at will, within 30sec, without loosing belt tension, and get versatility to adapt your needs in materials!
