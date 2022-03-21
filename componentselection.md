@@ -1,8 +1,8 @@
 # Upgrades
 
-I/ ACTIVE
+# I/ ACTIVE
 
-1/ Z SYSTEM
+## 1/ Z SYSTEM
 
 - Z-Ballscrews-upgrade
 High precision Z system with anti-wobble system 
@@ -33,7 +33,7 @@ Version|Description|ReleaseDate|CAD|Files|License
 -------------|-----------|-----------|-----------|------------|-----------
 **V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing) ||![alt text](/image/license.png)
 
-2/ XY MOTION
+## 2/ XY MOTION
 
 - UltraLight Gantry XY 
 
@@ -64,7 +64,7 @@ Version|Description|ReleaseDate|CAD|License
 **PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts ![alt text](/image/license.png)|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)|![alt text](/image/license.png)
 
 
-3/ TOOLHEAD
+## 3/ TOOLHEAD
 
 - FLATHEAD V2
 v-b0.2 
@@ -82,26 +82,26 @@ Version|Description|ReleaseDate|CAD|Release|License
 -------------|-----------|-----------|-----------|------------|------------
 **V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh.png)| Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/), compatible with the new Gantry V2 | [Files](/cad/toolheadv2.zip)|18/03/22|![alt text](/image/by.png)
 
-1/ PLATES
+## 4/ PLATES
 
 - Bottom plate DXF
 
 For Z upgrade 
 
-Version|Description|ReleaseDate||DXF
--------------|-----------|-----------|-----------
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|-----------|-----------
 **V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade |10/01/22|[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
 - Lid Backplate 
 
 For BRS-CF80
 
-Version|Description|ReleaseDate||DXF
--------------|-----------|-----------|-----------
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|-----------|-----------
 **V1-400**|![alt text](/image/plateb.png)<br> for BRS-CF80|06/03/22|[500 with corner](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplat500stock.dxf) [400 cornerless](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Backplate.dxf) [300](to do)
 
 
-2/ FILTRATION SOLUTION
+## 5/ FILTRATION SOLUTION
 
 - BRS-CF80 Filtration Solution
 
@@ -112,23 +112,23 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 **V1.0**|![alt text](/image/filtre.png)<br> Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers ![alt text](/image/license.png)|30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:5224729)|![alt text](/image/license.png)
 
 
-II/ DEPRECATED
+# II/ DEPRECATED
 
-## 1. UltraLight Gantry XY v1 (DEPRECATED)
+## 1 UltraLight Gantry XY v1 (DEPRECATED)
 
 Version|Description|ReleaseDate|CAD|Files|License
 -------------|-----------|-----------|-----------|------------|------------
-**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few months![alt text](/image/license.png) <br> |Jan 2022|||![alt text](/image/license.png)
+**va2.6**(DEPRECATED)|![alt text](/image/gantry.png) DEPRECATED because of the belt tension forcing the crossbar to bend a bit after few months) <br> |Jan 2022|||![alt text](/image/license.png)
 **v2.7**(DEPRECATED)| Adding of Shoulder bolt solution on the whole Gantry <br> |Dec 2021|
 
-## 2. BRSVS High volume cooling solution (DEPRECATED)
+## 2 BRSVS High volume cooling solution (DEPRECATED)
 High CFM Laminar cooling solution to remove fans from the head, giving more cooling power (PLA) and less weight for the toolhead
 
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|------------|------------
 1.2b|![alt text](/image/BRSVS1.png) <br> |30 Nov 2021| [CAD and Instructions](https://github.com/FlorentBroise/RatRig-Upgrades/blob/main/BRSVS.md) || ![alt text](/image/license.png)
 
-## 3. Flathead v1 Ecosystem (DEPRECATED)
+## 3 Flathead v1 Ecosystem (DEPRECATED)
 A toolhead where the hotend can be swapped at will, within 30sec, without loosing belt tension, and get versatility to adapt your needs in materials!
 
 Version|Description|ReleaseDate|CAD|Thingiverse
@@ -143,14 +143,15 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 Carbon fiber and titanium based head, tagged as deprecated because of the compatibility with only the Light gantry va2.6. Technically Fonctionnal and adaptable, CAD will release soon | <br>|March 2022|
 
 
-## 4. Toolboard (DEPRECATED)
+## 4 Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Toolboard**|![alt text](/image/license.png)| A PCB part to deliver a full modularity| <br>|Jan 2022|
 
 
 
-Credits: Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
+# Credits: 
+Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
 
 -Olivier Royer-Tardif / MirageC [Hevort project](https://miragec79.github.io/HevORT/)
 
