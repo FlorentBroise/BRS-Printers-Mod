@@ -85,7 +85,7 @@ HEVORTs toolhead adaptation
 
 Version|Description|ReleaseDate|CAD|Release|License
 -------------|-----------|-----------|-----------|------------|------------
-**V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh.png)| Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/), compatible with the new Gantry V2 | [Files](/cad/toolheadv2.zip)|18/03/22|![alt text](/image/by.png)
+**V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh.png)| Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/), compatible with the new Gantry V2 | [Files](/cad/toolheadv2.step)|18/03/22|![alt text](/image/by.png)
 
 ## 4/ PLATES
 
