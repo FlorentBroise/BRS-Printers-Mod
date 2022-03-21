@@ -64,9 +64,9 @@ Version|Description|ReleaseDate|CAD|License
 
 - Precision modular Motors blocks
 
-Version|Description|ReleaseDate|CAD|License
--------------|-----------|-----------|-----------|-----------
-**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)|![alt text](/image/license.png)
+Version|Description|ReleaseDate|CAD|BOM|License
+-------------|-----------|-----------|-----------|-----------|-----------
+**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)
 
 
 ## 3/ TOOLHEAD
