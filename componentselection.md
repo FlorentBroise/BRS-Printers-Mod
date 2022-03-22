@@ -87,7 +87,7 @@ HEVORTs toolhead adaptation
 Version|Description|Details|CAD|ReleaseDate|License
 -------------|-----------|-----------|-----------|------------|------------
 **V0.2-BRS-HextrudORT BETA**|![alt text](/image/BRSh1.png)| Naked of Probe version. Based on the MirageC wonderful design from the [Hevort project](https://miragec79.github.io/HevORT/). Displayed her with the Nova, can be equiped with every hotend variation from the [Hevort Page](https://miragec79.github.io/HevORT/), be careful to the Z probe Height, compatible with the new Gantry V2 | [Files](/cad/toolheadv2.step)|18/03/22|![alt text](/image/by.png)
-**V0.21-BRS-HextrudORT BETA**|![alt text](/image/BRSh1.png)| Euclid Probe version, can be equiped with every hotend variation from the [Hevort Page](https://miragec79.github.io/HevORT/), be careful to the Z probe Height, compatible with the new Gantry V2 | [Files](/cad/toolheadv3.step)|18/03/22|![alt text](/image/by.png)
+**V0.21-BRS-HextrudORT BETA**|| Euclid Probe version, can be equiped with every hotend variation from the [Hevort Page](https://miragec79.github.io/HevORT/), be careful to the Z probe Height, compatible with the new Gantry V2 | [Files](/cad/toolheadv3.step)|18/03/22|![alt text](/image/by.png)
 
 ## 4/ PLATES
 
