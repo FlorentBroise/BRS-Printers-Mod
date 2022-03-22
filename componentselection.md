@@ -78,7 +78,7 @@ A ultralight mosquito based toolhead, with Crystal geometric shroud face
 Version|Description|Details|CAD|Release date|License
 -------------|-----------|-----------|-----------|------------|------------
 **V1.2-LGX-Lite Mosquito ALPHA**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)
-**V1.21-LGX-Lite Mosquito ALPHA**|![alt text](/image/geo8.png)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf)|22/03/22|![alt text](/image/license.png)
+**V1.21-LGX-Lite Mosquito ALPHA**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf)|22/03/22|![alt text](/image/license.png)
 
 - BRS-HextrudORT
 
