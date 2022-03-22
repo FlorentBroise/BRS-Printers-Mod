@@ -18,6 +18,7 @@ Intro.|[What is done here?](/intro.md)
 8.|[Procedures](/procedures.md)
 9.|[Software](/software.md)
 10.|[EVA Mods](/evamods.md)
+11.|[Tools (soon)](/tools.md)
 
 
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, <br>
