@@ -5,7 +5,7 @@ Upgrade can satisfy a specific fonction or need but always get a drawback, most 
 
 Example!
 
-## Z-Original vs Z-Ballscrew upgrades?
+# Z-Original vs Z-Ballscrew upgrades?
 ### PRO's
 - Reliable.
 - More accurate
@@ -16,7 +16,7 @@ Example!
 - Not always cheap
 - Z loss of +/-30mm
 
-## Oldham vs Wings?
+# Oldham vs Wings?
 ### PRO's
 - Reliable.
 - More accurate
@@ -28,7 +28,7 @@ Example!
 - Z loss of +/-45mm
 
 
-## Ultraslight Gantryv vs Stock gantry?
+# Ultraslight Gantryv vs Stock gantry?
 Intended Ultralight with F695 and shoulder bolts
 ### PRO's
 - Lighter
@@ -41,7 +41,7 @@ Intended Ultralight with F695 and shoulder bolts
 - 
 
 
-## Flathead V2 vs EVA?
+# Flathead V2 vs EVA?
 
 ### PRO's
 - Lighter
