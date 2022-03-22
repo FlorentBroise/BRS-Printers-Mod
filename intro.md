@@ -1,5 +1,5 @@
 
-### Upgrades?  
+# Upgrades?  
 The Vcore3 offer a strong base to modify for eiter specific needs or better prints
 You will find here parts and design I think are relevant
 The Z upgrade is the first of the upgrade to be available
@@ -9,7 +9,7 @@ As always i have a company, BRS-Engineering, which propose a print service for i
 
 https://www.brs-engineering.com/
 
-### Licence?
+# Licence?
 
 Those upgrades are for most of them part of the Creative commons CC BY-NC 4.0, All rights are exclusive to Florent BROISE / BRS-TECH.
 Modifications are possible but don't forget this was designed this way for reasons, I'm not responsible of a bad redesign by others. If modifications are needed, you can submit it to contact@brs-engineering.com
