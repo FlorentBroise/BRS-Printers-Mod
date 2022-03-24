@@ -67,6 +67,7 @@ Version|Description|ReleaseDate|CAD|License
 Version|Description|ReleaseDate|CAD|BOM|License
 -------------|-----------|-----------|-----------|-----------|-----------
 **PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing) [STEP](/cad/PMB1.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)
+**Dampers option**|![alt text](/image/dmp.png)<br> add a Nema damper to reduce noises and improve responsivness (tested)|24/03/2022 ||[Info](https://www.moonsindustries.com/series/dampers-a020202)|
 
 
 ## 3/ TOOLHEAD
@@ -77,8 +78,9 @@ A ultralight mosquito based toolhead, with Crystal geometric shroud face
 
 Version|Description|Details|CAD|Release date|License
 -------------|-----------|-----------|-----------|------------|------------
-**V1.2-LGX-Lite Mosquito ALPHA**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)
-**V1.21-LGX-Lite Mosquito ALPHA**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
+**V1.2-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)
+**V1.21-LGX-Lite Mosquito**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
+**V1.22-LGX-Lite Mosquito**|| BL-Touch adaptation / Inductive 12mm/18mm|  [Files (soon)]()|29/03/22|![alt text](/image/license.png)
 
 - BRS-HextrudORT
 
