@@ -7,12 +7,12 @@
 - Z-Ballscrews-upgrade
 High precision Z system with anti-wobble system 
 
-Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License
--------------|-----------|-----------|-----------|------------|------------|-----------
+Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
+-------------|-----------|-----------|-----------|------------|------------|-----------|-----------
 **V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment |29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199) ||![alt text](/image/license.png) except wings design
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)||![alt text](/image/license.png) except wings design
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21||||![alt text](/image/license.png) except wings design
-**V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)||![alt text](/image/license.png) except wings design
+**V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)||![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come||![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
@@ -29,23 +29,23 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 
 - Z axis Oldham Join ( New Revision from the December 2021)
 
-Version|Description|ReleaseDate|CAD|Files|License
--------------|-----------|-----------|-----------|------------|-----------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)
+Version|Description|ReleaseDate|CAD|Files|License|Order
+-------------|-----------|-----------|-----------|------------|-----------|-----------
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
 
 ## 2/ XY MOTION
 
 - UltraLight Gantry XY 
 
-Version|Description|ReleaseDate|CAD|Files|Licernse
--------------|-----------|-----------|-----------|------------|-----------
+Version|Description|ReleaseDate|CAD|Files|License|Order
+-------------|-----------|-----------|-----------|------------|-----------|-----------
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)||![alt text](/image/by.png)
-**vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors AVAILABLE for Print service at BRS-E (Prefer a Z1 preload MGN9H)<br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)||![alt text](/image/license.png)
+**vb3.2**(ACTIVE)| Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors AVAILABLE for Print service at BRS-E (Prefer a Z1 preload MGN9H)<br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
 
 
 - Euclid Probe parts 
 
-Version|Description|ReleaseDate|CAD|Files|Licernse
+Version|Description|ReleaseDate|CAD|Files|License
 -------------|-----------|-----------|-----------|------------|-----------
 **EPD1.1**(ACTIVE)|![alt text](/image/EPD.png) Euclid Dock probe fot the Flathead/BRS-HextrudORT (Vcore3) AVAILABLE for Print service at BRS-E <br> |19/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/EPD.step) ||![alt text](/image/license.png)
 
@@ -65,9 +65,9 @@ Version|Description|ReleaseDate|CAD|License
 
 - Precision modular Motors blocks
 
-Version|Description|ReleaseDate|CAD|BOM|License
--------------|-----------|-----------|-----------|-----------|-----------
-**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing) [STEP](/cad/PMB1.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)
+Version|Description|ReleaseDate|CAD|BOM|License|Order
+-------------|-----------|-----------|-----------|-----------|-----------|-----------
+**PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing) [STEP](/cad/PMB1.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 **Dampers option**|![alt text](/image/dmp.png)<br> add a Nema damper to reduce noises and improve responsivness (tested)|24/03/2022 ||[Info](https://www.moonsindustries.com/series/dampers-a020202)|
 
 
@@ -77,9 +77,9 @@ Version|Description|ReleaseDate|CAD|BOM|License
 v-b0.2 
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
 
-Version|Description|Details|CAD|Release date|License
--------------|-----------|-----------|-----------|------------|------------
-**V1.20-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Mellow Mini AB, direct wiring, Huvud 0.61, FLY-SHT-42|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)
+Version|Description|Details|CAD|Release date|License|Order
+-------------|-----------|-----------|-----------|------------|------------|-----------
+**V1.20-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Mellow Mini AB, direct wiring, Huvud 0.61, FLY-SHT-42|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
 **V1.21a-LGX-Lite Mosquito**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
 **V1.21b-LGX-Lite Mosquito**|![alt text](/image/sth.jpg)| Mellow FLY-SHT-36 Adaptation|  [STEP](/cad/sth36.zip)|27/03/22|![alt text](/image/license.png)
 **V1.22a-LGX-Lite Mosquito**|| BL-Touch adaptation / Inductive 12mm/18mm|  [Files (soon)]()|29/03/22|![alt text](/image/license.png)
