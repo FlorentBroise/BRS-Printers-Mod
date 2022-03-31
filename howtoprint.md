@@ -57,6 +57,13 @@ This parameter is free for you to decide
 -For classic Ender type printer, 60-70mm/s is a nice spot. 
 -For higher end machines (Vcore) I can crank to 200mm/s without any loss of quality and strenght
 
+## Flathead v2 parts settings
+
+
+Section|Setting|Recommended Value|Comment|Orientation
+-------|-------|-----------------|-------|-------
+Shell|Wall Line Count|5 to 6|-
+Shell|Top/Bottom thickness|1.2mm|This means between 9 and 5 top and bottom layers, depending on your layer height. I use a 0.26mm first and last Layer width to get better finish, Light supports needed |IMPORTANT ![alt text](/image/print1.png) ![alt text](/image/print2.png)
 
 
 [Back to Main Page](/README.md)
