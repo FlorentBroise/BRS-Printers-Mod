@@ -83,8 +83,8 @@ Version|Description|Details|CAD|Release date|License|Order
 **V1.20-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Mellow Mini AB, direct wiring, Huvud 0.61, FLY-SHT-42|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
 **V1.21a-LGX-Lite Mosquito**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
 **V1.21b-LGX-Lite Mosquito**|![alt text](/image/sth.jpg)| Mellow FLY-SHT-36 Adaptation|  [STEP](/cad/sth36.zip)|27/03/22|![alt text](/image/license.png)
-**V1.22a-LGX-Lite Mosquito**|| BL-Touch adaptation / Inductive 12mm/18mm|  [Files (soon)]()|29/03/22|![alt text](/image/license.png)
-**V1.22b-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|03/04/22|![alt text](/image/license.png)
+**V1.22a-LGX-Lite Mosquito**|| BL-Touch adaptation / Inductive 12mm/18mm|  [Files (soon)]()|/|![alt text](/image/license.png)
+**V1.22b-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
 
 
 - BRS-HextrudORT
