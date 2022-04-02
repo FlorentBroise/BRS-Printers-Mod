@@ -81,10 +81,10 @@ A ultralight mosquito based toolhead, with Crystal geometric shroud face
 Version|Description|Details|CAD|Release date|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------
 **V1.20-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Mellow Mini AB, direct wiring, Huvud 0.61, FLY-SHT-42|  [Files](/cad/Flatheadv2.zip)|17/03/22|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
-**V1.21a-LGX-Lite Mosquito**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
 **V1.21b-LGX-Lite Mosquito**|![alt text](/image/sth.jpg)| Mellow FLY-SHT-36 Adaptation|  [STEP](/cad/sth36.zip)|27/03/22|![alt text](/image/license.png)
-**V1.22a-LGX-Lite Mosquito**|| BL-Touch adaptation / Inductive 12mm/18mm|  [Files (soon)]()|/|![alt text](/image/license.png)
+**V1.22a-LGX-Lite Mosquito**|![alt text](/image/ind.png)![alt text](/image/blt.png)| BL-Touch adaptation / Inductive 8mm|  [STEP](/cad/BLIND.zip)|02/04/22|![alt text](/image/license.png)
 **V1.22b-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
+
 
 
 - BRS-HextrudORT
@@ -156,6 +156,12 @@ Version|Description|ReleaseDate|CAD|Thingiverse
 **V1.1-LGX Dragon (DEPRECATED)|| LGX, Dragon| <br>|/|
 Carbon fiber and titanium based head, tagged as deprecated because of the compatibility with only the Light gantry va2.6. Technically Fonctionnal and adaptable, CAD will release soon | <br>|March 2022|
 
+- FLATHEAD V2 parts (DEPRECATED)
+A ultralight mosquito based toolhead, with Crystal geometric shroud face
+
+Version|Description|Details|CAD|Release date|License|Order
+-------------|-----------|-----------|-----------|------------|------------|-----------
+**V1.21a-LGX-Lite Mosquito**|![alt text](/image/geo8.PNG)| Add the shroud for 8mm Inductive probe|  [Files](/cad/geo8.3mf) [BOM](/bom/BOM_Flatheadv2.xlsx)|22/03/22|![alt text](/image/license.png)
 
 ## 4 Toolboard (DEPRECATED)
 Version|Description|ReleaseDate|Gerber|Thingiverse
