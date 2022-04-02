@@ -69,7 +69,7 @@ Version|Description|ReleaseDate|CAD|BOM|License|Order
 -------------|-----------|-----------|-----------|-----------|-----------|-----------
 **PMB1.1**|![alt text](/image/motorblock.png)<br> Replacement parst to add Shoulder bolts in place of the standard m5 bold for better precision in the motion system, in the same time it help to reduce vibrations and noises because dampening effect of the printed part and the coupling. Needs 625ZZ bearings, 5mm shafts|21/03/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing) [STEP](/cad/PMB1.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 **Dampers option**|![alt text](/image/dmp.png)<br> add a Nema damper to reduce noises and improve responsivness (tested)|24/03/2022 ||[Info](https://www.moonsindustries.com/series/dampers-a020202)|
-**PMB1.2**|![alt text](/image/motorblock2.png)<br> Iteration compatible with extended Z extrusion for integrated enclosure mods and open front mod|02/04/2022 |[Files](https://drive.google.com/file/d/1kFUzjTdgDCWAe0plJPDxEhb_yOU4WQ-o/view?usp=sharing) [STEP](/cad/PMB12.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
+**PMB1.2**|![alt text](/image/motorblock2.PNG)<br> Iteration compatible with extended Z extrusion for integrated enclosure mods and open front mod|02/04/2022 |[STEP](/cad/PMB12.zip)|[BOM](BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 
 
 ## 3/ TOOLHEAD
