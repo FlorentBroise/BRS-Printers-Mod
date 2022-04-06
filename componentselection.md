@@ -84,8 +84,8 @@ Version|Description|Details|CAD|Release date|License|Order
 **V1.21b-LGX-Lite Mosquito**|![alt text](/image/sth.jpg)| Mellow FLY-SHT-36 Adaptation|  [STEP](/cad/sth36.zip)|27/03/22|![alt text](/image/license.png)
 **V1.22a-LGX-Lite Mosquito**|![alt text](/image/ind.png)![alt text](/image/blt.png)| BL-Touch adaptation / Inductive 8mm|  [STEP](/cad/BLIND.zip)|02/04/22|![alt text](/image/license.png)
 **V1.22b-LGX-Lite Dragon Liquid/NFC**|![alt text](/image/dragon_liq.png)| Dragon Liquid/BMO/NF crazy plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|06/04/22|![alt text](/image/license.png)
-**V1.22c-LGX-Lite Dragon**|![alt text](/image/dragon_liq.png)| Dragon plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|/|![alt text](/image/license.png)
-**V1.22c-LGX-Lite Nova**|![alt text](/image/dragon_reg.png)| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
+**V1.22c-LGX-Lite Dragon**|| Dragon plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|/|![alt text](/image/license.png)
+**V1.22c-LGX-Lite Nova**|| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
 **V1.23a-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
 
 
