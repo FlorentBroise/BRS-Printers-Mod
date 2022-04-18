@@ -12,7 +12,8 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment |29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199) ||![alt text](/image/license.png) except wings design
 **V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)||![alt text](/image/license.png) except wings design
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21||||![alt text](/image/license.png) except wings design
-**V1.96**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
+**V1.96a**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
+**V1.96b**|<br> Wings coupling DEPRECATED, Oldham to be installed|18/04/22||||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come||![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
@@ -20,12 +21,6 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|------------|-----------
 **V1.0**|![alt text](/image/arms.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235) |![alt text](/image/by.png)
-
-- Ballscrew arms for Vcore 3 (Wings Version)
-
-Version|Description|ReleaseDate|CAD|Thingiverse|License
--------------|-----------|-----------|-----------|------------|-----------
-**V1.0**||12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)|![alt text](/image/by.png) 
 
 - Z axis Oldham Join ( New Revision from the December 2021)
 
@@ -71,6 +66,11 @@ Version|Description|ReleaseDate|CAD|BOM|License|Order
 **Dampers option**|![alt text](/image/dmp.png)<br> add a Nema damper to reduce noises and improve responsivness (tested)|24/03/2022 ||[Info](https://www.moonsindustries.com/series/dampers-a020202)|
 **PMB1.2**|![alt text](/image/motorblock2.PNG)<br> Iteration compatible with extended Z extrusion for integrated enclosure mods and open front mod|02/04/2022 |[STEP](/cad/PMB12.zip)|[BOM](/bom/BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 
+- Stock Enclosure simplification Jigs
+
+Version|Description|ReleaseDate|CAD|License
+-------------|-----------|-----------|-----------|-----------
+**V1.0**|<br> in order to remove the front 2x 3030 to enlighten a bit the design from the front view|18/04/22|[part-3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Enclosure_bracket.3mf)|![alt text](/image/license.png)
 
 ## 3/ TOOLHEAD
 
@@ -87,8 +87,6 @@ Version|Description|Details|CAD|Release date|License|Order
 **V1.22c-LGX-Lite Dragon**|| Dragon plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|/|![alt text](/image/license.png)
 **V1.22d-LGX-Lite Nova**|| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
 **V1.23a-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
-
-
 
 
 - BRS-HextrudORT
@@ -172,6 +170,12 @@ Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
 **V0.1-Toolboard**|![alt text](/image/license.png)| A PCB part to deliver a full modularity| <br>|Jan 2022|
 
+## 5 Wings related parts (DEPRECATED)
+
+- Ballscrew arms for Vcore 3 (Wings Version)
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|------------|-----------
+**V1.0**||12/01/22|| [Link](https://www.thingiverse.com/thing:5275766)|![alt text](/image/by.png) 
 
 
 # Credits: 
