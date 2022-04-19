@@ -14,7 +14,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V1.66**|<br> Minor corrections for ease of assembly |20/11/21||||![alt text](/image/license.png) except wings design
 **V1.96a**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.96b**|<br> Wings coupling DEPRECATED, Oldham to be installed|18/04/22||||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
-**V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)
+**V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come||![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
