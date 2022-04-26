@@ -190,8 +190,6 @@ Here few people who I want to thank, for inspiring reasons, constructive discuss
 
 -Jerôme Wiedemann [RomRider](https://github.com/RomRider)
 
--Liam Venter [MFBS](https://www.thingiverse.com/mfbs/designs)
-
 -Pawel Kucmus [EVA](https://main.eva-3d.page/)
 
 -Keegan Wentz (Wentz-dynamics)
