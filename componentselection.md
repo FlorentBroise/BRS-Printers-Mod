@@ -82,13 +82,14 @@ A ultralight mosquito based toolhead, with Crystal geometric shroud face
 Version|Description|Details|CAD|Release date|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------
 **V1.20-LGX-Lite Mosquito**|![alt text](/image/mosquito1.PNG)| LGX-Lite, berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Mellow Mini AB, direct wiring, Huvud 0.61, FLY-SHT-42|  [Files](/cad/Flatheadv2.zip) [Shroud](/cad/Shroud.zip)|17/03/22|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
+**U1.0a-Cooling upgrade**|![alt text](/image/4pipes.png)| High flow focused pipes to unlock high speed PLA, better overall flux dynamics|SOON|05/05/22|![alt text](/image/license.png)
 **V1.21b-LGX-Lite Mosquito**|![alt text](/image/sth.jpg)| Mellow FLY-SHT-36 Adaptation|  [STEP](/cad/sth36.zip)|27/03/22|![alt text](/image/license.png)
 **V1.22a-LGX-Lite Mosquito**|![alt text](/image/ind.png)![alt text](/image/blt.png)| BL-Touch adaptation / Inductive 8mm|  [STEP](/cad/BLIND.zip)|02/04/22|![alt text](/image/license.png)
 **V1.22b-LGX-Lite Dragon Liquid/NFC**|![alt text](/image/dragon_liq.png)| Dragon Liquid/BMO/NF crazy plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|06/04/22|![alt text](/image/license.png)
 **V1.22c-LGX-Lite Dragon**|| Dragon plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|/|![alt text](/image/license.png)
 **V1.22d-LGX-Lite Nova**|| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
 **V1.23a-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
-**U1.0a-Cooling upgrade**|![alt text](/image/4pipes.png)| High flow focused pipes to unlock high speed PLA, better overall flux dynamics|SOON|05/05/22|![alt text](/image/license.png)
+
 
 - BRS-HextrudORT
 
