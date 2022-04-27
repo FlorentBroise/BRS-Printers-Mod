@@ -88,7 +88,7 @@ Version|Description|Details|CAD|Release date|License|Order
 **V1.22c-LGX-Lite Dragon**|| Dragon plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/dragon.zip)|/|![alt text](/image/license.png)
 **V1.22d-LGX-Lite Nova**|| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
 **V1.23a-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
-
+**U1.0a-Cooling upgrade**|![alt text](/image/4pipes.png)| High flow focused pipes to unlock high speed PLA, better overall flux dynamics|SOON|05/05/22|![alt text](/image/license.png)
 
 - BRS-HextrudORT
 
