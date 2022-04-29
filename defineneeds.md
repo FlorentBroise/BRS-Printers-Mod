@@ -11,10 +11,12 @@ Example!
 - More accurate
 - Support heavier charges
 - Low maintenance
+- No wearing (longer lifspawn and potential downtime)
 
 ### CON's
-- Not always cheap
+- Not always cheap ? (8% average of the full machine price)
 - Z loss of +/-30mm
+- Noisier?
 
 # Oldham vs Wings?
 ### PRO's
@@ -38,7 +40,7 @@ Intended Ultralight with F695 and shoulder bolts
 
 
 ### CON's
-- 
+- Dealing with CF materials?
 
 
 # Flathead V2 vs EVA?
@@ -51,11 +53,12 @@ Intended Ultralight with F695 and shoulder bolts
 - Less vibration (better input shaper values)
 - Maintenance easy
 - Modifications without detensionning the belts
-- HUVUD and MinaAB compatible
+- HUVUD 0.61, CANbus and MinaAB compatible
 - Cable management
-- Euclid probe integration
+- Euclid probe ultra-dense integration
 
 
 ### CON's
 - Berd Air?
 - Euclid probe?
+
