@@ -31,6 +31,8 @@ Most projects and designs are licensed as
 ![alt text](/image/licenses.png)
 For others, the licence and attribution will be displayed
 
+Feel free to ask if you want to sell it yourself
+
 Official Website: https://www.brs-engineering.com/
 
 Thank you!
