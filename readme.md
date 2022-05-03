@@ -22,7 +22,7 @@ Intro.|[What is done here?](/intro.md)
 12.|[Specific Products](/products.md)
 
 
-If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, <br>
+If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
 click the button here below :)
 
 [Paypal Donation](https://paypal.me/BRSTech?country.x=FR&locale.x=fr_FR)
@@ -34,6 +34,8 @@ For others, the licence and attribution will be displayed
 Feel free to ask if you want to sell it yourself
 
 Official Website: https://www.brs-engineering.com/
+Facebook pages: https://www.facebook.com/FlorentBroiseEngineering
+Youtube: https://www.youtube.com/channel/UCkiClJtaGl32GyRtkntkpkw
 
 Thank you!
 Florent Broise
