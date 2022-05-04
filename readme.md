@@ -20,6 +20,7 @@ Intro.|[What is done here?](/intro.md)
 10.|[EVA Mods](/evamods.md)
 11.|[Tools (soon)](/tools.md)
 12.|[Specific Products](/products.md)
+123.|[LEGACY](/deprecated.md)
 
 
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
