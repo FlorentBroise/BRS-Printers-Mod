@@ -57,6 +57,12 @@ Version|Description|ReleaseDate|CAD|BOM|License|Order
 **PMB2.0a**|![alt text](/image/tensionner5.png)<br> PMB with L3VER tensionner incorporate, for stock Vcore3 (Open VZbot toolhead design)|15/04/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 **PMB2.0b**|PMB with L3VER tensionner incorporate, for open front mod (Open to VZbot toolhead design)|15/04/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 
+- BRS-Open Front Mod
+
+Version|Description|ReleaseDate|CAD|BOM|License|Order
+-------------|-----------|-----------|-----------|-----------|-----------|-----------
+**BOF-alpha1**|![alt text](/image/OpenF.png)<br> Replace the stock idler, allow to remove the front 3030 extrusion to clear the view. Intended to be use with the Z-Ugrade (all versions), with EVA tensionner system OR with the upcoming L3VER M tensionner for the VC3; Needs 6x M6x20 and 2 5x55m steel shafts |19/05/2022 |[R](/cad/stl/OFR.stl) [L](/cad/stl/OFL.stl) | |![alt text](/image/license.png)| soon
+
 - Stock Enclosure simplification Jigs
 
 Version|Description|ReleaseDate|CAD|License
