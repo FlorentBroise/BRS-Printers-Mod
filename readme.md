@@ -35,7 +35,7 @@ For others, the licence and attribution will be displayed
 
 Feel free to ask if you want to sell it yourself
 
-Official Website: https://brs-engineering.com/
+Official Website: https://www.brs-engineering.com/
 Official Store: https://store.brs-engineering.com/
 Facebook pages: https://www.facebook.com/FlorentBroiseEngineering
 Youtube: https://www.youtube.com/channel/UCkiClJtaGl32GyRtkntkpkw
