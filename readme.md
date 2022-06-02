@@ -2,7 +2,8 @@
 # Welcome to the BRS-Engineering printers upgrades project!
 ![alt text](/image/logo2.png)
 
-**What is done here?**  The main objective here is to develop relevants upgrades to push the  3D printer to the limit we choose to 
+**What is done here?**  The main objective here is to develop relevants upgrades to push the 3D printer to the limit we choose to, especially repetability and high precision quality goals in mind. You will find some manuals, procedures and tips!
+Here a lot of premium upgrades for the Vcore3, with a lot of capabilities. Either you can make it yourself, I offer a print service at https://store.brs-engineering.com specialize in PACF materials if needed. Happy browsing!
 
 ## Quick Navigation
 
