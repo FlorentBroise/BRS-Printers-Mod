@@ -54,8 +54,8 @@ Version|Description|ReleaseDate|CAD|BOM|License|Order
 **Dampers option**|![alt text](/image/dmp.png)<br> add a Nema damper to reduce noises and improve responsivness (tested)|24/03/2022 ||[Info](https://www.moonsindustries.com/series/dampers-a020202)|
 **PMB1.2**|![alt text](/image/motorblock2.PNG)<br> Iteration compatible with extended Z extrusion for integrated enclosure mods and open front mod|02/04/2022 |[STEP](/cad/PMB12.zip)|[BOM](/bom/BOM_PMH.xlsx)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 **PMB1.3**|Compatibility with larger Disc coupling options, up to L28xD30mm|15/05/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
-**PMB2.0a**|![alt text](/image/tensionner5.png)<br> PMB with L3VER tensionner incorporate, for stock Vcore3 (Open VZbot toolhead design)|15/04/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
-**PMB2.0b**|PMB with L3VER tensionner incorporate, for open front mod (Open to VZbot toolhead design)|15/04/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
+**PMB2.0a**|![alt text](/image/tensionner5.png)<br> PMB with L3VER tensionner incorporate, for stock Vcore3 (Open VZbot toolhead design)|10/06/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
+**PMB2.0b**|PMB with L3VER tensionner incorporate, for open front mod (Open to VZbot toolhead design)|10/06/2022 |/|/|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Heavy-duty-motor-block.html)
 
 - BRS-Open Front Mod
 
