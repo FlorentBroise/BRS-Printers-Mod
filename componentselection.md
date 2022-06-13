@@ -89,7 +89,7 @@ Version|Description|Details|CAD|Release date|License|Order
 
 - FLATHEAD V3
 
-A ultralight mosquito based toolhead, "tensionnerless" with a Crystal geometric shroud face
+A ultralight mosquito based toolhead, "tensionnerless" with a Crystal geometric shroud face and the CANBus new iteration
 
 Version|Description|Details|CAD|Release date|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------
