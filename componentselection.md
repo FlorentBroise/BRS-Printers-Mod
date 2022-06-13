@@ -86,13 +86,14 @@ Version|Description|Details|CAD|Release date|License|Order
 **V1.22d-LGX-Lite Nova**|| Nova plate(beta) and shroud. The plate can be CNC or PA6C20 type 100% infill material|  [STEP](/cad/nova.zip)|/|![alt text](/image/license.png)
 **V1.23a-LGX-Lite Mosquito**|| ERCF compliant|  [Files (soon)]()|/|![alt text](/image/license.png)
 
+
 - FLATHEAD V3
 
 A ultralight mosquito based toolhead, "tensionnerless" with a Crystal geometric shroud face
 
 Version|Description|Details|CAD|Release date|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------
-**V1.0-LGX-Lite Mosquito**|| LGX-Lite, quad pipes berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Huvud 0.61, BTT CAnbus squared board and Mellow CANbus Squared board|/|25/05/22|![alt text](/image/license.png)|
+**V1.0-LGX-Lite Mosquito**|![alt text](/image/flatv3.png)| LGX-Lite, quad pipes berd-air, Mosquito, Carbon fiber PA6CF and titanium based head, compatible Huvud 0.61, BTT CAnbus squared board and Mellow CANbus Squared board|/|07/22|CC-BY-NC-ND-4.0|
 
 - BRS-HextrudORT
 
