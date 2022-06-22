@@ -16,7 +16,7 @@ A more drastic integration, lower profile.
 
 Product|Status|View|Manual EN|Release date|Shop|CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
-BRS-E PMB 2.0 with L3VER M2 A1 Tensionner module|In POW|![alt text](/image/tensionner5.png)<br> **PMB 2.0 L3VER M2 Tensionner** A full Vcore 3 compatible manual tensionner block merged with the PMB mod, removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/Lever m2 manual.pdf)|22/06/22|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
+BRS-E PMB 2.0 with L3VER M2 A1 Tensionner module|In POW|![alt text](/image/tensionner5.png)<br> **PMB 2.0 L3VER M2 Tensionner** A full Vcore 3 compatible manual tensionner block merged with the PMB mod, removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/Lever-m2-manual.pdf)|22/06/22|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 
 
 ## [Back to Main Page](/README.md)
