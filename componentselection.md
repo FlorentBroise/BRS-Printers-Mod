@@ -15,8 +15,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V1.96a**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.96b**|<br> Wings coupling DEPRECATED, Oldham to be installed|18/04/22||||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
-**V1.98a**|![alt text](/image/v200.jpg)<br> Compatibility for the VCORE3 200 added; Needs 3x SFU1204 300mm, featuring new arms/Oldham design to regain the Full Z height |28/05/22|/| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
-**V2.0 Heavy Duty-STANDBY**|SFU1204 Ballscrews and oldham system. For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet),|...|June 22| To come||![alt text](/image/license.png)
+**V2.0 Heavy Duty-POC**|SFU1605 Ballscrews and oldham 2.0 system. New bed arms for non planar full compliance and higher angular motions For Heavier custom cast aluminium Bed and 60mm NEMA17 (used with feet), or bigger machine (VC700, 1000, etc)|...|July 22| To come||![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
 
@@ -39,7 +38,8 @@ Version|Description|ReleaseDate|CAD|Files|License|Order
 **vb3.1**(ACTIVE)|![alt text](/image/gantry2.png) Belt tension center corrected, 290g removed from the previous system AVAILABLE for Print service at BRS-E <br> |10/03/2022|[STEP](https://drive.google.com/file/d/1E_F52YKvfQOkNzmlE50xRKSoCSYZyfMS/view?usp=sharing) [FILES](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/CFGantryV2.zip)||![alt text](/image/by.png)
 **vb3.2**(ACTIVE)| UNDER Rail - Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors AVAILABLE for Print service at BRS-E (Prefer a Z1 preload MGN9H)<br> |10/03/2022|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/GantryV2b.step)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
 **vb3.2.1-FIX**(ACTIVE)| FIX of the 20x20 hole dimensions to be more tight over the tube<br> |26/06/2022|[STEP/STL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Ultralight-Joiner-CF-Adjusted1.zip)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
-**vb3.3-FIX**(ACTIVE)| TOP Rail ( EVA, VZBot head) - Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors AVAILABLE for Print service at BRS-E (Prefer a Z1 preload MGN9H)<br> |26/06/2022|[STEP/STL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Ultralight-Joiner-CF-Adjusted.zip)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
+**vb3.3**(ACTIVE)| TOP Rail ( EVA ) - Iteration to adapt natively on stock Ratrig plates, or CF version from 3rd party vendors AVAILABLE for Print service at BRS-E (Prefer a Z1 preload MGN9H)<br> |26/06/2022|[STEP/STL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Ultralight-Joiner-CF-Adjusted.zip)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Flathead-Toolhead.html)
+**vb3.3**(ACTIVE)| ![alt text](/image/gantry5.png) TOP Rail ( VZ bot ) - Iteration to maximize X dimension for the VZbot Printhead (Prefer a Z1 preload MGN9H)<br> |26/06/2022|[STEP/STL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Ultralight-Joiner-CF-Adjusted2.zip)||![alt text](/image/license.png)|
 
 
 - Euclid Probe parts 
