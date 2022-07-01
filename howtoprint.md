@@ -70,6 +70,6 @@ Shell|Top/Bottom thickness|1.2mm|This means between 9 and 5 top and bottom layer
 Section|Setting|Recommended Value|Comment|Orientation
 -------|-------|-----------------|-------|-------
 Shell|Wall Line Count|4 to 6|-
-Shell|Top/Bottom thickness|1.2mm|This means between 9 and 5 top and bottom layers, depending on your layer height. I use a 0.26mm first and last Layer width to get better finish, supports needed with an interface to ensure quality surface |IMPORTANT ![alt text](/image/print3.png)
+Shell|Top/Bottom thickness|1.2mm|This means between 9 and 5 top and bottom layers, depending on your layer height. I use a 0.26mm first and last Layer width to get better finish, supports needed with an interface to ensure quality surface? In termls of support it is the worse part to print but it is very stable for the final parts strengh |IMPORTANT ![alt text](/image/print3.png)
 
 [Back to Main Page](/README.md)
