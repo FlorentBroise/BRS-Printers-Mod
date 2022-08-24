@@ -19,7 +19,7 @@ A toolhead where the hotend can be swapped at will, within 30sec, without loosin
 
 Version|Description|ReleaseDate|CAD|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V0.1-Hextrudort**(DEPRECATED)|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project
+**V0.1-Hextrudort**(DEPRECATED)|![alt text](/image/flathead.png)| Based on the MirageC design from Hevort project|[CAD](/cad/toolheadv2.step)
 **V1.1-LGX Mosquito**(DEPRECATED)|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|/|
 **V1.2-LGX-Lite Mosquito(DEPRECATED)|| LGX-lite, Mosquito/| <br>|/|
 **V1.1-LGX V6 (DEPRECATED)|| LGX, E3D V6| <br>|/|
