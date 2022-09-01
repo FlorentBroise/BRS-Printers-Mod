@@ -11,19 +11,25 @@ Chapter|Content Description
  :---: |-------------------
 Intro.|[What is done here?](/intro.md)
 1.|[Define what you need](/defineneeds.md)
-3.|[Select Upgrades and options](/componentselection.md)
-4.|[BOM](/purchased.md)
-5.|[How to Print your Parts](/howtoprint.md)
-6.|[Assembly Instructions](/assembly.md)
-7.|[Calibration](/calibration.md)
-8.|[Procedures](/procedures.md)
-9.|[Cura tips](/software.md)
-10.|[EVA Mods](/evamods.md)
-11.|[Tools (soon)](/tools.md)
-12.|[Specific Products](/products.md)
-13.|[LEGACY](/deprecated.md)
-14.|[Usefull links](/links.md)
+2.|[Select Upgrades and options](/componentselection.md)
+3.|[BOM](/purchased.md)
+4.|[How to Print your Parts](/howtoprint.md)
+5.|[Assembly Instructions](/assembly.md)
+6.|[Calibration](/calibration.md)
+7.|[Procedures](/procedures.md)
+8.|[Cura tips](/software.md)
+9.|[EVA Mods](/evamods.md)
+10.|[Tools (soon)](/tools.md)
+11.|[Specific Products](/products.md)
+12.|[LEGACY](/deprecated.md)
+13.|[Usefull links](/links.md)
 
+# BRS-Vulcain I
+
+Chapter|Content Description
+ :---: |-------------------
+Intro.|[What is done here?](/intro1.md)
+1.|[Frame](/frame.md)
 
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
 click the button here below :)
