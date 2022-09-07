@@ -31,7 +31,7 @@ Intro.|[What is done here?](/intro.md)
 
 Chapter|Content Description
  :---: |-------------------
-Intro.|[What is done here?](/intro1.md)
+Intro.|[What is it?](/intro1.md)
 1.|[Frame](/frame.md)
 
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
