@@ -20,7 +20,7 @@ What is actually done:
 -Piezo integration in the Vz toolhead (the bigest challenge)
 -Z kinematic is finished and fonctionnal
 
-Once the Machine will be validated, something you can fallow on the BRS facbook page, I will realease the CAD, for free, and add kits in the BRS STORE!!
+Once the Machine will be validated, something you can follow on the BRS Facebook page, I will realease the CAD, for free, and add kits in the BRS STORE!!
 This should happen until the end of September 22
 
 I see you there :)
