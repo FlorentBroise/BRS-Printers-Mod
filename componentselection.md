@@ -27,7 +27,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 
 Version|Description|ReleaseDate|CAD|Files|License|Order
 -------------|-----------|-----------|-----------|------------|-----------|-----------
-**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. more info here https://www.brs-engineering.com/Oldham.html    |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
 **V2.2b**|Central unified ring for light bed|09/09/22|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/RingUnifiedv2.step)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
 **V3.0a**|A Oldham kinematic ring redesign for SFU1605 with custom Z system.  |To come|||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
 
