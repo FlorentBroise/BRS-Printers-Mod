@@ -12,11 +12,9 @@ High precision Z system with anti-wobble system
 Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------|-----------
 **V1.6**|![alt text](/image/Complete.PNG)<br> Last version available. Holes added to access the NEMA17 screws for tuning alignment |29/09/21|[STEP](https://drive.google.com/file/d/1DvUyMbXhosZOEtiP2zKSWmIGoYd-C9qh/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:4978199) ||![alt text](/image/license.png) except wings design
-**V1.65**|<br> The two fronts arms are redesigned to match the Maxwell criterion |31/10/21|| [Right](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-R-165-MKC.3mf) [Left](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/ARM-L-165-MKC.3mf)||![alt text](/image/license.png) except wings design
-**V1.66**|<br> Minor corrections for ease of assembly |20/11/21||||![alt text](/image/license.png) except wings design
 **V1.96a**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.96b**|<br> Wings coupling DEPRECATED, Oldham to be installed|18/04/22||||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
-**V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
+**V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated for lighter parts / compatible VC3.0/3.1 (same assembly method) |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V2.0 Heavy Duty-POC**|![alt text](/image/Complete6.png)<br>SFU1605 Ballscrews and oldham 3.0 system. New bed arms for non planar full compliance and higher angular motions For Heavier custom cast aluminium Bed and NEMA24 / NEMA17 motion (used with feet), for bigger machine (VC700, 1000, etc) or even a 300|...|AU 22| To come||![alt text](/image/license.png)
 
 - Ballscrew arms for Vcore 3 (Oldham version)
