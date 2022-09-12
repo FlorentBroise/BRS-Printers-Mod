@@ -150,7 +150,7 @@ BRS_Filtre_HEPA-V-Core_200.step
 ## LEGACY [(Deprecated parts)](/deprecated.md)
 
 # Credits: 
-Here few people who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
+Here few people/Companies who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
 
 -Olivier Royer-Tardif / MirageC [Hevort project](https://miragec79.github.io/HevORT/)
 
@@ -163,6 +163,10 @@ Here few people who I want to thank, for inspiring reasons, constructive discuss
 -Keegan Wentz (Wentz-dynamics)
 
 -Oleg Ok [EvoMotors](https://www.thingiverse.com/evomotors/designs) 
+
+-RatRig Team [Page](https://ratrig.com/v-core3default.html)
+
+-Fabreeko / Honey Badger [Page](https://www.fabreeko.com/collections/fabreeko)
 
 
 More extensive credit can be found here: https://www.brs-engineering.com https://www.brs-engineering.com/Oldham.html
