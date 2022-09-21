@@ -1,6 +1,8 @@
 
 # The VULCAIN 
 
+![alt text](/image/Vulcain.png)
+
 Vulcan is an ancient Roman god, whose parents are Juno and Jupiter.
 God of iron and fire, and therefore of blacksmiths, the hammer is his attribute. He was identified with the Greek god Hephaestus.
 As a Mythology lover, this name is self explainable
