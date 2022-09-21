@@ -21,7 +21,7 @@ What is actually done:
 -Z kinematic is finished and fonctionnal
 
 Once the Machine will be validated, something you can follow on the BRS Facebook page, I will realease the CAD, for free, and add kits in the BRS STORE!!
-This should happen until the end of September 22
+This should happen until the end of September 22! All VULCAIN parts and design are under CC BY-NC 4.0
 
 I see you there :)
 
