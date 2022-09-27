@@ -4,13 +4,13 @@
 ## 1. EXTRUDER Rotation_Distance
 Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Getting the good extrusion|Rotation_Distance|mark the filament at 120mm from your extruder, Extrude 100mm, make the calculation to retrieve the good number, TeachingTech webstite include the step/mm calculation, then use my table to get the conversion into Rotation_distance units|[Calculation](https://teachingtechyt.github.io/calibration.html#esteps) [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
+Getting the good extrusion|Rotation_Distance|mark the filament at 120mm from your extruder, Extrude 100mm, make the calculation to retrieve the good number, TeachingTech webstite include the step/mm calculation, then use my table to get the conversion into Rotation_distance units|[Calculation](https://teachingtechyt.github.io/calibration.html#esteps) [Conversion Table]([https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqdm2z-SPMjd_42bBef0M9b2Dps9JlTae75-hatmhvRB6q4-uJ5TJgZfNH09m-GVFZC01qoxJYVNI9/pubhtml))
 
   
 ## 2. Flow
 Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
-Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check the width of the layer |[Calculation](https://teachingtechyt.github.io/calibration.html#flow) [Conversion Table](https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing)
+Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check the width of the layer |[Calculation](https://teachingtechyt.github.io/calibration.html#flow) [Conversion Table]([https://docs.google.com/spreadsheets/d/1QoG55a7jAd35u44tHSNO_fw4V8TqxGqY6CiFbPHnMOo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqdm2z-SPMjd_42bBef0M9b2Dps9JlTae75-hatmhvRB6q4-uJ5TJgZfNH09m-GVFZC01qoxJYVNI9/pubhtml))
 
 ## 3. Adjusting belts tensions.
 Section|Setting|Recommended Value|Comment
