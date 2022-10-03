@@ -139,10 +139,10 @@ Version|Description|ReleaseDate|CAD|Thingiverse|License
 
 Keep lungs safe 
 
-Version|Description|ReleaseDate|CAD|Thingiverse|License
--------------|-----------|-----------|-----------|-----------|-----------
-**V1.0**|![alt text](/image/filtre.png)<br>VCORE 300 / 400 / 500 / +. Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers |30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:5224729)|![alt text](/image/license.png)
-**V1.0**|![alt text](/image/filtre.png)<br>VCORE 200. Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers / ITERATION Made by Baptiste FRESSY and Jerôme WIDERMANN [RomRider](https://github.com/RomRider)|28/07/2022 |[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BRS_Filtre_HEPA-V-Core_200.step)||![alt text](/image/license.png)
+Version|Description|ReleaseDate|CAD|Thingiverse|License|Shop
+-------------|-----------|-----------|-----------|-----------|-----------|-----------
+**V1.0**|![alt text](/image/filtre.png)<br>VCORE 300 / 400 / 500 / +. Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers |30/01/2022 |[STEP](https://drive.google.com/file/d/1GbbapQNqAy890YhhwPo68B0XPKutEi3w/view?usp=sharing)| [STL](https://www.thingiverse.com/thing:5224729)|![alt text](/image/license.png)|[STORE](https://store.brs-engineering.com/products/brs-cf80-filtration)
+**V1.0**|![alt text](/image/filtre.png)<br>VCORE 200. Heavy duty Filtration system, HEPA + Carbon filter, works on a recirculation principle, perfect for heated chambers / ITERATION Made by Baptiste FRESSY and Jerôme WIDERMANN [RomRider](https://github.com/RomRider)|28/07/2022 |[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BRS_Filtre_HEPA-V-Core_200.step)||![alt text](/image/license.png)|[STORE](https://store.brs-engineering.com/products/brs-cf80-filtration)
 
 BRS_Filtre_HEPA-V-Core_200.step
 
