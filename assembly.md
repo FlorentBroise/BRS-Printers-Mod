@@ -13,5 +13,6 @@ L3VER M1 A1.1|Active|![alt text](/image/tensionner7.png)<br> Heavy duty Tensionn
 Ultralight Gantry|Active|![alt text](/image/gantry5.png)<br> **Ultralight gantry** |[Download](/manuals/Ultralight-Gantry-Manual.pdf)|/| 
 Flathead V2|Active|![alt text](/image/mosquito1.PNG)<br> **FlatheadV2**|[Download](/manuals/manualEN.pdf)|/|/
 CF80 Filtration unit|Active|![alt text](/image/filtre.png)<br> **CF80 Filtration unit**|[Download](/manuals/CF80-Manual.pdf)|/|/
+Open front blocks V2|Active|![alt text](/image/openv2.png)<br> **Open front V2**|[Download](/manuals/open-Manual.pdf)|/|/
 
 ## [Back to Main Page](/README.md)
