@@ -23,7 +23,7 @@ A more cost effective way to decouple XY for non straight ballscrews
 
 Product|Status|View|Manual EN|Release date|Shop|CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
-FLEX-P V1.2|In POW|![alt text](/image/flexp.png)<br> **FLEX-P-V1.2** A decoupling module based on a flexure mechanism for Z-axis on X and Y independantly. It keeps the advantages of the Oldham / Ring system, and decrease the overall cost, and reduce the manufacturing process to the minimum. It decreases the Z space too by beeing more compact than any anti wobble mechanism. Resistances validated to 25kg before degradation. Base thickness of 15mm for a PACF base, can be bigger to satisfy more rigidity on the decoupling motion, or more Z weight tolerances. Will be standard on the BRS-VULCAIN. Actually in proofing|/|11/22|/| |![alt text](/image/by-nc-nd.png)
+FLEX-P V1.2 (proto designed 10/10/22)|In POW|![alt text](/image/flexp.png)<br> **FLEX-P-V1.2** A decoupling module based on a flexure mechanism for Z-axis on X and Y independantly. It keeps the advantages of the Oldham / Ring system, and decrease the overall cost, and reduce the manufacturing process to the minimum. It decreases the Z space too by beeing more compact than any anti wobble mechanism. Resistances validated to 25kg before degradation. Base thickness of 15mm for a PACF base, can be bigger to satisfy more rigidity on the decoupling motion, or more Z weight tolerances. Will be standard on the BRS-VULCAIN. Actually in proofing|/|11/22|/| |![alt text](/image/by-nc-nd.png)
 
 
 ## [Back to Main Page](/README.md)
