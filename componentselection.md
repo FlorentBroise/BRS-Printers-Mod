@@ -84,6 +84,14 @@ Version|Description|ReleaseDate|CAD|License
 
 ## 3/ TOOLHEAD
 
+- EVA 3.x Magnum+ / VZ Extruder
+v-1.0
+A light Mosquito Magnum+ based toolhead, with the VZbot ultra light extruder
+
+Version|Description|Details|CAD|Release date|License|Order
+-------------|-----------|-----------|-----------|------------|------------|-----------
+**V1.0-VZ-MosquitoM+**|![alt text](/image/mosquitom.PNG)| | [STEP]([/cad/Flatheadv2.zip](https://delivery.shopifyapps.com/-/9e3eb5e5cc8cb667/a874b75feeb5667b))|16/01/23||[SHOP](https://store.brs-engineering.com/products/eva-3-x-cartesian-inserts-magnum-plus-vz-extruder2)
+
 - FLATHEAD V2
 v-b0.2 
 A ultralight mosquito based toolhead, with Crystal geometric shroud face
