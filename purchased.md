@@ -6,7 +6,8 @@ In this section you will find the Bill of Material for all upgrades.
 
 Printer Component|Status|View|STL files|Bill of Material (Excel)
 -----------------|------|-----------------------------------| :----: |  :---------------:
-Z system|Active|![alt text](/image/Complete.PNG)<br> **Z-Upgrade** Ballscrew system|[link](https://www.thingiverse.com/thing:4978199)|[Download](/bom/BOM_ZU_160-165-166.xlsx)  
+Z system|Active|![alt text](/image/Complete.PNG)<br> **Z-Upgrade 1.x** Ballscrew system|[link](https://www.thingiverse.com/thing:4978199)|[Download](/bom/BOM_ZU_160-165-166.xlsx)  
+Z system 2.0|Active|![alt text](/image/ZU201.png)<br> **Z-Upgrade 2.0** Ballscrew system|/|[Download](/bom/BOM_ZU_2.pdf)  
 Oldham|Active|![alt text](/image/oldham.png)<br> **Oldham** Ballscrew system||[Download](/bom/BOM_RINGS-22.pdf)  
 Ultralight Gantry|Active|![alt text](/image/gantry2.png)<br> **Ultralight Gantry** ||[Download](/bom/BOM.xlsx)  
 Flathead V2 toolhead|Active|![alt text](/image/mosquito1.PNG)<br> **Flathead V2 toolhead** ||[Download](/bom/BOM_Flatheadv2.xlsx) 
