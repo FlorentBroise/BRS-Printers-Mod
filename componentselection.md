@@ -91,7 +91,7 @@ A light Mosquito Magnum+ based toolhead, with the VZbot ultra light extruder
 Version|Description|Details|CAD|Release date|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------
 **V1.0-VZ-MosquitoM+**|![alt text](/image/mosquitom.PNG)| | [STEP]([/cad/Flatheadv2.zip](https://delivery.shopifyapps.com/-/9e3eb5e5cc8cb667/a874b75feeb5667b))|16/01/23||[SHOP](https://store.brs-engineering.com/products/eva-3-x-cartesian-inserts-magnum-plus-vz-extruder2)
-**V1.0-M+ Duct Corrected**|![alt text](/image/mosquitomduct.PNG)| | [3MF]([/cad/MplusDuct.3mf](https://delivery.shopifyapps.com/-/9e3eb5e5cc8cb667/a874b75feeb5667b))|16/01/23||[SHOP](https://store.brs-engineering.com/products/eva-3-x-cartesian-inserts-magnum-plus-vz-extruder2)
+**V1.0-M+ Duct Corrected**|![alt text](/image/mosquitomduct.PNG)| | [3MF]([/cad/MplusDuct.3mf](https://delivery.shopifyapps.com/-/9e3eb5e5cc8cb667/a874b75feeb5667b))|25/01/23||[SHOP](https://store.brs-engineering.com/products/eva-3-x-cartesian-inserts-magnum-plus-vz-extruder2)
 
 - FLATHEAD V2
 v-b0.2 
