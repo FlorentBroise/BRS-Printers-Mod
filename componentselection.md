@@ -4,7 +4,7 @@
 
 # I/ ACTIVE
 
-## 1/ Z SYSTEM 1.0
+## -/ Z SYSTEM 1.0
 
 - Z-Ballscrews-upgrade 1
 High precision Z system with anti-wobble system 
@@ -17,7 +17,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated for lighter parts / compatible VC3.0/3.1 (same assembly method) |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 
 
-## 1/ Z SYSTEM 2.0
+## -/ Z SYSTEM 2.0
 
 - Z-Ballscrews-upgrade 2
 High precision Z system with anti-wobble system 
