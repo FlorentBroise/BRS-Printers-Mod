@@ -4,9 +4,9 @@
 
 # I/ ACTIVE
 
-## 1/ Z SYSTEM
+## 1/ Z SYSTEM 1.0
 
-- Z-Ballscrews-upgrade
+- Z-Ballscrews-upgrade 1
 High precision Z system with anti-wobble system 
 
 Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
@@ -15,12 +15,18 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V1.96a**|<br> Documentation links implementation |11/03/22|||[Manuals](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals)|![alt text](/image/license.png) except wings design|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.96b**|<br> Wings coupling DEPRECATED, Oldham to be installed|18/04/22||||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
 **V1.97a**|![alt text](/image/Complete5.PNG)<br> Last version available. Geometry Updated for lighter parts / compatible VC3.0/3.1 (same assembly method) |19/04/22|[ZIP](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/1-97a.zip)| ||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Vcore.html)
-**V2.0 Heavy Duty 1204 EXTENDED**|![alt text](/image/ZU201.png)<br>SFU1204 Version - Drop in upgrade for existing Z-Upgrade, or new complete kit: Extend the Z distance of 50mm (need of 50mm longer ballscrews spindles. Use the same Plates pattern than the previous ZU versions, available for 0-2-3-4mm underplates otherwise through height modualator. Corner completly reinforced and high ability to keep the frame aligned from the spindle Axis, use the same Arms, Oldham and Retainer than previous Z upgrade version. Compatible natively for NEMA 17 and NEMA 23. Need a 50mm (Depending NEMA size) of clearance bellows the frame, Compatible with every VCore 3.x machines, scalable for VC600-1000|20/12/22|16/01/23| [STEP](https://delivery.shopifyapps.com/-/abf9448cb7a2439f/cc5873cefa9533a7) |[Files](https://www.thingiverse.com/thing:5791962)|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
-**V2.0 Heavy Duty 1605 EXTENDED**|![alt text](/image/ZU201.png)<br>SFU1605 Version - Drop in upgrade for existing Z-Upgrade, or new complete kit: Extend the Z distance of 50mm (need of 50mm longer ballscrews spindles. Use the same Plates pattern than the previous ZU versions, available for 0-2-3-4mm underplates otherwise through height modualator. Corner completly reinforced and high ability to keep the frame aligned from the spindle Axis, use the same Arms, Oldham and Retainer than previous Z upgrade version. Compatible natively for NEMA 17 and NEMA 23. Need a 50mm (Depending NEMA size) of clearance bellows the frame, Compatible with every VCore 3.x machines, scalable for VC600-1500|20/12/22|04/02/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Z-Upgrade 2.0b.zip) |/|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 
 
+## 1/ Z SYSTEM 2.0
 
-- Ballscrew arms for Vcore 3 (Oldham version)
+- Z-Ballscrews-upgrade 2
+High precision Z system with anti-wobble system 
+
+Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
+-------------|-----------|-----------|-----------|------------|------------|-----------|-----------
+**V2.0 Heavy Duty 1204 EXTENDED**|![alt text](/image/ZU201.png)<br>SFU1204 Version - Extend the Z distance of 50mm (need  50mm longer ballscrews spindles), available for 0-2-3-4mm underplates otherwise through height modualator. Corner completly reinforced and high ability, keep the frame aligned from the spindle Axis, use the same Arms, Oldham and Retainer than previous Z upgrade version. Compatible  NEMA17 and NEMA23. Need a clearance bellows the frame, Compatible with every VCore 3.x machines,.|16/01/23| [STEP](https://delivery.shopifyapps.com/-/abf9448cb7a2439f/cc5873cefa9533a7) |[Files](https://www.thingiverse.com/thing:5791962)| / |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
+**V2.0 Heavy Duty 1605 EXTENDED**|![alt text](/image/ZU201.png)<br>SFU1605 Version|04/02/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Z-Upgrade-2.0b.zip) | / | / |![alt text](/image/license.png)|[SOON]
+
 
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|------------|-----------
