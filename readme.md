@@ -25,6 +25,7 @@ Intro.|[What is done here?](/intro.md)
 12.|[Specific Products](/products.md)
 13.|[LEGACY](/deprecated.md)
 14.|[Usefull links](/links.md)
+15.|[Credits](/credits.md)
 
 # BRS-Vulcain I
 ## Quick Navigation
