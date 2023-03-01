@@ -21,11 +21,12 @@ Intro.|[What is done here?](/intro.md)
 8.|[Procedures](/procedures.md)
 9.|[Cura tips](/software.md)
 10.|[EVA Mods](/evamods.md)
-11.|[Tools (soon)](/tools.md)
-12.|[Specific Products](/products.md)
-13.|[LEGACY](/deprecated.md)
-14.|[Usefull links](/links.md)
-15.|[Credits](/credits.md)
+11.|[VZ Mods](/vzmods.md)
+12.|[Tools (soon)](/tools.md)
+13.|[Specific Products](/products.md)
+14.|[LEGACY](/deprecated.md)
+15.|[Usefull links](/links.md)
+16.|[Credits](/credits.md)
 
 # BRS-Vulcain I
 ## Quick Navigation
