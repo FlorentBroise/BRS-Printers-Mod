@@ -4,15 +4,15 @@
 
 In this section you will find specific products, not shared on the regular CAD side. It can be bought at BRS Shop. As prototyping is time hungry and expensive, this is a mean for you to participate further in the next developments ;)
 
-###TENSIONNER for Assembled Vcore3
+### TENSIONNER for Assembled Vcore3
 IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
 
 Product|Status|View|Manual EN|Release date|Shop|CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
 BRS-E L3VER M1 A1.1 Tensionner module|Active|![alt text](/image/tensionner7.png)<br> **L3VER M1 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/06/22| [SHOP](https://store.brs-engineering.com/products/tensionner-l3ver-m1)|[CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m1-a1-1-cad)| ![alt text](/image/by-nc-nd.png)
 
-###TENSIONNER for "not yet assembled" Vcore3
-A more drastic integration, lower profile.
+### TENSIONNER for "not yet assembled" Vcore3
+A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
 
 Product|Status|View|Manual EN|Release date|Shop|CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
