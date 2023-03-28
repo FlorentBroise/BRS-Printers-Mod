@@ -32,7 +32,7 @@ IF you dont want to change the motor bracket, (very simple installation) Good fo
 
 Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
-BRS-IDEX A1.0 |POC|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||01/06/23| || ![alt text](/image/by-nc-nd.png)
+BRS-IDEX A1.0 (proto designed 01/02/23) |POC|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||01/06/23| || ![alt text](/image/by-nc-nd.png)
 
 
 ## [Back to Main Page](/README.md)
