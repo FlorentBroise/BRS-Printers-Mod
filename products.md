@@ -1,7 +1,6 @@
 
 # BRS-Engineering  
-## Specific Products
-## L3VER M-Series Tensionner mechanism
+## Specific Products (L3VER/IDEX/Proto)
 
 In this section you will find specific products, not shared on the regular CAD side. It can be bought at BRS Shop. As prototyping is time hungry and expensive, this is a mean for you to participate further in the next developments ;)
 
