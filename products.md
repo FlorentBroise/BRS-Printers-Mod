@@ -1,15 +1,17 @@
 
 # BRS-Engineering  
 ## Specific Products
+## L3VER M-Series Tensionner mechanism
 
 In this section you will find specific products, not shared on the regular CAD side. It can be bought at BRS Shop. As prototyping is time hungry and expensive, this is a mean for you to participate further in the next developments ;)
 
-### TENSIONNER for Assembled Vcore3
+### L3VER TENSIONNER for Assembled Vcore 3.x (3.0 / 3.1)
 IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
 
 Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
-BRS-E L3VER M1 A1.1 Tensionner module|Active|![alt text](/image/tensionner7.png)<br> **L3VER M1 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/06/22| [SHOP](https://store.brs-engineering.com/products/tensionner-l3ver-m1)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m1-a1-1-cad)| ![alt text](/image/by-nc-nd.png)
+BRS-E L3VER M1 1.0 (A1.1) Tensionner module|Active|![alt text](/image/tensionner7.png)<br> **L3VER M1 1.0 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/06/22| [SHOP](https://store.brs-engineering.com/products/tensionner-l3ver-m1)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m1-a1-1-cad)| ![alt text](/image/by-nc-nd.png)
+BRS-E L3VER M1 1.1 (A1.6) Tensionner module|Active|![alt text](/image/tensionner71.png)<br> **L3VER M1 1.1 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt, This is a revised version from the 1.0, more dense, few parts less, same performances|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/06/22| [SHOP Soon]()|[Shop CAD Soon]()| ![alt text](/image/by-nc-nd.png)
 
 ### TENSIONNER for "not yet assembled" Vcore3
 A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
