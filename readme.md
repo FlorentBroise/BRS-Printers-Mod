@@ -27,6 +27,7 @@ Intro.|[What is done here?](/intro.md)
 14.|[LEGACY](/deprecated.md)
 15.|[Usefull links](/links.md)
 16.|[Credits](/credits.md)
+17.|[CAD changelogs](/changelogs.md)
 
 # BRS-Vulcain I
 ## Quick Navigation
