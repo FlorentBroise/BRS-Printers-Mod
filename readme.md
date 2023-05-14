@@ -37,10 +37,15 @@ Chapter|Content Description
 Intro.|[What is it?](/intro1.md)
 1.|[Frame](/frame.md)
 
+# Donation
+
 If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
 click the button here below :)
-
+![alt text](/image/paypal.png)
 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=VEMAB3WH74FW2)
+
+
+# Licenses
 
 Most projects and designs are licensed as
 ![alt text](/image/licenses.png)
