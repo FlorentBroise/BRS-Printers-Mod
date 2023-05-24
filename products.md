@@ -17,13 +17,13 @@ Rear part is meant to be printed, the front one is to be cut (metal/PC)
 
 Product|Status|View|Manual EN|Release date|Shop Product| CAD | License
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------
-M2 Enclosure plates 1.0|Active|![alt text](/image/m2-plate-metal1.png)<br> **M2 Enclosure plates** A set of plates to close the rear electronic top for the M2 Lever. Has been designed with the Cpap hole but can be use with any layout you can add; Made for Vcore 3.x 200mm, 300mm, 400mm, 500mm, and 600mm|none|24/05/23|soon|[CAD](/cad/M2-plate.zip)|![alt text](/image/license.png)
+M2 Enclosure plates 1.0|Active|![alt text](/image/m2-plate-metal1.png)<br> **M2 Enclosure plates** A set of plates to close the rear electronic top for the M2 Lever. Has been designed with the Cpap hole but can be use with any layout you can add; Made for Vcore 3.x 200mm, 300mm, 400mm, 500mm, and 600mm|none|24/05/23|soon|[CAD](/cad/m2-plate.zip)|![alt text](/image/license.png)
 
 ### L3VER M2 TENSIONNER WS7040 CPAP enclosure plates Vcore 3.x (3.0 / 3.1)
 
 Product|Status|View|Manual EN|Release date|Shop Product| CAD | Credit
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------
-M2/WS7040 CPAP - Enclosure plates|Active|![alt text](/image/m2-plate-cpap.png)<br> **M2/WS7040 CPAP - Enclosure plates** A set of plates to close the rear electronic top for the M2 Lever. Has been designed with the Cpap hole but can be use with any layout you can add; This iteration use the excellent mod from my friend Dan Cernogorsky, named "RatRig V-Core WS7040 CPAP Fan Shelf Mount", housing the CPAP fan and electronic in a dampered solution meant to reduce the sound of the turbofan, and ease the mounting of it. Made for Vcore 3.x 200mm, 300mm, 400mm, 500mm, and 600mm|none|24/05/23|/|[CAD](/cad/cpap-plate.zip)|[CREDIT](https://www.printables.com/model/354374-ratrig-v-core-ws7040-cpap-fan-shelf-mount/files) | 
+M2/WS7040 CPAP - Enclosure plates|Active|![alt text](/image/m2-plate-cpap.png)<br> **M2/WS7040 CPAP - Enclosure plates** A set of plates to close the rear electronic top for the M2 Lever. Has been designed with the Cpap hole but can be use with any layout you can add; This iteration use the excellent mod from my friend Dan Cernogorsky, named "RatRig V-Core WS7040 CPAP Fan Shelf Mount", housing the CPAP fan and electronic in a dampered solution meant to reduce the sound of the turbofan, and ease the mounting of it. Made for Vcore 3.x 200mm, 300mm, 400mm, 500mm, and 600mm|none|24/05/23|/|[CAD](/cad/CPAP-Plate.zip)|[CREDIT](https://www.printables.com/model/354374-ratrig-v-core-ws7040-cpap-fan-shelf-mount/files) | 
 
 
 ### TENSIONNER for "not yet assembled" Vcore3
