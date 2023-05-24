@@ -61,3 +61,10 @@ Version|Description|ReleaseDate|CAD|License
 Version|Description|ReleaseDate|CAD|License
 -------------|-----------|-----------|-----------|-----------
 **SBS-V1.1**|<br> Compatible with the F695-2R - 695zz Pulley conversion|16/03/2022 | [TopL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-left.zip) [TopR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/top-right-bearing.zip) [IdlerR](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-L.3mf) [IdlerL](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Idler-R.3mf)|![alt text](/image/license.png)
+
+###ANTI-WOBBLE Flexure system for SFU Ballscrews
+A more cost effective way to decouple XY for non straight ballscrews
+
+Product|Status|View|Manual EN|Release date|Shop|CAD|License
+-----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
+FLEX-P V1.2 (proto designed 10/10/22)|DEPRECATED, does not correct Z specific angle precession deviation|![alt text](/image/flexp.png)<br> **FLEX-P-V1.2** A decoupling module based on a flexure mechanism for Z-axis on X and Y independantly. It keeps the advantages of the Oldham / Ring system, and decrease the overall cost, and reduce the manufacturing process to the minimum. It decreases the Z space too by beeing more compact than any anti wobble mechanism. Resistances validated to 25kg before degradation. Base thickness of 15mm for a PACF base, can be bigger to satisfy more rigidity on the decoupling motion, or more Z weight tolerances. Will be standard on the BRS-VULCAIN. Actually in proofing|/|03/23|/| |![alt text](/image/by-nc-nd.png)
