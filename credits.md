@@ -41,6 +41,10 @@ Here few people/Companies who I want to thank, for inspiring reasons, constructi
 
     A customer, a friend and a serious pro :)
     
+ -Dan Cernogorsky [Page](https://www.printables.com/@DanCernogorsky)
+
+    A customer, a friend with a nice touch on design :)
+    
     
 
 
