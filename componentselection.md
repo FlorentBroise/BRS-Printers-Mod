@@ -22,7 +22,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 - Z-Ballscrews-upgrade 2
 High precision Z system with anti-wobble system 
 
-Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
+Version|Description|ReleaseDate|CAD|STL|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------|-----------
 **V2.0a Heavy Duty 1204 EXTENDED**|![alt text](/image/ZU201.png)<br>SFU1204 Version - Extend the Z distance of 50mm (need  50mm longer ballscrews spindles), available for 0-2-3-4mm underplates otherwise through height modualator. Corner completly reinforced and high ability, keep the frame aligned from the spindle Axis, use the same Arms, Oldham and Retainer than previous Z upgrade version. Compatible  NEMA17 and NEMA23. Need a clearance bellows the frame, Compatible with every VCore 3.x machines,.|16/01/23| Outdated | Outdated 22| / |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 **V2.05a Heavy Duty 1204 EXTENDED**|First revision, correcting few CAD errors, some optimisations. [PATCH-NOTE](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/patch/BRSZU205aPN.pdf)|20/02/23| /| / | [MANUAL](/manuals/manual2EN.pdf)/ [Troubleshoot](/manuals/TroubleshootingZ.pdf) |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
@@ -31,7 +31,7 @@ Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 **V2.0b Heavy Duty 1605 EXTENDED**|![alt text](/image/Z-Upgrade_2.0b.png)<br>SFU1605 Version|04/02/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Z-Upgrade-2.0b.zip) | / | / |![alt text](/image/license.png)|[SOON]
 **V2.05b Heavy Duty 1204 EXTENDED**|First revision, correcting few CAD errors, some optimisations.|22/02/23| [STEP] | / | / |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 **V2.05b ZU2.x 3mm Spacer**|![alt text](/image/3mmSPACER.png)A spacer to be used if no enclosure bottom plate is placed.|08/05/23| [3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/3mmSPACER.3mf) | / | / |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
-**V2.05b ZU2.x 75mm Feet**|![alt text](/image/feet.png)4x 75 feet to adapt the Z-Upgrade 2.0 on the stock frame of any Vcore 3.0/3.1.|12/06/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/ZUfeet.step) | / | / ||[SHOP](https://store.brs-engineering.com/products/pieds-x4-pour-vcore-3)
+**V2.05b ZU2.x 75mm Feet**|![alt text](/image/feet.png)4x 75 feet to adapt the Z-Upgrade 2.0 on the stock frame of any Vcore 3.0/3.1.|12/06/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/ZUfeet.step) | [3MF](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/feet.zip) | / ||[SHOP](https://store.brs-engineering.com/products/pieds-x4-pour-vcore-3)
 
 
 Version|Description|ReleaseDate|CAD|Thingiverse|License
