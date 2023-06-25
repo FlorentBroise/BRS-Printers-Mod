@@ -32,7 +32,7 @@ M2/WS7040 CPAP Cutted v0.3- Enclosure plates|Active|<br> **M2/WS7040 CPAP - Encl
 ### VC300
 Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
-M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|soon|soon | ![alt text](/image/license.png)
+M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|[CAD](/cad/m1-300-plate.step)|soon | ![alt text](/image/license.png)
 ### VC400
 Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
@@ -40,7 +40,7 @@ M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **
 ### VC500
 Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
-M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|[CAD](/cad/m1-400-plate.step)|soon| ![alt text](/image/license.png)
+M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|[CAD](/cad/m1-500-plate.step)|soon| ![alt text](/image/license.png)
 
 ### TENSIONNER for "not yet assembled" Vcore3
 A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
