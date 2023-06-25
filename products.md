@@ -28,8 +28,19 @@ M2/WS7040 CPAP Cutted V0.1 - Enclosure plates|Deprecated|<br> **M2/WS7040 CPAP -
 M2/WS7040 CPAP Cutted v0.2- Enclosure plates|Deprecated|<br> **M2/WS7040 CPAP - Enclosure plates** Revision to add a Belt XY recess and a custom Y endstop holder? and a small cutout adjusment|Soon|12/02/23|/||[CREDIT](https://www.printables.com/model/354374-ratrig-v-core-ws7040-cpap-fan-shelf-mount/files) | 
 M2/WS7040 CPAP Cutted v0.3- Enclosure plates|Active|<br> **M2/WS7040 CPAP - Enclosure plates** 2nd Revision to correct huge design flaw resulting a M2 misfitment|Soon|14/02/23|/|[CAD](/cad/m2-plate-cutted.step)|[CREDIT](https://www.printables.com/model/354374-ratrig-v-core-ws7040-cpap-fan-shelf-mount/files) | 
 
-
-
+### L3VER M1+Refreshed TENSIONNER enclosure plates Vcore 3.x (3.0 / 3.1)
+### VC300
+Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
+--------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
+M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|soon|soon | ![alt text](/image/license.png)
+### VC400
+Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
+--------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
+M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|[CAD](/cad/m1--400-plate.step)|[STL](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/stl/m1-plates) | ![alt text](/image/license.png)
+### VC500
+Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
+--------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
+M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|soon|soon| ![alt text](/image/license.png)
 
 ### TENSIONNER for "not yet assembled" Vcore3
 A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
