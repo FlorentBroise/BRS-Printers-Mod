@@ -8,26 +8,30 @@ Here a lot of premium upgrades for the Vcore3, with a lot of capabilities. Eithe
 # Vcore 3-3.1 based
 ## Quick Navigation
 
-Chapter|Content Description
- :---: |-------------------
+Chapter|Subsection|Content Description
+  :---: |:---: |-------------------
 Intro.|[What is done here?](/intro.md)
-1.|[Define what you need](/defineneeds.md)
-2.|[Frame](/frame.md)
-3.|[Select Upgrades and options](/componentselection.md)
-4.|[BOM](/purchased.md)
-5.|[How to Print your Parts](/howtoprint.md)
-6.|[Assembly Instructions](/assembly.md)
-7.|[Calibration](/calibration.md)
-8.|[Procedures](/procedures.md)
-9.|[Cura tips](/software.md)
-10.|[EVA Mods](/evamods.md)
-11.|[VZ Mods](/vzmods.md)
-12.|[Tools (soon)](/tools.md)
-13.|[Specific Products (L3VER/IDEX/Proto)](/products.md)
-14.|[LEGACY/DEPRECATED](/deprecated.md)
-15.|[Usefull links](/links.md)
-16.|[Credits](/credits.md)
-17.|[CAD changelogs](/changelogs.md)
+1.|.|[Define what you need](/defineneeds.md)
+2.|.|[Frame](/frame.md)
+3.|.|[Select General Upgrades and options](/componentselection.md)
+.| A |[Z Upgrade for VCore](/Z_Upgrade.md)
+.| B |[Gantry](/Gantry.md)
+.| C |[Toolheads](/Toolheads.md)
+.| D |[BRS-AWD Drive](/awd_drive.md)
+4.|.|[BOM](/purchased.md)
+5.|.|[Specific Products (L3VER/IDEX/Proto)](/products.md)
+6.|.|[Assembly Instructions](/assembly.md)
+7.|.|[Calibration](/calibration.md)
+8.|.|[Procedures](/procedures.md)
+9.|.|[Cura tips](/software.md)
+10.|.|[EVA Mods](/evamods.md)
+11.|.|[VZ Mods](/vzmods.md)
+12.|.|[Tools (soon)](/tools.md)
+13.|.|[How to Print your Parts](/howtoprint.md)
+14.|.|[LEGACY/DEPRECATED](/deprecated.md)
+15.|.|[Usefull links](/links.md)
+16.|.|[Credits](/credits.md)
+17.|.|[CAD changelogs](/changelogs.md)
 
 # BRS-Vulcain I
 ## Quick Navigation
