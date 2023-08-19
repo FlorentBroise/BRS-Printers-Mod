@@ -7,4 +7,4 @@
 
 Version|Description|ReleaseDate|CAD|Thingiverse|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|-----------|-----------
-**V1.1**|![alt text](/image/awd.PNG)<br> First release. |19/08/23|[STEP]()| [STL]() |SOON|![alt text](/image/license.png)|SOON
+**V1.1**|![alt text](/image/awd.PNG)<br> First release. |19/08/23|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/cad/BRS-AWD-Drive-1-1.zip)| [STL](https://www.printables.com/model/557508-brs-awd-drive-for-vcore-3031) |SOON|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-1-1)
