@@ -14,6 +14,6 @@ Flathead V2 toolhead|Active|![alt text](/image/mosquito1.PNG)<br> **Flathead V2 
 BRS-HextrudORT|Beta|![alt text](/image/BRSh1.png)<br> **BRS-HextrudORT toolhead** ||[Download soon]() 
 Precision Modular Motor Blocks|Active|![alt text](/image/motorblock.png)<br> **Precision Modular Motor Block** ||[Download](/bom/BOM_PMH.xlsx) 
 L3VER M1-M2|Active|![alt text](/image/skeleton.png)<br> **L3VER M1-M2** ||[Download](/bom/BOM-M1-M2.pdf)
-
+BRS-AWD-Drive 1.1|Active|![alt text](/image/awd.PNG)<br> **BRS-AWD-Drive 1.1** ||[Download](/bom/BOM-AWD1.pdf)
 
 ## [Back to Main Page](/readme.md)
