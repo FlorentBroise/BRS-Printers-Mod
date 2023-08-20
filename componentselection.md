@@ -2,10 +2,9 @@
 
 #The shop has moved to https://store.brs-engineering.com/
 
-SEE THE SUBSECTION TO FIND YOUR NEEDS ;)
+#SEE THE SUBSECTION ON THE LAST PAGE TO FIND YOUR NEEDS ;)
 
 
-## LEGACY [(Deprecated parts)](/deprecated.md)
 
 
 # Credits: 
@@ -19,6 +18,8 @@ Here few people/Companies who I want to thank, for inspiring reasons, constructi
 
 -Pawel Kucmus [EVA](https://main.eva-3d.page/)
 
+-John Beima (KME)
+
 -Keegan Wentz (Wentz-dynamics)
 
 -Oleg Ok [EvoMotors](https://www.thingiverse.com/evomotors/designs) 
@@ -26,6 +27,8 @@ Here few people/Companies who I want to thank, for inspiring reasons, constructi
 -RatRig Team [Page](https://ratrig.com/v-core3default.html)
 
 -Fabreeko / Honey Badger [Page](https://www.fabreeko.com/collections/fabreeko)
+
+-AJES! / Anders Velling Jorgensen 
 
 
 More extensive credit can be found here: https://www.brs-engineering.com https://www.brs-engineering.com/Oldham.html
