@@ -9,7 +9,8 @@
 
 Version|Description|ReleaseDate|CAD|Thingiverse|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|------------|-----------|-----------
-**V1.1**|![alt text](/image/and.PNG)<br> First release. |19/08/23|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/cad/BRS-AWD-Drive-1-1.zip)| [STL](https://www.printables.com/model/557508-brs-awd-drive-for-vcore-3031) |[BOM](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/bom/BOM-AWD1.pdf)|SOON|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-1-1)
+**V1.1**|First release. |19/08/23|||||![alt text](/image/license.png)|
+**V1.2**|![alt text](/image/and.PNG)<br> First revision; some notches has been added to ease of assembly for the NEMA M3x20 underscrew. |27/08/23|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/cad/BRS-AWD-Drive-1-1.zip)| [STL](https://www.printables.com/model/557508-brs-awd-drive-for-vcore-3031) |[BOM](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/bom/BOM-AWD1.pdf)|SOON|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-1-1)
 
 
 
