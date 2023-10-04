@@ -25,6 +25,12 @@ cad/Bearing-Locks.zip
 
 https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/e857c3b2-0922-44dd-a85b-a77f8f30c266
 
+## -/ BRS-AWD Drives for VC3.0 and VC3.1
+- AWD mod to add ANY Vcore version an easy and reliable AWD configuration
+
+Version|Description|ReleaseDate|CAD|Thingiverse|BOM|Documentation|License|Order
+-------------|-----------|-----------|-----------|------------|------------|------------|-----------|-----------
+**V1.0 VC3.1 Mirrored Rear blocks for AWD**|![alt text](/image/stock-awd.png)<br>Mirrored rear Stock plates to use the BRS-AWD correctly |04/10/23|[STEP](cad/BRS-AWD-stock.step)|||[Manual](manuals/BRS-AWD-Drive-v132.pdf) ||[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-1-1)
 
 
 Special credit to @AJES! / Anders Velling Jorgensen
