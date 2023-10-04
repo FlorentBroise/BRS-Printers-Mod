@@ -25,7 +25,7 @@ cad/Bearing-Locks.zip
 
 https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/e857c3b2-0922-44dd-a85b-a77f8f30c266
 
-## -/ BRS-AWD Drives for VC3.0 and VC3.1
+## -/ Option for BRS-AWD Drives
 - AWD mod to add ANY Vcore version an easy and reliable AWD configuration
 
 Version|Description|ReleaseDate|CAD|Thingiverse|BOM|Documentation|License|Order
