@@ -48,13 +48,20 @@ Product|Status|View|Manual EN|Release date|Shop Product|Shop CAD|License
 BRS-E PMB 2.0 with L3VER M2 A1 Tensionner module|ACTIVE|![alt text](/image/tensionner5.png)<br> **PMB 2.0 L3VER M2 Tensionner** A full Vcore 3 compatible manual tensionner block merged with the PMB mod, removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Lever-m2-manual.pdf)|22/06/22|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 BRS-E PMB 2.0 with L3VER M2 A2 Tensionner module|ACTIVE|![alt text](/image/m2n23.png)<br> **PMB 2.0 L3VER M2 Tensionner** First revison,adding the SKL tops, adding NEMA23 compatibility holder (need to swap the electronic bay plate to the front (VC3.x)|[Download](/manuals/Lever-m2-manual.pdf)|21/02/23|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 
+### Options for L3VER M1/M2
+IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
+
+Product|Status|View|Release date|Shop Product |License
+-----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------:
+M1/M2 Knob |ACTIVE|![alt text](/image/knob.png)<br> **Knob M1/M2** A handy knob to adjust the tension without using a tool! Works with all L3VER M1/M2 variations|16/10/2023| FREE on the [STORE](https://store.brs-engineering.com/products/knob-for-lever-m1-and-m2) | NONE
+
 
 ### BRS-IDEX for VCORE 3.x
 IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
 
 Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
-BRS-IDEX A1.0 (proto designed 01/02/23) |POC|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||01/06/23| || ![alt text](/image/by-nc-nd.png)
+BRS-IDEX A1.0 (proto designed 01/02/23) |POC|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||Q1 2024| || ![alt text](/image/by-nc-nd.png)
 
 
 ## [Back to Main Page](/README.md)
