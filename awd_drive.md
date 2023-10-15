@@ -20,9 +20,6 @@ Version|Description|ReleaseDate|CAD|BOM|Documentation|Printable-STL|License|Orde
 **V1.33 VC3.1 for Z-Upgrade SFU1605 **|![alt text](/image/and.PNG)<br> CAD Layout mofification, 1 STEP file for each Variation. Replacment of the 2x top M6x12 by countersunk version for the 1.0 Enclosure. FIX of a the spindle bearing alignment |01/10/23|[STEP 3.1 1605](cad/BRS-AWD-Drive-31-SFU16051.33.zip)|[BOM](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/bom/BOM-AWD1.pdf)|[Manual](manuals/BRS-AWD-Drive-v132.pdf) / [Klipper-CFG](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/manuals/KlipperconfAWD.pdf)|[STL Files](https://www.printables.com/model/557508-brs-awd-drive-v134-for-vcore-3031) |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-1-1)
 
 
-[STL Files](https://www.printables.com/model/557508-brs-awd-drive-v134-for-vcore-3031)
-
-https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/e857c3b2-0922-44dd-a85b-a77f8f30c266
 
 ## -/ Option for BRS-AWD Drives
 - AWD mod to add ANY Vcore version an easy and reliable AWD configuration
