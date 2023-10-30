@@ -14,7 +14,7 @@ Version|Description|ReleaseDate|CAD|Store
 Version|Description|ReleaseDate|CAD|Store
 -------------|-----------|-----------|-----------|-----------
 **V1.0**|Ratrig Toolhead Back without tensionner, to use with the L3VER M2 / M1 system|31/10/23|
-**V1.0**|![alt text](/image/RRT.png)<br> Ratrig Toolhead Back without tensionner, to use with the L3VER M2 / M1 system / Reinforced upper belt section|31/10/23|[STEP / STL Package](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/RRT-Back-1.zip) |[STORE](https://store.brs-engineering.com/products/eva-3-x-tensonnerless-for-l3ver-m1-m2)
+**V1.0**|![alt text](/image/RRT.png)<br> Ratrig Toolhead Back without tensionner, to use with the L3VER M2 / M1 system / Reinforced upper belt section|31/10/23|[STEP / STL Package](https://github.com/FlorentBroise/BRS-Printers-Mod/tree/main/cad/RRT-Back-1.zip) |[STORE](https://store.brs-engineering.com/products/ratrig-tool-head-printed-parts-only?variant=47264346800475)
 
 
 # EVA 2.4.x Mods
