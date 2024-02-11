@@ -31,6 +31,19 @@ Version|Description|ReleaseDate|CAD|STL|Documentation|License|Order
 **V2.7a Heavy Duty 1204 3.1 Simple**|![alt text](/image/ZU207.png) <br>SFU1204 Version - direct adaptation on a stock VC3.1 with the footprints of the bottom plates conserved! You can directly assemble it by swaping the stock Leadcrew pillars with the Ballscrew version. This 2.7th version is basically the same, buth the base block Geometry! ONLY FOR 1204 Ballscrews|29/10/23|[STEP](https://drive.google.com/file/d/1i3fC8A2Sot7tyuvSnKsozXAluxPpP1m1/view?usp=sharing) | | / ||[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 **V2.055a Heavy Duty 1204/1605 3.1 Top**|![alt text](/image/top31.png)Replace the top front section with the ballscrew top retainer for the new VCORE 3.1 idler plates. Available for stock M5 screw and Precision shoulder bolt. Replace the old stock ZU2.0 BRS open front design since the 04/07/23|04/07/23| / | | / ||[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 **V2.056a Heavy Duty 1204/1605 3.1 Top**|FIX an distance issue in the part|22/09/23| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/BRS-Open-Front-v3.zip) | | / ||[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
+
+Version|Description|ReleaseDate|CAD|Thingiverse|License
+-------------|-----------|-----------|-----------|------------|-----------
+**V1.0**|![alt text](/image/arms.png) |12/01/22|| [Link](https://www.thingiverse.com/thing:5197235) |![alt text](/image/by.png)
+
+- Z axis Oldham Join ( New Revision from the December 2021)
+
+Version|Description|ReleaseDate|CAD|Files|License|Order
+-------------|-----------|-----------|-----------|------------|-----------|-----------
+**V2.2a**|<br> ![alt text](/image/oldham.png) A Oldham kinematic ring design, More precise, more accurate. |01/01/22|[STEP](https://drive.google.com/file/d/1Um32c3vZ82SMlC5ylu9X6IunsmtLvtSH/view?usp=sharing)| [STL](https://drive.google.com/file/d/11setQH1OrWtbLpgV7RBNb5VHLEKnbiXl/view?usp=sharing)|![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
+**V2.2b**|Central unified ring for light bed|09/09/22|[STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/RingUnifiedv2.step)||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
+**V3.0a**|A Oldham kinematic ring redesign for SFU1605 with custom Z system.  |To come|||![alt text](/image/license.png)|[SHOP](https://www.brs-engineering.com/Oldham-kit.html)
+
 ## 1 UltraLight Gantry XY v1 (DEPRECATED)
 
 Version|Description|ReleaseDate|CAD|Files|License
