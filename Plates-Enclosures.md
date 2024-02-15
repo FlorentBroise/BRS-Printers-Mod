@@ -2,11 +2,11 @@
 
 - Bottom plate DXF
 
-For Z upgrade 
+For Z upgrade 2.0 (Not 2.8 DE)
 
 Version|Description|ReleaseDate|CAD|Thingiverse|License
 -------------|-----------|-----------|-----------|-----------|-----------
-**V2-400**|![alt text](/image/plates.png)<br> Bottom plate for Z upgrade |10/01/22|[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
+**V2-400**|![alt text](/image/plates.png)<br>LEGACY Bottom plate for Z upgrade 2.0 until 2.07|10/01/22|[500](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Panel_base_BRS-500.dxf) [400](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-400.dxf) [300](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/panel_base_BRS-300.dxf)
 
 - Lid Backplate 
 
