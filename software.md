@@ -14,7 +14,27 @@ Material|Objective|Filament Brand|cura-profile
 ABS/ASA | Hight quality/High accuracy| EmotionTech/3DJake| [Download](/cura/BRS-E-ABS-ASA.curaprofile)
 PLA | Hight quality/High accuracy| EmotionTech/3DJake/EcoFil/Polyterra| [Download](/cura/BRS-E-PLA.curaprofile)
 
+### CURA Material cost and power cost
+
+You need to make a material profile, fill the density, net weight of the spool, and the price you've paid for it
+
+![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/6c226510-7368-476c-aca2-fb6c6bc70060)
+
+Then for the power cost, you need a Plugin name "Power Cost"
+
+![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/4807b9c5-5213-4659-a676-2cdd24a0ca36)
+
+Under Machine settings, there is now a power cost tab, implement the price per KWh and the average power drow of the machine (once printing is started, after the bed and heater at temperature)
+
+![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/e1a22e3d-a8a6-46c7-bbe7-b28465eaabb2)
+
+Now once the Slicing is made, you can see the costs for the part
+
+![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/6ec691c1-9375-425d-8594-8151930d5f20)
+
+
 
 ## [Back to Main Page](/README.md)
+
 
 
