@@ -52,7 +52,7 @@ If you like my work and would like to help me covering the costs associated to t
 click the button here below :)
 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=VEMAB3WH74FW2)
 
-Feel free to ask if you want to sell it yourself
+# Links
 
 Official Website: https://www.brs-engineering.com/
 Official Store: https://store.brs-engineering.com/
