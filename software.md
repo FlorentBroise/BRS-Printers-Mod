@@ -14,6 +14,7 @@ Material|Objective|Filament Brand|cura-profile
 ABS/ASA | Hight quality/High accuracy| EmotionTech/3DJake| [Download](/cura/BRS-E-ABS-ASA.curaprofile)
 PLA | Hight quality/High accuracy| EmotionTech/3DJake/EcoFil/Polyterra| [Download](/cura/BRS-E-PLA.curaprofile)
 
+
 ### CURA Material cost and power cost
 
 You need to make a material profile, fill the density, net weight of the spool, and the price you've paid for it
@@ -32,6 +33,17 @@ Now once the Slicing is made, you can see the costs for the part
 
 ![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/6ec691c1-9375-425d-8594-8151930d5f20)
 
+
+### Flow Fine tunning
+
+As Flow is the most important factor regarding to quality, bonding, and dimentionnal accuracy; I strongly advise to enable all factors in the settings.
+This will allow you to achive perfect print on all aspect
+
+![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/7be388da-4310-4675-acf3-e5e7b6375943)
+
+Remember that external wall flow can impact the dimentionnal accuracy. 
+I'm personnally making the flow tuning before the rotation_distance tunning. This way I'm actually able to achieve 0.05-0.08mm precisions
+I advise to make the rotation_distances tuning once a week, just measure the part, compare it to what was expected, and use the [conversion tool](https://docs.google.com/spreadsheets/d/12R55MfSqfu5xPplTaRvmbkXf2mHBpJ3Zlwajab_pi60/edit?usp=sharing) to fine tune overtime. This will make better part over the time, and maintain the dimentionnal accuracy accurate relative to Belt shrinkage over time, temperature variation, "wear" of the machine
 
 
 ## [Back to Main Page](/README.md)
