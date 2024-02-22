@@ -4,8 +4,15 @@
 
 #SEE THE SUBSECTION ON THE LAST PAGE TO FIND YOUR NEEDS ;)
 
-
-
+|Subsection|Content Description
+ |:---: |-------------------
+| A |[Z Upgrade for VCore](/Z_Upgrade.md)
+| B |[Gantry](/Gantry.md)
+| C |[Toolheads](/Toolheads.md)
+| D |[BRS-AWD Drive](/awd_drive.md)
+| E |[Air quality / Filtration](/Air-Filtration.md)
+| F |[Various plates](/Plates-Enclosures.md)
+|G |[Specific Products (L3VER/IDEX/Proto)](/products.md)
 
 # Credits: 
 Here few people/Companies who I want to thank, for inspiring reasons, constructive discussions, engineering skills, work and vision in general. Consider looking in their work, and donate to support their constant effort by pushing 3D printing forward:
