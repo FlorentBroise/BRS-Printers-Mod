@@ -8,32 +8,26 @@ Here a lot of premium upgrades for the Vcore3, with a lot of capabilities. Eithe
 # Vcore 3.0/3.1 based
 ## Quick Navigation
 
-Chapter|Subsection|Content Description
-  :---: |:---: |-------------------
+Chapter|Content Description
+:---: |-------------------
 Intro.|[What is done here?](/intro.md)
-1.|.|[Define what you need](/defineneeds.md)
-2.|.|[Frame](/frame.md)
-3.|.|[Select General Upgrades and options](/componentselection.md)
-.| A |[Z Upgrade for VCore](/Z_Upgrade.md)
-.| B |[Gantry](/Gantry.md)
-.| C |[Toolheads](/Toolheads.md)
-.| D |[BRS-AWD Drive](/awd_drive.md)
-.| E |[Air quality / Filtration](/Air-Filtration.md)
-.| F |[Various plates](/Plates-Enclosures.md)
-4.|.|[BOM](/purchased.md)
-5.|.|[Specific Products (L3VER/IDEX/Proto)](/products.md)
-6.|.|[Assembly Instructions](/assembly.md)
-7.|.|[Calibration](/calibration.md)
-8.|.|[Procedures](/procedures.md)
-9.|.|[Cura tips](/software.md)
-10.|.|[EVA Mods](/evamods.md)
-11.|.|[VZ Mods](/vzmods.md)
-12.|.|[Tools (soon)](/tools.md)
-13.|.|[How to Print your Parts](/howtoprint.md)
-14.|.|[LEGACY/DEPRECATED](/deprecated.md)
-15.|.|[Usefull links](/links.md)
-16.|.|[Credits](/credits.md)
-17.|.|[CAD changelogs](/changelogs.md)
+1.|[Define what you need](/defineneeds.md)
+2.|[Frame](/frame.md)
+3.|[Select General Upgrades and options](/componentselection.md)
+4.|[BOM](/purchased.md)
+5.|[Specific Products (L3VER/IDEX/Proto)](/products.md)
+6.|[Assembly Instructions](/assembly.md)
+7.|[Calibration](/calibration.md)
+8.|[Procedures](/procedures.md)
+9.|[Cura tips](/software.md)
+10.|[EVA Mods](/evamods.md)
+11.|[VZ Mods](/vzmods.md)
+12.|[Tools (soon)](/tools.md)
+13.|[How to Print your Parts](/howtoprint.md)
+14.|[LEGACY/DEPRECATED](/deprecated.md)
+15.|[Usefull links](/links.md)
+16.|[Credits](/credits.md)
+17.|[CAD changelogs](/changelogs.md)
 
 # BRS-Vulcain I
 ## Quick Navigation
@@ -42,20 +36,21 @@ Chapter|Content Description
  :---: |-------------------
 Intro.|[What is it?](/intro1.md)
 1.|[Frame](/frame.md)
-
-# Donation
-
-If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
-click the button here below :)
-![alt text](/image/paypal.png)
-[Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=VEMAB3WH74FW2)
-
+2.|[CAD]() SOON
 
 # Licenses
 
 Most projects and designs are licensed as
 ![alt text](/image/licenses.png)
 For others, the licence and attribution will be displayed
+
+Feel free to ask if you want to sell it yourself
+
+# Donation
+
+If you like my work and would like to help me covering the costs associated to the development of prototypes and improvements of every projects, my company is a little french one man handed thing ;) <br>
+click the button here below :)
+[Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=VEMAB3WH74FW2)
 
 Feel free to ask if you want to sell it yourself
 
