@@ -17,7 +17,7 @@ Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
-**V2.1b Heavy Duty 1605 EXTENDED|![alt text](/image/Z-Upgrade_2.0b.png)<br>SFU0605 Version - Last revision of the Z-Upgrade 2.0 1605|11/02/24| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/Z-Upgrade-2.0b.zip) | | | [MANUAL](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/manuals/manual2EN.pdf) |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
+**V2.1b Heavy Duty 1605 EXTENDED|![alt text](/image/Z-Upgrade_2.0b.png)<br>SFU0605 Version - Last revision of the Z-Upgrade 2.0 1605|11/02/24| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/ZU20b-1605.zip) | | | [MANUAL](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/manuals/manual2EN.pdf) |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 
 
 
