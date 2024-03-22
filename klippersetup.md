@@ -68,6 +68,8 @@ It should report something similar to the following:
 It's common for each printer to have its own unique serial port name. This unique name will be used when flashing the micro-controller. It's possible there may be multiple lines in the above output - if so, choose the line corresponding to the micro-controller.
 Copy this ID for later
 
+>**If nothing is shown, please check the cable connection between the PI and the main MCU board. Please check the compile settings are correct (sometime STM32 chips can be mistaken), please always confirm the "firmware.bin" is transformed to "firmware.cur" to confirm a successful flash.**
+
 # First Connection
 
 You can now Access the WEBUI of the machine via any Browser. The machine will report ERRORS, that is normal, we dont have any cfg installed.
