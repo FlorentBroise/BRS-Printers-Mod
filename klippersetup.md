@@ -1,3 +1,5 @@
+Disclaimer: This page is still under construction, I'm implementing content I will found legit to make a Pure straightforward Klipper/Mainsail setup, this is exactly the way I'm making my machines. It is not a complete guide, it is here to guide you for the main setup. You must build the printer cfg according the pinout layout and your specific hardware. you must be sure that the cables are correctly set to be fonctionnal too, this guid is not a wiring guide.
+
 # Installation
 
 These instructions assume the software will run on a Raspberry Pi computer. It is recommended that a Raspberry Pi 2 (or later) be used as the host machine.Pi 4 and 5 are recommended to achieve good performance. CM4 modules with EMMC >=16Go is a good option for specific MCU boards too.
