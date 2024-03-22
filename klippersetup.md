@@ -54,7 +54,7 @@ The comments at the top of the printer configuration file should describe the se
 make
 ```
 After the make command is executed, the klipper.bin firmware we need will be generated in the device's home/pi/klipper/out folder. You can download it directly to your computer with WINSCP
-According to you board model (her BTT), Rename `klipper.bin` to "firmware.bin", copy it to the root directory of the SD card, insert the SD card into the MCU SD card slot, press the reset button or power on again, and the firmware will be automatically updated.
+According to you board model (here BTT), Rename `klipper.bin` to "firmware.bin", copy it to the root directory of the SD card, insert the SD card into the MCU SD card slot, press the reset button or power on again, and the firmware will be automatically updated.
 After the update is complete, the "firmware.bin" in the SD card will be renamed to "FIRMWARE.CUR".
 
 In PUTTY, enter
