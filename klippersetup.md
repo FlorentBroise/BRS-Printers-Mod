@@ -158,7 +158,7 @@ To add the RPi MCU previously prepare, you must include
 
 ![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/792ca751-99b1-4a3f-b84a-fb3c83b26cfc)
 
-BELT TENSION RESONNANCE
+# BELT TENSION RESONNANCE
 ```
 TEST_RESONANCES AXIS=1,1 OUTPUT=raw_data
 ```
@@ -171,9 +171,16 @@ Then run this line in PUTTY the instance:
 ~/klipper/scripts/graph_accelerometer.py -c /tmp/raw_data_axis*.csv -o /tmp/resonances.png
 ```
 
-INPUT SHAPER
+# INPUT SHAPER
 
-First check the acceleromete fonctio nwith ```ACCELEROMETER_QUERY``` in the printer CLI
+Make sure your ADXL based module is configured correctly
+The way this one is attached to the toolhead will matter a lot, a loosy fixation a placment will result a bad shaping
+The best place is in the nozzle (the BTT ADXL V2 is the best option IMO). You will use it only on this occasion and then removed it after use
+
+Keep in mind that getting a not perfect shaper is not the end of the world, it is here to counterbalance thos issues.
+Only the print result count at the end of the day
+
+First check the acceleromete fonction nwith ```ACCELEROMETER_QUERY``` in the printer CLI
 you should get something like this
 ```
 Recv: // adxl345 values (x, y, z): 470.719200, 941.438400, 9728.196800
