@@ -74,12 +74,12 @@ Copy this ID for later
 
 You can now Access the WEBUI of the machine via any Browser. The machine will report ERRORS, that is normal, we dont have any cfg installed.
 We will make the updates to be as fresh as we can.
-Check the Config Tab and make the according update if available
+Check the Config Tab and make the according update if available. I suggest before doing anything, UPDATE ALL and/or install all the things you need (Telegram bot etc)
 ![image](https://github.com/FlorentBroise/BRS-Printers-Mod/assets/93141411/6f96d18f-2a33-4da7-878e-170e64b77270)
 
 # UPDATE and disclaimer
 
-AT THIS POINT I STRONGLY SUGGEST TO NEVER DO ANY UPDATE TO KEEP A WORKING MACHINE FONCTIONNAL
+AT THIS POINT, I STRONGLY SUGGEST TO NEVER DO ANY UPDATE TO KEEP A WORKING MACHINE FONCTIONNAL
 Update can wreck you system and take time to solve and remake. If a machine works fine, DON'T DO ANY UPDATES
 Update are relevent if a major add on or support is added for new hardware or new fonctionnality, please consider the balance between benefits and risks of such an thing.
 
