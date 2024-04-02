@@ -13,7 +13,7 @@ L3VER M1 1.0 (A1.1) Tensionner module|Active|![alt text](/image/tensionner7.png)
 L3VER M1 1.1 (A1.6) Tensionner module|Active|![alt text](/image/tensionner71.png)<br> **L3VER M1 1.1 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt, This is a revised version from the 1.0, more dense, few parts less, same performances|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/05/23| [SHOP Soon]()|[Shop CAD Soon]()| ![alt text](/image/by-nc-nd.png)
 
 
-### L3ver M2
+### L3VER M2
 A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
 
 -The classic M2 in place of the rear stock block
@@ -25,7 +25,7 @@ L3VER M2 A1 Tensionner module|ACTIVE|![alt text](/image/tensionner5.png)<br> **P
 L3VER M2 A2 Tensionner module|ACTIVE|![alt text](/image/m2n23.png)<br> **PMB 2.0 L3VER M2 Tensionner** First revison,adding the SKL tops, adding NEMA23 compatibility holder (need to swap the electronic bay plate to the front (VC3.x)|[Download](/manuals/Lever-m2-manual.pdf)|21/02/23|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 
 
-## L3ver M3 AWD TENSIONNER 
+## L3VER M3 AWD TENSIONNER 
 The M3 replace the front idlers blocks, adding tensionner and AWD feature in one part and in a low profile
 
 Product|Status|View|Manual EN|Release date|Shop Product|Shop CAD|License
