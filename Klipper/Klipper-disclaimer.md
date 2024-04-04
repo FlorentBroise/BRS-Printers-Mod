@@ -1,0 +1,2 @@
+# Disclaimer:
+This page is still under construction, I'm implementing content I will found legit to make a Pure straightforward Klipper/Mainsail setup, this is exactly the way I'm making my machines. It is not a complete guide, it is here to guide you for the main setup. You must build the printer cfg according the pinout layout and your specific hardware. you must be sure that the cables are correctly set to be fonctionnal too, this guid is not a wiring guide.
