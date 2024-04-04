@@ -2,6 +2,6 @@
 Chapter|Content Description
 :---: |-------------------
 1.|[Disclaimer](/Klipper/Klipper-disclaimer.md)
-2.|[Install](/Installation.md)
-3.|[Printer.cfg](/printer-cfg.md)
-4.|[Shaper](/shaper.md)
+2.|[Install](/Klipper/Installation.md)
+3.|[Printer.cfg](/Klipper/printer-cfg.md)
+4.|[Shaper](/Klipper/shaper.md)
