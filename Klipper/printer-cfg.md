@@ -1,7 +1,7 @@
 # Printer.CFG
 
 The Printer.cfg is the config file containing all the settings linked to the machine
-You must build you own depending you MCU PIN layout, Machine architecture, and custom hardware, [Here a file used in the last VUCLAIN 600 v1.3](printer.cfg)
+You must build you own depending you MCU PIN layout, Machine architecture, and custom hardware, [Here a file used in the last VUCLAIN 600 v1.3](printer600.cfg)
 In this file must be mentionned the ID of the MCU(s) identified previously via the command
 
 I personnaly don't like to make too much INCLUDES, calling different CFGs. RatOS by exemple use an insanely high count of that, making the adjustement and the cfg readings quite difficult and hard to remember in my opinion. As RatOS is meant for versatility it is understandable, but here we are making a quite straightforward config, sometime keeping it simple is the way. 
