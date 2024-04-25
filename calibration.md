@@ -12,9 +12,9 @@ Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
 Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check the width of the layer |[Calculation](https://teachingtechyt.github.io/calibration.html#flow) [Conversion Table](https://docs.google.com/spreadsheets/d/1PNDpxMo82B2Yi7_REPhKj44IOn1BJzk-KYgN7mVPe6Q/edit?usp=sharing)
 ## 3. Adjusting belts tensions.
-Section|Setting|Recommended Value|Comment
--------|-------|-----------------|-------
-Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](/manuals/belt.pdf)|[Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum&hl=fr&gl=US)
+Section|Setting|Recommended Value|details|Calculation sheet
+-------|-------|-----------------|------- |-------
+Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](/manuals/belt.pdf)|[Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum&hl=fr&gl=US) | [Download](/manuals/Belt_Tension_Calculations.ods)
 
 ## 4. Octogone Calibration for XY
 Objective|Setting|Comments|Link
