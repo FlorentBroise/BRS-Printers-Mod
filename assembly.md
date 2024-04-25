@@ -17,6 +17,7 @@ Ultralight Gantry|Active|![alt text](/image/gantry5.png)<br> **Ultralight gantry
 Flathead V2|Active|![alt text](/image/mosquito1.PNG)<br> **FlatheadV2**|[Download](/manuals/manualEN.pdf)|/|/
 CF80 Filtration unit|Active|![alt text](/image/filtre.png)<br> **CF80 Filtration unit**|[Download](/manuals/CF80-Manual.pdf)|/|/
 Open front blocks V2|Active|![alt text](/image/open.png)<br> **Open front V2**|[Download](/manuals/open-Manual.pdf)|/|/
+EVA3-Tensionnerless|Active|![alt text](/image/EVATLESS.png)<br> **EVA3-Tensionnerless**|[Download](/manuals/EVA3-Tensionnerless-Instructions.pdf)|/|/
 
 
 ## [Back to Main Page](/README.md)
