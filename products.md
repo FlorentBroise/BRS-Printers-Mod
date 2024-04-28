@@ -30,7 +30,7 @@ The M3 replace the front idlers blocks, adding tensionner and AWD feature in one
 
 Product|Status|View|Manual EN|Release date|Shop Product|Shop CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
-AWD Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m3v1.png)<br> **AWD L3VER M3 Tensionner** AWD and belt tensionner module all in one, Only for VC3.0 with stock frame or enclosure 1.0 (Iteration coming for VC3.1 with the belt alignement|[Download 1](/cad/M3LEVER.zip) [Download 2](https://www.printables.com/model/860203-l3ver-m3-awd-combo)|2/04/24|[SHOP]()|[CAD]()| ![alt text](/image/by-nc-nd.png)
+AWD Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m3v1.png)<br> **AWD L3VER M3 Tensionner** AWD and belt tensionner module all in one, Only for VC3.0 with stock frame or enclosure 1.0 (Iteration coming for VC3.1 with the belt alignement|[Download 1](/cad/M3LEVER.zip) [Download 2](https://www.printables.com/model/860203-l3ver-m3-awd-combo)|2/04/24|[SHOP]()|[CAD]()| ![alt text](/image/license.png)
 
 ### Options for L3VER M1/M2/M3
 IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
