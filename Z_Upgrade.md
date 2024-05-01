@@ -18,7 +18,7 @@ Avantages:
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
-**V3.0a 1204|![alt text](/image/Z-Upgrade-3.0a.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume than the stock machine|30/04/24| [STEP Coming] | [STL Coming] | [BOM Coming] | [MANUAL Coming] |![alt text](/image/license.png)|[SHOP item Coming]
+**V3.0a 1204|![alt text](/image/Z-upgrade-3.0.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume than the stock machine|30/04/24| [STEP Coming] | [STL Coming] | [BOM Coming] | [MANUAL Coming] |![alt text](/image/license.png)|[SHOP item Coming]
 
 ## -/ Z SYSTEM 2.0 (For Vcore 3.0/3.1)
 
