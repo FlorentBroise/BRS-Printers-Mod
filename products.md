@@ -69,12 +69,7 @@ Product|Status|View|Manual EN|Release date|Shop Product| CAD | STL | License
 --------|------|---------------------|----|--------------- |--------------|---------------|---------------|---------------
 M1+refreshed Enclosure plates 1.0|Active|![alt text](/image/m1-plate.png)<br> **M1 Enclosure plates** A set of plates to close the rear electronic top for the M1 and M1.1 refresh Lever.|none|soon|soon|[CAD](/cad/m1-500-plate.step)|soon| ![alt text](/image/license.png)
 
-### BRS-IDEX for VCORE 3.x
-IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
 
-Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
------------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
-BRS-IDEX A1.0 (proto designed 01/02/23) |Cancelled|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||Q3 2024| || ![alt text](/image/by-nc-nd.png)
 
 
 ## [Back to Main Page](/README.md)
