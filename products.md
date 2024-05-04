@@ -4,6 +4,15 @@
 
 In this section you will find specific products, not shared on the regular CAD side. It can be bought at BRS Shop. As prototyping is time hungry and expensive, this is a mean for you to participate further in the next developments ;)
 
+## L3VER M3 AWD TENSIONNER 
+The M3 replace the front idlers blocks, adding tensionner and AWD feature in one part and in a low profile
+
+Product|Status|View|Manual EN| STL+STEP | Release date|Shop Product| More|License
+-----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------: | :---------------:
+AWD301/1 Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m3v1.png)<br> **FOR VCORE3.0/3.1 with 1.0 Enclosure** AWD and belt tensionner module all in one, Only for VC3.0/3.1 with stock frame or enclosure 1.0 | [BOM](https://docs.google.com/spreadsheets/d/1m4azE54TQerhyBI3S39cNwWqPLjUHiSjp3UHa-RHm1U/edit?usp=sharing)  Manual incoming | [STEP](https://www.printables.com/model/860203-l3ver-m3-awd-combo-vcore-3031-for-enclosure-10) [STLs](https://www.printables.com/model/860203-l3ver-m3-awd-combo-vcore-3031-for-enclosure-10)|02/04/24|[SHOP](https://store.brs-engineering.com/products/l3ver-m3-awd-module)|[CAD](https://www.printables.com/model/860203-l3ver-m3-awd-combo-vcore-3031-for-enclosure-10)| ![alt text](/image/license.png)
+AWD301/2 Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m1v2.png)<br> **FOR VCORE3.0/3.1 with 2.0 Enclosure** AWD and belt tensionner module all in one, Only for VC3.0/3.1 with stock frame or enclosure 2.0 | BOM and Manual incoming | [STEP](https://www.printables.com/model/860767-l3ver-m3-awd-combo-vcore-3031-enclosure-20) [STLs](https://www.printables.com/model/860767-l3ver-m3-awd-combo-vcore-3031-enclosure-20)|28/04/24|[SHOP](https://store.brs-engineering.com/products/l3ver-m3-awd-module)|[CAD](https://www.printables.com/model/860767-l3ver-m3-awd-combo-vcore-3031-enclosure-20)| ![alt text](/image/license.png)
+
+
 ### L3VER M1 TENSIONNER (3.0 / 3.1)
 IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
 
@@ -24,14 +33,6 @@ Product|Status|View|Manual EN|Release date|Shop Product|Shop CAD|License
 L3VER M2 A1 Tensionner module|ACTIVE|![alt text](/image/tensionner5.png)<br> **PMB 2.0 L3VER M2 Tensionner** A full Vcore 3 compatible manual tensionner block merged with the PMB mod, removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Lever-m2-manual.pdf)|22/06/22|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 L3VER M2 A2 Tensionner module|ACTIVE|![alt text](/image/m2n23.png)<br> **PMB 2.0 L3VER M2 Tensionner** First revison,adding the SKL tops, adding NEMA23 compatibility holder (need to swap the electronic bay plate to the front (VC3.x)|[Download](/manuals/Lever-m2-manual.pdf)|21/02/23|[SHOP](https://store.brs-engineering.com/products/precision-motor-block-1-0?variant=42850205335801)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m2-a1-0-cad)| ![alt text](/image/by-nc-nd.png)
 
-
-## L3VER M3 AWD TENSIONNER 
-The M3 replace the front idlers blocks, adding tensionner and AWD feature in one part and in a low profile
-
-Product|Status|View|Manual EN| STL+STEP | Release date|Shop Product| More|License
------------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------: | :---------------:
-AWD301/1 Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m3v1.png)<br> **FOR VCORE3.0/3.1 with 1.0 Enclosure** AWD and belt tensionner module all in one, Only for VC3.0/3.1 with stock frame or enclosure 1.0 | [BOM](https://docs.google.com/spreadsheets/d/1m4azE54TQerhyBI3S39cNwWqPLjUHiSjp3UHa-RHm1U/edit?usp=sharing)  Manual incoming | [STEP](/cad/M3LEVER.zip) [STLs](https://www.printables.com/model/860203-l3ver-m3-awd-combo)|02/04/24|[SHOP](https://store.brs-engineering.com/products/l3ver-m3-awd-module)|[CAD](https://www.printables.com/model/860203-l3ver-m3-awd-combo)| ![alt text](/image/license.png)
-AWD301/2 Drive with L3VER M3 Tensionner module|ACTIVE|![alt text](/image/m1v2.png)<br> **FOR VCORE3.0/3.1 with 2.0 Enclosure** AWD and belt tensionner module all in one, Only for VC3.0/3.1 with stock frame or enclosure 2.0 | BOM and Manual incoming | [STEP](/cad/M3LEVER2.zip) [STLs](https://www.printables.com/model/860767-l3ver-m3-awd-combo-vcore-3031-for-enclosure-20)|28/04/24|[SHOP](https://store.brs-engineering.com/products/l3ver-m3-awd-module)|[CAD](https://www.printables.com/model/860767-l3ver-m3-awd-combo-vcore-3031-for-enclosure-20)| ![alt text](/image/license.png)
 
 
 ### Options for L3VER M1/M2/M3
