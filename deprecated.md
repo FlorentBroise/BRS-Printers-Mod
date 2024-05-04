@@ -112,3 +112,10 @@ A more cost effective way to decouple XY for non straight ballscrews
 Product|Status|View|Manual EN|Release date|Shop|CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
 FLEX-P V1.2 (proto designed 10/10/22)|DEPRECATED, does not correct Z specific angle precession deviation|![alt text](/image/flexp.png)<br> **FLEX-P-V1.2** A decoupling module based on a flexure mechanism for Z-axis on X and Y independantly. It keeps the advantages of the Oldham / Ring system, and decrease the overall cost, and reduce the manufacturing process to the minimum. It decreases the Z space too by beeing more compact than any anti wobble mechanism. Resistances validated to 25kg before degradation. Base thickness of 15mm for a PACF base, can be bigger to satisfy more rigidity on the decoupling motion, or more Z weight tolerances. Will be standard on the BRS-VULCAIN. Actually in proofing|/|03/23|/| |![alt text](/image/by-nc-nd.png)
+
+### BRS-IDEX for VCORE 3.x
+IF you dont want to change the motor bracket, (very simple installation) Good for already working machines
+
+Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
+-----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: |  :---------------:
+BRS-IDEX A1.0 (proto designed 01/02/23) |Cancelled|![alt text](/image/IDEX.png)<br> **BRS-IDEX A1.0** A full IDEX mechanism for Vcore 3.x platform, Designed to be compatible with any VCore and most of his mods like Enclosure 2.0, V1, L3ver M1, and many more, WITHOUT having to modify the FRAME||Q3 2024| || ![alt text](/image/by-nc-nd.png)
