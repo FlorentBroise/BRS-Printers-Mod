@@ -13,7 +13,7 @@ Chapter|Content Description
 Intro.|[What is done here?](/intro.md)
 1.|[Define what you need](/defineneeds.md)
 2.|[Frame](/frame.md)
-3.|[General Upgrades and options (Z-Upgrade,AWD,...)](/componentselection.md)
+3.|[General Upgrades and options (Z-Upgrade, AWD,...)](/componentselection.md)
 4.|[BOM](/purchased.md)
 5.|[L3VER Tensionner / Enclosure Plates / Prototypes](/products.md)
 6.|[Assembly Instructions](/assembly.md)
