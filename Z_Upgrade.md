@@ -66,4 +66,8 @@ Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 **V2.1b Heavy Duty 1605 EXTENDED|![alt text](/image/Z-Upgrade_2.0b.png)<br>SFU0605 Version - Last revision of the Z-Upgrade 2.0 1605, some correction of the offsets have been made|13/03/24| [STEP](https://github.com/FlorentBroise/BRS-Printers-Mod/raw/main/cad/ZU20b-1605.zip) | | | [MANUAL](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/manuals/manual2EN.pdf) |![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/z-upgrade-2-0-vcore-3-x)
 
 
+Credits: 
 
+-@Ratrig for the VCORE-4.0 amazing design
+
+-@MirageC / EVOMOTO Oldham/Wobblex magical design
