@@ -68,6 +68,6 @@ Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 
 Credits: 
 
--@Ratrig for the VCORE-4.0 amazing design
+-@Ratrig for the VCORE-3.0/3.1/4.0 amazing design
 
 -@MirageC / EVOMOTO Oldham/Wobblex magical design
