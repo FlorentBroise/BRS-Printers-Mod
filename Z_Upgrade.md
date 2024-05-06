@@ -2,23 +2,31 @@
 
 # -/ Z SYSTEM 1204 3.0
 
-- Z-Ballscrews-upgrade 1204 3.0 for VCORE 4 (CoreXY/Hybrid CoreXY)
-High precision Z system with anti-wobble system
+Adaptation of the production grade "Z-Upgrade" for VCORE 4.0
+Upgrade to replace the original Z with a ballscrew system.
+More precise, very reliable over time, offers a very high repeatability in the Z movement compared to a trapezoidal screw.
+Maintenance-free*. Made to last in a production line. No wobble over Z. Proofed design over 2021. More than 350+ users since 2021.
 
-Avantages:
--Easy installation over a Stock VCORE 4.0
--Increase Z repetability
--Lower maintenance, no wear like the TR8 LS/nut
--High precision accuracy over time, made to last in a production line.
--No wobble over Z
--Proofed design over 2021. Lifetime Support
--Easy implementation to any Vcore 4.0, use the same bottom pannel patern than stock one
-10x Less parts than the Z-Upgrade 1.0/2.0, No BK10 or BF10 need, way less expensive
--Fast installation (No deep disassembly, done under less than 1 hours)
+A lot of things has been reworked on this iteration compare to the previous Z-Upgrade 2.0:
+
+Simplification of parts list, easier implementation. direct bolt in upgrade.
+Directly bolted to the VCORE 4.0 frame and underplate. Re-use the Stock VC4 top retainers + bearings.
+No need of surelevation; the Stock VC4 feet will only need to be adjusted to the height. (+17mm)
+Compatible natively with Wobble X, Oldham V3 proofed printed rings compatible too
+Dense integration of the Oldham/Wobble X in the Arms
+Motor reduction for a very high holding torque, even when the motor aren't active. Proofed for heavy future custom bed, or bigger custom print volume machines. Vcore 500 can now run standard Nema 17 without risks of fall when the motor are powered off
+Motor reduction + ballscrew allowing an insane precision over the Z-Motion, extreme constistencies, allow thin and repetable layer over time
+No maintenance needed (cleaning+thin lubrication once a year is enough)
+Z-motors easy tension over the 6mm timing belt with 1x M6 screw
+Add +10mm of Z distance (Oldham V3), or +15mm with Wobble X
+All included, no self soucing to do.
+Only SFU1204 compatibility for now, A SFU1605 version will come soon
+ 
+BOM and Manual in the making…
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
-**V3.0a 1204|![alt text](/image/Z_upgrade_30.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume than the stock machine|30/04/24| [STEP Coming] | [STL Coming] | [BOM Coming] | [MANUAL Coming] |![alt text](/image/license.png)|[SHOP item Coming]
+**V3.0a 1204|![alt text](/image/Z_upgrade_30a.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume (+10-15mm bonus) than the stock machine|30/04/24| [STEP](https://drive.google.com/file/d/1ESSMv2a3hX6BDqViME10enpl5iRW9dKT/view?usp=sharing) | [STLs+STEPs](https://www.printables.com/model/870815-z-upgrade-30a-for-vcore-40) | [BOM Coming] | [MANUAL Coming] |![alt text](/image/license.png)|[SHOP ](https://store.brs-engineering.com/products/z-upgrade-3-0-vcore-4-0)
 
 ## -/ Z SYSTEM 2.0 (For Vcore 3.0/3.1)
 
