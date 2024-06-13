@@ -7,7 +7,8 @@ In this section you will find the Bill of Material for all upgrades.
 Printer Component|Status|View|STL files|Bill of Material (Excel)
 -----------------|------|-----------------------------------| :----: |  :---------------:
 BRS-AWD-Drive 1.35|Active|![alt text](/image/awd.PNG)<br> **BRS-AWD-Drive 1.35** ||[Download](https://docs.google.com/spreadsheets/d/1lZiieI_m1PFYK_gN3xTSUbtMcLak3CRZo3O83WT3AfU/edit?usp=sharing)
-L3ver M3 AWD 1.0a (Vc3.x + Enclosure 1.0)|Active|![alt text](/image/m3v1.png)<br> **L3ver M3 AWD** ||[Download BOM Enclosed](https://docs.google.com/spreadsheets/d/1m4azE54TQerhyBI3S39cNwWqPLjUHiSjp3UHa-RHm1U/edit?usp=sharing) [Download BOM Opened](https://docs.google.com/spreadsheets/d/1Q-RR1Z1-t3DGIQ9Xbndv41vbUf74H0XFt3EJaa1Jg0M/edit?usp=sharing)
+L3ver M3 AWD 1.0a (Vc3.x with Front 3030)|Active|![alt text](/image/m3v1.png)<br> **L3ver M3 AWD** ||[Download BOM Enclosed](https://docs.google.com/spreadsheets/d/1m4azE54TQerhyBI3S39cNwWqPLjUHiSjp3UHa-RHm1U/edit?usp=sharing)
+L3ver M3 AWD 1.0a (Vc3.x without Front 3030)|Active|![alt text](/image/m3v1.png)<br> **L3ver M3 AWD** ||[Download BOM Opened](https://docs.google.com/spreadsheets/d/1Q-RR1Z1-t3DGIQ9Xbndv41vbUf74H0XFt3EJaa1Jg0M/edit?usp=sharing)
 Z Upgrade 1.0|Deprecated|**Z-Upgrade 1.x** Ballscrew system|[link](https://www.thingiverse.com/thing:4978199)|[Download](/bom/BOM_ZU_160-165-166.xlsx)  
 Z Upgrade 2.0|Deprecated| **Z-Upgrade 2.0** Ballscrew system|/|[Download](/bom/BOM-ZU2.pdf)  
 Z Upgrade 2.8a-DE 1204|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8** Ballscrew system|/|[Download](https://docs.google.com/spreadsheets/d/1hA8UdFV7IhUFEDgt_LVLpt3l6aZIOX_8x9tYVwdvjZA/edit?usp=sharing)  
