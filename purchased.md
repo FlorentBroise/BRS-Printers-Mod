@@ -13,7 +13,7 @@ Z Upgrade 1.0|Deprecated|**Z-Upgrade 1.x** Ballscrew system|[link](https://www.t
 Z Upgrade 2.0|Deprecated| **Z-Upgrade 2.0** Ballscrew system|/|[Download](/bom/BOM-ZU2.pdf)  
 Z Upgrade 2.8a-DE 1204|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8** Ballscrew system|/|[Download](https://docs.google.com/spreadsheets/d/1hA8UdFV7IhUFEDgt_LVLpt3l6aZIOX_8x9tYVwdvjZA/edit?usp=sharing)  
 Z Upgrade 2.8b-DE 1605|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8** Ballscrew system|/|[Download](https://docs.google.com/spreadsheets/d/1QMjidNovDnawUL7VbYypceX7xUfzKQ-BTuSa7OgNYMw/edit?usp=sharing)  
-Z Upgrade 3.0 (VCORE4) |UPDATE IN PROGRESS|![alt text](/image/Z_upgrade_30.png)<br> **Z-Upgrade 3.0** Ballscrew system|/|[Download]()  
+Z Upgrade 3.0 (VCORE4) |Active|![alt text](/image/Z_upgrade_30.png)<br> **Z-Upgrade 3.0** Ballscrew system|/|[Download]()  
 Oldham|Active|![alt text](/image/oldham.png)<br> **Oldham** Ballscrew system||[Download](/bom/BOM_RINGS-22.pdf)  
 Ultralight Gantry|Active|![alt text](/image/gantry2.png)<br> **Ultralight Gantry** ||[Download](/bom/BOM.xlsx)  
 Flathead V2 toolhead|Active|![alt text](/image/mosquito1.PNG)<br> **Flathead V2 toolhead** ||[Download](/bom/BOM_Flatheadv2.xlsx) 
