@@ -21,6 +21,17 @@ Product|Status|View|Manual EN|Release date|Shop Product |Shop CAD|License
 L3VER M1 1.0 (A1.1) Tensionner module|Active|![alt text](/image/tensionner7.png)<br> **L3VER M1 1.0 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/06/22| [SHOP](https://store.brs-engineering.com/products/tensionner-l3ver-m1)|[Shop CAD](https://store.brs-engineering.com/products/tendeur-l3ver-m1-a1-1-cad)| ![alt text](/image/by-nc-nd.png)
 L3VER M1 1.1 (A1.6) Tensionner module|Active|![alt text](/image/tensionner71.png)<br> **L3VER M1 1.1 A1 Tensionner** A full Vcore 3 compatible manual tensionner block removing the need of the EVA tensionner, can open the compatibility for the upcomming VZ-Bot Al/CF Toolhead set, and the next Flathead V3 iteration. NEED D5M4 Shoulder bolt, This is a revised version from the 1.0, more dense, few parts less, same performances|[Download](/manuals/Manual-Tensionner-L3VER-M1-A.pdf)|01/05/23| [SHOP Soon]()|[Shop CAD Soon]()| ![alt text](/image/by-nc-nd.png)
 
+### PMB Original (Reuploaded)
+A full conversion of the stock rear Vcore 3.0/3.1  motor block to secure the shaft with Pulley.
+Original mode made in August 2021, deprecated with the L3VER M2 which was the upgrade of it, but still useful with a L3ver M3 setup
+
+Original and AWD version available
+
+Product|Status|View|Manual EN|Release date| Printable |Shop CAD|License
+-----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
+PMB Original Stock|ACTIVE|![alt text](/image/PMB24.png)<br> **PMB 1.0 Stock** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with L3VER M1 (Not compatible with L3ver M2 ||10/08/21|[Files](https://www.printables.com/model/936611-precision-motor-blocks-original-pmb)|| ![alt text](/image/by-nc-nd.png)
+PMB Original for AWD layout|ACTIVE|![alt text](/image/m2n23.png)<br> **PMB 1.0 AWD** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with AWD Drives 1.35, L3VER M3and l3ver M1 (Not compatible with L3ver M2)||08/07/24|| ![alt text](/image/by-nc-nd.png)
+
 
 ### L3VER M2
 A more drastic integration, lower profile, with an upgraded motor block design to dampen the motor vibrations and noises, and reinforced shaft for more longevity and precision.
