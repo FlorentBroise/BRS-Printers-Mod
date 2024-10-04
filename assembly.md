@@ -9,7 +9,8 @@ Printer Component|Status|View|Manual EN|Manual FR|Video|Troubleshooting guide EN
 Z system 1.x|Active|![alt text](/image/Complete.PNG)<br> **Z-Upgrade 1** Ballscrew system|[Download](/manuals/manualEN.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)  
 Z system 2.x|Active|![alt text](/image/ZU201.png)<br> **Z-Upgrade 2** Ballscrew system|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
 Z system 2.8DE|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8DE** Ballscrew system|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
-Oldham|Active|![alt text](/image/Oldham1.png)<br> **Oldham** for 1204 Ballscrew system|[Download](/manuals/Oldham-Manual.pdf)|/|/|
+Oldham for Vcore|Active|![alt text](/image/Oldham1.png)<br> **Oldham** for 1204 Ballscrew system|[Download](/manuals/Oldham-Manual.pdf)|/|/|
+Oldham for Raise3D|BETA|![alt text](/image/Oldham1.png)<br> **Raise3D Oldham** for 2005 Ballscrew system|[Download](/manuals/Raise-Oldham-Manual.pdf)|/|/|
 BRS-AWD-Drives|Active|![alt text](/image/and.PNG)<br> **BRS-AWD-Drives**|[Manual](manuals/BRS-AWD-Drive-V135a.pdf)|/|/
 PMB v1.2-2.0|Active|![alt text](/image/motorblock.png)<br> Heavy duty Precision motor block|[Download](/manuals/Manual-PMB.pdf)|/||[Download](/manuals/Troubleshooting-M1-M2.pdf) 
 L3VER M1 A1.1/A1.2-Refresh|Active|![alt text](/image/tensionner7.png)<br> Heavy duty Tensionner for BRS open frame design, and Tensionnerless Head like Flathead V3 and VZbot head|[Download](/manuals/Lever-m1-manual.pdf)|/| [VIDEO](https://drive.google.com/file/d/1_cTKRS3Ra1BuopSvnplw1cQjTDOn0Drg/view?usp=sharing) | [Download](/manuals/Troubleshooting-M1-M2.pdf) 
