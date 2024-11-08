@@ -6,9 +6,10 @@ In this section you will find manuals for all upgrades.
 
 Printer Component|Status|View|Manual EN|Manual FR|Video|Troubleshooting guide EN
 -----------------|------|-----------------------------------| :----: |  :---------------: | :---------------: | :---------------:
-Z system 1.x|Active|![alt text](/image/Complete.PNG)<br> **Z-Upgrade 1** Ballscrew system|[Download](/manuals/manualEN.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)  
-Z system 2.x|Active|![alt text](/image/ZU201.png)<br> **Z-Upgrade 2** Ballscrew system|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
-Z system 2.8DE|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8DE** Ballscrew system|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
+Z system 1.x|Active|![alt text](/image/Complete.PNG)<br> **Z-Upgrade 1** Ballscrew system VCORE 3.0/3.1|[Download](/manuals/manualEN.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)  
+Z system 2.x|Active|![alt text](/image/ZU201.png)<br> **Z-Upgrade 2** Ballscrew system VCORE 3.0/3.1|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
+Z system 2.8DE|Active|![alt text](/image/Z-Upgrade-28DE.png)<br> **Z-Upgrade 2.8DE** Ballscrew system VCORE 3.0/3.1|[Download](/manuals/Z-upgrade-28DE-manual.pdf)|/||[Download](/manuals/TroubleshootingZ.pdf)
+Z system 3.0|Active|![alt text](/image/Z_upgrade_30a.png)<br> **Z-Upgrade 3.0 Ballscrew system VCORE 4|[Download](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf)|/||/
 Oldham for Vcore|Active|![alt text](/image/Oldham1.png)<br> **Oldham** for 1204 Ballscrew system|[Download](/manuals/Oldham-Manual.pdf)|/|/|
 Oldham for Raise3D|BETA|![alt text](/image/Oldham1.png)<br> **Raise3D Oldham** for 2005 Ballscrew system|[Download](/manuals/Raise-Oldham-Manual.pdf)|/|/|
 BRS-AWD-Drives|Active|![alt text](/image/and.PNG)<br> **BRS-AWD-Drives**|[Manual](manuals/BRS-AWD-Drive-V135a.pdf)|/|/
