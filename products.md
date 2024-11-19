@@ -29,8 +29,9 @@ Original and AWD version available
 
 Product|Status|View|Manual EN|Release date| Printable |Shop CAD|License
 -----------------|------|-----------------------------------| :----: |  :---------------: |  :---------------: |  :---------------: | :---------------:
-PMB Original Stock|ACTIVE|![alt text](/image/PMB24.png)<br> **PMB 1.0 Stock** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with L3VER M1 (Not compatible with L3ver M2 ||10/08/21|[Files](https://www.printables.com/model/936611-precision-motor-blocks-original-pmb)|| ![alt text](/image/by-nc-nd.png)
+PMB Original Stock|ACTIVE|![alt text](/image/PMB24.png)<br> **PMB 1.0 Stock** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with L3VER M1 (Not compatible with L3ver M2 ||10/08/21|[Files](https://www.printables.com/model/936611-precision-motor-blocks-original-pmb-awd-enclosure)|| ![alt text](/image/by-nc-nd.png)
 PMB Original for AWD layout|ACTIVE|**PMB 1.0 AWD** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with AWD Drives 1.35, L3VER M3and l3ver M1 (Not compatible with L3ver M2)||08/07/24|| ![alt text](/image/by-nc-nd.png)
+PMB Original +AWD layout + Enclosure 2.0|ACTIVE|**PMB 1.0 AWD** Reinforced rear motor block for a secured nema shaft and a shoulder bolt driven bearings for the best precision and reliability. Works with AWD Drives 1.35, L3VER M3and l3ver M1 (Not compatible with L3ver M2)||08/07/24|[Files](https://www.printables.com/model/936611-precision-motor-blocks-original-pmb-awd-enclosure)| ![alt text](/image/by-nc-nd.png)
 
 
 ### L3VER M2
