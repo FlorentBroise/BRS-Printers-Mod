@@ -1,6 +1,6 @@
 ## -/ Z SYSTEM 3.0 (For Vcore 4)
 
-# -/ Z SYSTEM 1204 3.0
+# -/ Z SYSTEM 1204/1605 3.0
 
 Adaptation of the production grade "Z-Upgrade" for VCORE 4.0
 Upgrade to replace the original Z with a ballscrew system.
@@ -9,26 +9,35 @@ Maintenance-free*. Made to last in a production line. No wobble over Z. Proofed 
 
 A lot of things has been reworked on this iteration compare to the previous Z-Upgrade 2.0:
 
-Simplification of parts list, easier implementation. direct bolt in upgrade.
-Directly bolted to the VCORE 4.0 frame and underplate. Re-use the Stock VC4 top retainers + bearings.
-No need of surelevation; the Stock VC4 feet will only need to be adjusted to the height. (+17mm)
-Compatible natively with Wobble X, Oldham V3 proofed printed rings compatible too
-Dense integration of the Oldham/Wobble X in the Arms
-Motor reduction for a very high holding torque, even when the motor aren't active. Proofed for heavy future custom bed, or bigger custom print volume machines. Vcore 500 can now run standard Nema 17 without risks of fall when the motor are powered off
-Motor reduction + ballscrew allowing an insane precision over the Z-Motion, extreme constistencies, allow thin and repetable layer over time
-No maintenance needed (cleaning+thin lubrication once a year is enough)
-Z-motors easy tension over the 6mm timing belt with 1x M6 screw
-Add +10mm of Z distance (Oldham V3), or +15mm with Wobble X
-All included, no self soucing to do.
-Only SFU1204 compatibility for now, A SFU1605 version will come soon
+-Simplification of parts list, easier implementation. direct bolt in upgrade.
+
+-Directly bolted to the VCORE 4.0 frame and underplate. Re-use the Stock VC4 top retainers (1204 version) + bearings.
+
+-No need of surelevation; the Stock VC4 feet will only need to be adjusted to the height. (+17mm)
+
+-Compatible natively with Wobble X, Oldham V3 proofed printed rings compatible too
+
+-Dense integration of the Oldham/Wobble X in the Arms
+
+-Motor reduction for a very high holding torque, even when the motor aren't active. Proofed for heavy custom bed, or bigger custom print volume machines. Vcore 500 can now run standard Nema 17 without risks of fall when the motor are powered off
+
+-Motor reduction + ballscrew allowing an insane precision over the Z-Motion, extreme constistency, allow thin and repetable layer over time
+
+-No maintenance needed (cleaning+thin lubrication once a year is enough)
+
+-Z-motors easy tension over the 6mm timing belt with 1x M5 screw
+
+-Add +10mm of Z distance (Oldham V3), or +15mm with Wobble X
+
+-All included, no self soucing to do.
  
 BOM and Manual in the making…
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
-**V3.0a 1204|![alt text](/image/Z_upgrade_30a.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume (+10-15mm bonus) than the stock machine|30/04/24| > | [STLs+STEPs](https://www.printables.com/model/870815-z-upgrade-31a-for-vcore-40-sfu1204-deprecated) | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|/
-**V3.1a/b 1204|![alt text](/image/Z_upgrade_30a.png)<br>SFU1204 + SFU1605 added. - This version is made to implement 1605 version (b) and to change all bottop plate screws to m3x20mm to simplify sourcing|12/11/24| > | [STLs+STEPs](https://www.printables.com/model/870815-z-upgrade-31a-for-vcore-40-sfu1204-deprecated0) | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|/
-**V3.2 1204|![alt text](/image/Z_upgrade_30a.png)<br>SFU1605/SFU1204 Version - This version is made to simplify the production and manufacturing on the BRS side, it merges the 1605 and 1204 designs to count less parts, StarLock design created [Z-Upgrade 3.2 PATCHNOTE.pdf](https://github.com/user-attachments/files/17843025/Z-Upgrade.3.2.PATCHNOTE.pdf)|21/11/24| > | [STLs+STEPs](https://www.printables.com/model/1033344-z-upgrade-32-for-vcore-40-sfu1605-sfu1204) | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|[SHOP ](https://store.brs-engineering.com/products/z-upgrade-3-0-sfu1605-vcore-4-0)
+**V3.0a 1204 DEPRECATED|![alt text](/image/Z_upgrade_30a.png)<br>SFU1204 Version - This version is made to simplify the integration to a stock VCORE 4 (All versions), By taking the same footprint that the stock VCORE 4 parts. You can then use the stock bottom panel you already have, and (PRECISE BOM listed bellow). NO NEED for clearance bellow the frame, tuning the stock Z feet height is enough!. This version keep the same Z volume (+10-15mm bonus) than the stock machine|30/04/24| > |  | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|/
+**V3.1a/b 1204 DEPRECATED|![alt text](/image/Z_upgrade_30a.png)<br>SFU1204 + SFU1605 added. - This version is made to implement 1605 version (b) and to change all bottop plate screws to m3x20mm to simplify sourcing|12/11/24| > |  | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|/
+**V3.2c 1204/1605 ACTIVE|![alt text](/image/Z_upgrade_30a.png)<br>SFU1605/SFU1204 Version - This version is made to simplify the production and manufacturing on the BRS side, it merges the 1605 and 1204 designs to count less parts, StarLock design created, some adjustments made on the general design [Z-Upgrade 3.2 PATCHNOTE.pdf](https://github.com/user-attachments/files/17843025/Z-Upgrade.3.2.PATCHNOTE.pdf)|21/01/25| > | [STLs+STEPs](https://www.printables.com/model/1033344-z-upgrade-32-for-vcore-40-sfu1605-sfu1204) | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|[SHOP ](https://store.brs-engineering.com/products/z-upgrade-3-0-sfu1605-vcore-4-0)
 
 
 ## -/ Z SYSTEM 2.0 (For Vcore 3.0/3.1)
