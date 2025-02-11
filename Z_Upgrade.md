@@ -6,6 +6,7 @@ Adaptation of the production grade "Z-Upgrade" for VCORE 4.0
 Upgrade to replace the original Z with a ballscrew system.
 More precise, very reliable over time, offers a very high repeatability in the Z movement compared to a trapezoidal screw.
 Maintenance-free*. Made to last in a production line. No wobble over Z. Proofed design over 2021. More than 350+ users since 2021.
+A Reinforced version of the 1605 is available too for heavy duty projects. This system has virtually no Z limitations in size, you can dream of the best you can pick ;)
 
 A lot of things has been reworked on this iteration compare to the previous Z-Upgrade 2.0:
 
@@ -30,8 +31,7 @@ A lot of things has been reworked on this iteration compare to the previous Z-Up
 -Add +10mm of Z distance (Oldham V3), or +15mm with Wobble X
 
 -All included, no self soucing to do.
- 
-BOM and Manual in the making…
+
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
