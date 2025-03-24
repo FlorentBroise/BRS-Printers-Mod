@@ -32,6 +32,8 @@ A lot of things has been reworked on this iteration compare to the previous Z-Up
 
 -All included, no self soucing to do.
 
+[GUIDE TO CHOOSE and PATCH NOTE](https://github.com/FlorentBroise/BRS-Printers-Mod/blob/main/manuals/Z-Upgrade-3.2C-Variants.pdf)
+
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
