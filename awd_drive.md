@@ -1,3 +1,24 @@
+## -/ BRS-AWD Drives for VC4.0
+
+Based on the "best seller" product of BRS-ENGINEERING, the BRS-AWD for Vcore 3/3.1, I present you the BRS-AWD V2, exclusively made for the VCORE 4.0.
+
+Why this mod? The VC4 get the Hybrid layout...
+Well most people are focused on the single toolhead setup, Hybrid CoreXY is focused for IDEX layouts. Here the BRS-AWD V2 will unlock some cool specs:
+
+-Way less complex than the Hybrid layout: you keep only the 2 CoreXY belts (XY), no need to add 2 others for Y. This give you less parts, less variables, leading to a better reliability, a better calibration, and way less maintenance. Beside that, the system is more balanced.
+-On the performance side, no need to proove AWD layouts legendary performances, it improves single toolhead acceleration, speed, but more importantly the print quality
+-Easy assembly, no modifications of the Frame needed, no need of Enclosure modifications. Require at least 30-60mm more belt lenght
+-Integrated brand new coaxial belt tensionner
+-The more dense mechanism made on any BRS upgrade so far for a small form factor&nbsp;
+
+AWD mod to add to a CoreXY Vcore 4.0, easy and reliable AWD configuration
+- Abec-5/7 bearing for an increased lifespan
+
+Version|Description|ReleaseDate|CAD|BOM|Documentation|Printable-STL|License|Order
+-------------|-----------|-----------|------------|------------|------------|------------|-----------|-----------
+**V2.0 COREXY VC4.0**|![alt text](/image/BRS-AWD-VC4.png)<br> Release |29/04/25|[STEP]SOON|[BOM]SOON|[Manual]SOON/ [Klipper-CFG]SOON| [STL Files]SOON|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
+
+
 
 ## -/ BRS-AWD Drives for VC3.0 and VC3.1
 
