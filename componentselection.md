@@ -25,8 +25,6 @@ Here few people/Companies who I want to thank, for inspiring reasons, constructi
 
 -Pawel Kucmus [EVA](https://main.eva-3d.page/)
 
--John Beima (KME)
-
 -Keegan Wentz (Wentz-dynamics)
 
 -Oleg Ok [EvoMotors](https://www.thingiverse.com/evomotors/designs) 
