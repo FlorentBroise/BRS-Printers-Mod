@@ -16,7 +16,7 @@ AWD mod to add to a CoreXY Vcore 4.0, easy and reliable AWD configuration
 
 Version|Description|ReleaseDate|CAD|BOM|Documentation|Printable-STL|License|Order
 -------------|-----------|-----------|------------|------------|------------|------------|-----------|-----------
-**V2.0 COREXY VC4.0**|![alt text](/image/BRS-AWD-VC4.png)<br> Release |29/04/25|[STEP]SOON|[BOM]SOON|[Manual]SOON/ [Klipper-CFG]SOON| [STL Files]SOON|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
+**V2.0 COREXY VC4.0**|![alt text](/image/BRS-AWD-VC4.png)<br> Release |29/04/25|[STEP]((https://www.printables.com/model/1293006-brs-awd-v20-vcore-40))|[BOM]cf Manual|[Manual](manuals/BRS_AWD_Drive_2.0_VC4.pdf)/ [Klipper-CFG]cf Manual| [STL Files](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
 
 
 
