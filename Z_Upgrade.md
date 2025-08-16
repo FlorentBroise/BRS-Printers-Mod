@@ -48,7 +48,7 @@ Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 
 Version|Description|Release Date of the illegal copy|CC infringment|Origin|Documentation|License|Action taken
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------
-**V3.x|![alt text](/image/Z_upgrade_32c.png)<br>SFU1605 Version Copy-paste product |+-June 2025| YES - BY no credits and NC comercial usage | PRINT BIG  | [Demonstration](/image/PB-CC-ZU3x.pdf) | ![alt text](/image/license.png) | PRINT BIG refuse to comply to the CC yet, no further action taken yet
+**V3.x|![alt text](/image/Z_upgrade_32c.png)<br>SFU1605 Version Copy-paste product |+-June 2025| YES - BY no credits and NC comercial usage | PRINT BIG (Core AM GmBh) | [Demonstration](/image/PB-CC-ZU3x.pdf) | ![alt text](/image/license.png) | PRINT BIG refuse to comply to the CC yet, no further action taken yet
 
 
 ## -/ Z SYSTEM 2.0 (For Vcore 3.0/3.1)
