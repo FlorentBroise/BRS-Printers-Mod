@@ -44,6 +44,12 @@ Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 **V3.2d 1204/1605 ACTIVE|![alt text](/image/Z_upgrade_32c.png)<br>SFU1605/SFU1204 Version - Upgrade or the arm design with retaining spings to secure the wobble assembly na dprevent accident or ball bearing drops [Z-Upgrade 3.2d PATCHNOTE.pdf]() Soon |16/06/25| > | [STL-STEP-F3z](https://www.printables.com/model/1033344-z-upgrade-32-for-vcore-40-sfu1605-sfu1204) | [BOM](https://docs.google.com/spreadsheets/d/1E3s1GYlrxwITHgYWx6jKaRsaI9jWW35iHJ5XEkeNflE/edit?gid=0#gid=0) | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|[SHOP ](https://store.brs-engineering.com/products/z-upgrade-3-0-sfu1605-vcore-4-0)
 **V3.2d-H 1605 ACTIVE|![alt text](image/Z_upgrade_32c-h.png.png)<br>SFU1605 Version - This is the Z-Upgrade 3.2d-H iteration (H, for heavy), It answers the need to make a very tall printer (800-1500mm) Upgrade or the arm design with retaining spings to secure the wobble assembly and prevent accidents or ball bearing drops|16/06/25| > | [STL-STEP-F3z](https://www.printables.com/model/1233695-z-upgrade-32c-h-for-tall-vcore-40-sfu1605) | BOM In progress | [MANUAL](/manuals/Z-Upgrade-3.0-Manual-1.0.pdf) |![alt text](/image/license.png)|[SHOP ](https://store.brs-engineering.com/products/z-upgrade-3-2c-sfu1605-reinforcedvcore-4-0)
 
+## -/ Creative Commons known infringment to the model
+
+Version|Description|Release Date of the illegal copy|CC infringment|Origin|Documentation|License|Action taken
+-------------|-----------|-----------|-----------|------------|------------|----------|-----------
+**V3.x|![alt text](/image/Z_upgrade_32c.png)<br>SFU1605 Version Copy-paste product |+-June 2025| YES - BY no credits and NC comercial usage | PRINT BIG  | [Demonstration](/image/PB-CC-ZU3x.pdf) | ![alt text](/image/license.png) | PRINT BIG refuse to comply to the CC yet, no further action taken yet
+
 
 ## -/ Z SYSTEM 2.0 (For Vcore 3.0/3.1)
 
