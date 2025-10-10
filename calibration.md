@@ -26,6 +26,21 @@ Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
 Getting the good Z Height|Rotation_Distance|Print a normal 30x30 cube, I personnaly use a raft to absorb the first layer thickness imprecision, mesure it and use the conversion table to find the good value| [Conversion Table](https://docs.google.com/spreadsheets/d/1FKyyWfHV8zdZKKFCmgh5MvTFCjXNV37kUfqWGvWRDxo/edit#gid=0)
 
+## 5. Bed Mesh tips to master first layer
+Objective|Advices
+-------|-------
+Master a perfect first layer|Use a Beacon or Cartographer probe type with 150; 150 scan points
+------------------------
+#|Steps|Link
+-------|-------|-------
+1|Implement you Probe settings with the correct offsets from the nozzle|
+2|Add the Axis twist configuration to you machine|[Klipper Axis twist](https://www.klipper3d.org/Axis_Twist_Compensation.html)
+3|Heat soak the bed to 80°C, Heat the nozzle to 200°C, HOME, Z-TILT, Axis twist procedure form the above link for X and Y, SAVE_CONFIG|
+4|Heat soak the bed to 80°C, Heat the nozzle to 200°C, HOME, Z-TILT, Make you BED MESH calibration, SAVE_CONFIG|
+5|Start a print, baby step the Z to match the perfect layer thickness. SAVE|
+
+This would be the best procedure to get it work with precision
+
 ____________________________________________________________________________________  
 
 Special Thanks to the helpfull content of Mickael from TeachingTech
