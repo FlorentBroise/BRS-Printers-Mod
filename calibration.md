@@ -1,17 +1,20 @@
 ![alt text](/image/calibration.png)
 # CALIBRATION OF YOUR MACHINE
+## 1. Motor SYNC (AWD only)
+[How to](https://www.youtube.com/watch?v=so9oqJyirKY)
+Improve drastically the print quality, noise and Input-shaper
 
-## 1. EXTRUDER Rotation_Distance
+## 2. EXTRUDER Rotation_Distance
 Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
 Getting the good extrusion|Rotation_Distance|mark the filament at 120mm from your extruder, Extrude 100mm, make the calculation to retrieve the good number, TeachingTech webstite include the step/mm calculation, then use my table to get the conversion into Rotation_distance units|[Calculation](https://teachingtechyt.github.io/calibration.html#esteps) [Conversion Table](https://docs.google.com/spreadsheets/d/1FKyyWfHV8zdZKKFCmgh5MvTFCjXNV37kUfqWGvWRDxo/edit#gid=0)
 
-  
-## 2. Flow
+## 3. Flow
 Objective|Setting|Comments|Link
 -------|-------|-----------------|-------
 Getting the good width|Flow (Slicer)|Print a 30x30mm cube in vase mode, check the width of the layer |[Calculation](https://teachingtechyt.github.io/calibration.html#flow) [Conversion Table](https://docs.google.com/spreadsheets/d/1FKyyWfHV8zdZKKFCmgh5MvTFCjXNV37kUfqWGvWRDxo/edit#gid=0)
-## 3. Adjusting belts tensions.
+
+## 4. Adjusting belts tensions.
 Section|Setting|Recommended Value|details|Calculation sheet
 -------|-------|-----------------|------- |-------
 Getting Equalize on the CoreXY principle|Rotation_Distance|Follow the [Instruction](/manuals/belt.pdf)|[Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum&hl=fr&gl=US) | [Download](/manuals/Belt_Tension_Calculations.ods)
