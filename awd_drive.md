@@ -18,8 +18,9 @@ Version|Description|ReleaseDate|CAD|BOM|Documentation|Printable-STL|License|Orde
 -------------|-----------|-----------|------------|------------|------------|------------|-----------|-----------
 **V2.0 COREXY VC4.0**|![alt text](/image/BRS-AWD-VC4.png)<br> Release|29/04/25|[STEP](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|[BOM]cf Manual|[Manual](manuals/BRS_AWD_Drive_2.0_VC4.pdf)/ [Klipper-CFG]cf Manual| [STL Files](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
 **V2.1 COREXY VC4.0 + VC3.0/3.1**|![alt text](/image/BRS-AWD-VC4.png)<br> Works for All VCORE machines|30/9/25|[STEP](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|[BOM]cf Manual|[Manual](manuals/BRS_AWD_Drive_2.0_VC4.pdf)/ [Klipper-CFG]cf Manual| [STL Files](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
-(/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
 **V2.2 COREXY VC4.0/4.1 + VC3.0/3.1**|![alt text](/image/BRS-AWD-VC4.png)<br> Works for All VCORE machines|01/01/26|[STEP](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|[BOM]cf Manual|[Manual](manuals/BRS_AWD_Drive_2.0_VC4.pdf)/ [Klipper-CFG]cf Manual| [STL Files](https://www.printables.com/model/1293006-brs-awd-v20-vcore-40)|![alt text](/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
+
+(/image/license.png)|[SHOP](https://store.brs-engineering.com/products/brs-awd-drive-v2-full-kit)
 
 
 
