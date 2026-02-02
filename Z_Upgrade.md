@@ -16,7 +16,7 @@ Parts count reduced, hardware quantity reduced, steps of assembly reduced, price
 
 Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
 -------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
-**V4.0a 1605 ACTIVE|![alt text](/image/Z_upgrade_4.png)<br>SFU1605 Version - Release |01/02/26| > | [Files](https://www.printables.com/model/1577140-z-upgrade-40-for-vcore-4041)| [BOM]In Progress | [MANUAL]In Progress |![alt text](/image/license-1.png)|/
+**V4.0a 1605 ACTIVE|![alt text](/image/Z_upgrade_4.png)<br>SFU1605 Version - Release |01/02/26| > | [Files](https://www.printables.com/model/1577140-z-upgrade-40-for-vcore-4041)| [BOM]In Progress | [MANUAL]In Progress |![alt text](/image/CC_BY-NC-ND.png)|/
 
 # -/ Z SYSTEM 1204/1605 3.0
 
