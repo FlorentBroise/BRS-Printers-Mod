@@ -1,5 +1,23 @@
 ## -/ Z SYSTEM 3.0 (For Vcore 4)
 
+# -/ Z SYSTEM 1204/1605 4.0
+
+A Z-Upgrade complete overhaul for VCORE 4.0/4.1
+The Z-Upgrade replace the original Z system with a ballscrews driven system.
+More precise, more reliable over time, it offers a very high repeatability and a perfect consistancy in layer staking compared to a trapezoidal screw.
+Maintenance-free and made to last in a production line. No wobble over Z.
+Proofed design since 2021. More than 450+ happy users
+
+Lifetime support and warranty over the parts
+
+Integrated design pushed further to maximize fonctions and size to keep the whole print Z volume
+Following the feedbacks, tests, assemblies, this version is born to simplify, and solve all the little things from the 3.x versions.
+Parts count reduced, hardware quantity reduced, steps of assembly reduced, price reduced!
+
+Version|Description|ReleaseDate|CAD|Printable|BOM|Documentation|License|Order
+-------------|-----------|-----------|-----------|------------|------------|----------|-----------|-----------
+**V4.0a 1605 ACTIVE|![alt text](/image/Z_upgrade_4.png)<br>SFU1605 Version - Release |01/02/26| > | [Files](https://www.printables.com/model/1577140-z-upgrade-40-for-vcore-4041)| [BOM]In Progress | [MANUAL]In Progress |![alt text](/image/license.png)|/
+
 # -/ Z SYSTEM 1204/1605 3.0
 
 Adaptation of the production grade "Z-Upgrade" for VCORE 4.0
